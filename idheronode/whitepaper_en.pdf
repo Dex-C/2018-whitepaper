@@ -1,0 +1,935 @@
+<html>
+
+<head>
+    <title>Hero Node - The next generation decentralized Blockchain fog computing platform</title>
+    <meta charset="utf-8">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="viewport" content="width=device-width,user-scalable=no">
+     
+    <link href="https://cdn.tangguo360.com/heronodecdn/iconfont.css" rel="stylesheet">
+    <link href="https://cdn.tangguo360.com/heronodecdn/swiper-3.4.2.min.css" rel="stylesheet">
+    <link href="https://cdn.tangguo360.com/heronodecdn/animate.min.css" rel="stylesheet">
+    <link href="https://cdn.tangguo360.com/heronodecdn/main-20180530.css" rel="stylesheet">
+    <link href="/public/theme/patch.css" rel="stylesheet"/>
+    
+    <!-- Piwik -->
+    <script type="text/javascript">
+    var _paq = _paq || [];
+    /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+    _paq.push(['trackPageView']);
+    _paq.push(['enableLinkTracking']);
+    (function() {
+        var u="//piwik.heronode.io/";
+        _paq.push(['setTrackerUrl', u+'piwik.php']);
+        _paq.push(['setSiteId', '1']);
+        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+        g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+    })();
+    </script>
+    <!-- End Piwik Code -->
+
+</head>
+
+<body id="index">
+    <header id="header">
+    <canvas id="canvas"></canvas>
+        <nav>
+            <div class="logo-wrap">
+                <a class="logo" href="/"><img src="/public/theme/asset/logo_white.png" alt=""></a>
+            </div>
+                
+                <section class="right">
+                    <ul class="menu">
+                        <li class="item"><a href="#intro">Intro</a></li>
+                        <li class="item"><a href="#plan">Roadmap</a></li>
+                        <li class="item"><a href="#team">Team</a>
+                        <li class="item"><a href="#partner">Investors</a></li>
+                        <li class="item"><a href="/dapps">Hero Dapps</a></li>
+                        <li class="item"><a target="_blank" href="/incentives">Incentives</a></li>
+                        <li class="item"><a href="http://106.14.187.240/dashboard/geo" target="_blank"> Node Info</a></li>
+                        <li class="item"><a href="/faq">Q&A</a></li>
+                        <li class="item"><a href="https://github.com/hero-node" target="_blank"><i class="icon iconfont icon-github"></i>&nbsp;GitHub</a></li>
+                    </ul>
+                    <section class="links">
+                        <a href="/public/whitepapers/whitepaper_en.pdf" class="whitepaper" target="_blank">Whitepaper</a>
+                    </section>
+                    <button class="nav-toggle">☰</button>
+                </section>
+        </nav>
+        
+            
+            
+       
+</header>
+     
+
+<article class="main">
+        <section class="container dark-light nobg features">
+            <div class="intro-wrap" id="intro">
+                <div class="intro-title">
+                    <div>Hero Node</div>
+                    <div>THAT WORKS AS</div>
+                    <div>A BAAS PLATFORM</div>
+                </div>
+                <div class="intro-line">
+                    <div class="intro">
+                        <i class="icon iconfont icon-dev"></i>
+                        <div class="info">
+                            <h2 class="head">Compatible Public Blockchain </h2>
+                            <p class="desc">Hero Node is compatible with all existing public blockchains that support smart contracts in the market, including ETH, QTUM, IPFS， and provides a unified API interface
+                            </p>
+                            <ul class="list">
+                                <li class="item"><code>heronode add eth</code></li>
+                                <li class="item"><code>heronode add qtum</code></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="intro">
+                        <i class="icon iconfont icon-source_tree"></i>
+                        <div class="info">
+                            <h2 class="head">Rapid Deployment</h2>
+                            <p class="desc align">using<code>heronode run <img class="enter" src="/public/theme/asset/enter.svg"></code>Start a node within 5 seconds!</p>
+                        </div>
+                    </div>
+                    <div class="intro">
+                        <i class="icon iconfont icon-control"></i>
+                        <div class="info">
+                            <h2 class="head">Cross Public Blockchain Development</h2>
+                            <p class="desc">Hero Node supports store different data on different blockchain for development</p>
+                        </div>
+                    </div>
+                    <div class="intro">
+                        <i class="icon iconfont icon-server"></i>
+                        <div class="info">
+                            <h2 class="head">Fully Decentralized</h2>
+                            <p class="desc">Hero Node supports public blockchain synchronization, secure storage, FAAS, and decentralized node maintained by miners</p>
+                        </div>
+                    </div>
+                    <div class="intro">
+                        <i class="icon iconfont icon-prototype"></i>
+                        <div class="info">
+                            <h2 class="head">Convenient For Development</h2>
+                            <p class="desc">Provides multi-stack SDK, iOS, Android, Web and various API calls</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <img src="/public/theme/asset/marketing-icon.png" class="bg">
+        </section>
+        <section class="container dark nobg features">
+            <div class="intro-wrap right">
+                <div class="intro-title">
+                    <div>HERO</div>
+                    <div>Write Once, Run Anywhere</div>
+                </div>
+                <div class="intro-line">
+                    <div class="intro">
+                        <i class="icon iconfont icon-js_framerwork"></i>
+                        <div class="info">
+                            <h2 class="head">Use Javascript to develop the full platform DApp</h2>
+                            <p class="desc">DApp can run on iOS, Android, Web platform</p>
+                        </div>
+                    </div>
+                    <div class="intro">
+                        <i class="icon iconfont icon-files"></i>
+                        <div class="info">
+                            <h2 class="head">Write once, run anywhere</h2>
+                            <p class="desc">Rapidly Hot deployment of your DApp</p>
+                        </div>
+                    </div>
+                    <div class="intro">
+                        <i class="icon iconfont icon-laptop"></i>
+                        <div class="info">
+                            <h2 class="head">More user-friendly writing interface of smart contract</h2>
+                            <p class="desc">Blockchain development only needs basic knowledge and does not need to master various blockchain agreements and bottoms</p>
+                        </div>
+                    </div>
+                    <div class="intro">
+                        <i class="icon iconfont icon-nocenter"></i>
+                        <div class="info">
+                            <h2 class="head">Fully decentralized visit</h2>
+                            <ul class="desc list">
+                                <li class="item">
+                                    <code>IPFS</code>: support the deployment on IPFS
+                                </li>
+                                <li class="item">
+                                    <code>SmartContract</code>: support rapidly deploy the smart contract to all the public blockchain
+                                </li>
+                                <li class="item">
+                                    <code>Hero Node</code>: will deploy more than 100 nodes in the world over the next few years and allow anyone to install Hero Node independently
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <img src="/public/theme/asset/website-icon.png" class="bg right">
+        </section>
+        <section class="container dark-light nobg features">
+            <div class="intro-wrap" id="intro">
+                <div class="intro-title">
+                    <div>Easy Use</div>
+                </div>
+                <div class="intro-line">
+                    <div class="intro">
+                        <i class="icon iconfont icon-cpu"></i>
+                        <div class="info">
+                            <h2 class="head">No Server required</h2>
+                            <p class="desc">Hero node synchronizes data and files based on global nodes without requiring a centralized server
+                            </p>
+                        </div>
+                    </div>
+                    <div class="intro">
+                        <i class="icon iconfont icon-Target"></i>
+                        <div class="info">
+                            <h2 class="head">No domain name required</h2>
+                            <p class="desc align">Directly access to the address,  fast arrival</p>
+                        </div>
+                    </div>
+                    <div class="intro">
+                        <i class="icon iconfont icon-no_sql"></i>
+                        <div class="info">
+                            <h2 class="head">No database required</h2>
+                            <p class="desc">All the data are stored on the blockchain, safe and reliable</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <img src="/public/theme/asset/direction-icon.png" alt="" class="bg">
+        </section>
+        <section class="container dark nobg features">
+            <div class="intro-wrap right">
+                <div class="intro-title">
+                    <div>Fog Computing vs Cloud Computing</div>
+                </div>
+                <div class="intro-line">
+                    <div class="intro">
+                        <i class="icon iconfont icon-safe"></i>
+                        <div class="info">
+                            <h2 class="head">You will not worry about data loss by using Fog computing</h2>
+                            <p class="desc">Compared to Cloud computing, fog computing are more guaranteed in data security</p>
+                        </div>
+                    </div>
+                    <div class="intro">
+                        <i class="icon iconfont icon-aislogo"></i>
+                        <div class="info">
+                            <h2 class="head">Fog computing solves the problem of a minority controlling the entire network</h2>
+                            <p class="desc">Compared to Cloud computing, fog computing allows the majority to make decisions on the trend of entire network</p>
+                        </div>
+                    </div>
+                    <div class="intro">
+                        <i class="icon iconfont icon-runlife"></i>
+                        <div class="info">
+                            <h2 class="head">The bankruptcy of commercial companies of fog computing does not affect the operation of existing applications</h2>
+                            <p class="desc">Compared to Cloud computing, nodes of fog computing will not be affected by the bankruptcy of some entities</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <img src="/public/theme/asset/communication-icon.png" alt="" class="bg right">
+        </section>
+        <section class="container dark-light nobg video">
+        
+            <a href="#" class="play" onclick="lightboxOpen();">
+                <i class="icon iconfont icon-play"></i>
+            </a>
+            <img src="/public/theme/asset/video.png" class="bg">
+        
+        </section>
+        <section class="container dark logo-bg plans" id="plan">
+            <div class="section">
+                <h1 class="title small">
+                    <span> Roadmap</span>
+                </h1>
+                <ul class="timeline">
+                     <li class="stone">
+                        <div class="direction-r">
+                            <div class="flag-wrapper">
+                                <span class="flag">Implementation</span>
+                            </div>
+                        </div>
+                    </li>
+                     <li class="active">
+                        <div class="direction-r">
+                            <div class="flag-wrapper">
+                                <span class="flag">By the end of April, 2018</span>
+                            </div>
+                            <div class="desc">the production node will be implemented, including basic functions such as Ethereum, IPFS, etc.</div>
+                        </div>
+                    </li>
+                     <li class="active">
+                        <div class="direction-l">
+                            <div class="flag-wrapper">
+                                <span class="flag">By the end of June, 2018</span>
+                            </div>
+                            <div class="desc">the Hero Node official DApp will be launched, and more nodes will be deployed.</div>
+                        </div>
+                    </li>
+                    <li >
+                        <div class="direction-r">
+                            <div class="flag-wrapper">
+                                <span class="flag">By the end of August 2018</span>
+                            </div>
+                            <div class="desc">more unofficial DApps will be launched and the nodes will support more public chains.</div>
+                        </div>
+                    </li>
+                    <li >
+                        <div class="direction-l">
+                            <div class="flag-wrapper">
+                                <span class="flag">By the end of December 2018</span>
+                            </div>
+                            <div class="desc">the DApp development environment SDK and other tools will be completed and mature.</div>
+                        </div>
+                    </li>
+                    <li class="stone">
+                        <div class="direction-r">
+                            <div class="flag-wrapper">
+                                <span class="flag">Incentives</span>
+                            </div>
+                            <div class="desc"></div>
+                        </div>
+                    </li>
+                     <li >
+                        <div class="direction-r">
+                            <div class="flag-wrapper">
+                                <span class="flag">By the end of January 2019</span>
+                            </div>
+                            <div class="desc">the Hero Node node will allow anyone to run it and get incentive tokens. The tokens will be issued at a relatively fixed amount automatically in a semi-centralized way.</div>
+                        </div>
+                    </li>
+                    <li class="stone">
+                        <div class="direction-l">
+                            <div class="flag-wrapper">
+                                <span class="flag">To the community</span>
+                            </div>
+                            <div class="desc"></div>
+                        </div>
+                    </li>
+                     <li >
+                        <div class="direction-l">
+                            <div class="flag-wrapper">
+                                <span class="flag">By the end of December 2019</span>
+                            </div>
+                            <div class="desc">We already have consensus algorithms based on POWs and POCs in research and development. After we confirm that it has been mature enough, we will make it possible to obtain the incentive tokens by consensus algorithms automatically. The bookkeeping of token will be achieved by its own public chain.</div>
+                        </div>
+                    </li>
+                </ul>
+               
+            </div>
+        </section>
+       
+        <section class="container dark-light logo-bg cases nobg" id="team">
+            <div class="section">
+                <div class="title small">
+                   <span> Team</span>
+                    <div class="subtitle">Our founding team members mainly come from the top financial technology companies such as Dianrong</div>
+                    
+                </div>
+                <div class="content">
+                    <ul class="members">
+							<li><div>
+								<img src="/public/theme/asset/avatar/guoping.jpg">
+                                </div>
+                                <p class="name">Guoping Liu</p>
+                                <p class="title">Founder, the author of Hero Cross-platform development framework, serial entrepreneur</p>
+                                <a class="linkedin-link" target="_blank" href="https://www.linkedin.com/in/guoping-liu-06aa8815a/">
+                                    <img src="/public/theme/asset/linkedin.png">
+                                </a>
+							</li>
+                            <li><div>
+								<img src="/public/theme/asset/avatar/daniel.jpg">
+                                </div>
+                                <p class="name">Daniel Li</p>
+                                <p class="title">Experts of Distributed Database,  senior developer of Blockchain</p>
+                                <a class="linkedin-link" target="_blank" href="https://www.linkedin.com/in/daniel-lixiao/">
+                                    <img src="/public/theme/asset/linkedin.png">
+                                </a>
+							</li>
+                            <li><div>
+								    <img src="/public/theme/asset/avatar/carl.jpg">
+                                </div>
+                                <p class="name">Carl Zhu</p>
+                                <p class="title">the author of Hero Cross-platform development framework, years of blockchain development experience</p>
+                                <a class="linkedin-link" target="_blank" href="https://www.linkedin.com/in/carl-zhu-21538092/">
+                                    <img src="/public/theme/asset/linkedin.png">
+                                </a>
+							</li>
+                            <li>
+                                <div>
+								    <img src="/public/theme/asset/avatar/jacob.jpg">
+                                </div>
+                                <p class="name">Jacob Yu</p>
+                                <p class="title">Geek, Entrepreneur, ten years’ development experience, full stack developer</p>
+                                <a class="linkedin-link" target="_blank" href="https://www.linkedin.com/in/shevckeo/">
+                                    <img src="/public/theme/asset/linkedin.png">
+                                </a>
+							</li>
+                            <li>
+                            <div>
+								<img src="/public/theme/asset/avatar/mason.jpg">
+                                </div>
+                                <p class="name">Mason Zhang</p>
+                                <p class="title">Years of development experience, senior developer of Blockchain</p>
+                                <a class="linkedin-link" target="_blank" href="https://www.linkedin.com/in/ruoxin-zhang/">
+                                    <img src="/public/theme/asset/linkedin.png">
+                                </a>
+							</li>
+                            <li>
+                            <div>
+								<img src="/public/theme/asset/avatar/john.jpg">
+                                </div>
+                                <p class="name">John Patrick</p>
+                                <p class="title">Overseas Director of Business Strategy, LinkedIn FinTech Influencer, APAC Regional Director FinTech Connector and former research analyst at Guotai Junan Securities</p>
+                                <a class="linkedin-link" target="_blank" href="https://www.linkedin.com/in/john-patrick-mullin/">
+                                    <img src="/public/theme/asset/linkedin.png">
+                                </a>
+							</li>
+                            <li>
+                            <div>
+								<img src="/public/theme/asset/avatar/bella.jpg"></div>
+                                <p class="name">Bella Yang</p>
+                                <p class="title">Data scientist, worked at FaceBook, Airbnb and other unicorn companies in Silicon Valley</p>
+                                <a class="linkedin-link" target="_blank" href="https://www.linkedin.com/in/conghuiyang/">
+                                    <img src="/public/theme/asset/linkedin.png">
+                                </a>
+							</li>
+                            <li>
+                            <div>
+								<img src="/public/theme/asset/avatar/lilian.jpg">
+                                </div>
+                                <p class="name">Lilian Lin</p>
+                                <p class="title">CMO, she received a master degree of Illinois Institute of Technology in America, served as branding director in Volkswagen, PPDF and Wheat Financial</p>
+							</li>
+                            <li>
+                            <div>
+								<img src="/public/theme/asset/avatar/eric.jpg"></div>
+                                <p class="name">Eric Clark Su</p>
+                                <p class="title">Oversea Partner</p>
+                                <a class="linkedin-link" target="_blank" href="https://www.linkedin.com/in/ericsu/">
+                                    <img src="/public/theme/asset/linkedin.png">
+                                </a>
+							</li>
+					</ul>
+                </div>
+            </div>
+        </section>
+        <section class="container dark logo-bg cases nobg" id="adviser">
+            <div class="section">
+                <div class="title small">
+                    <span>Consultant</span>
+                    <div class="subtitle">The platform for the industry celebrities</div>
+                </div>
+                <div class="content">
+                    <ul class="members">
+							<li><div>
+								<img src="/public/theme/asset/avatar/kevin.jpg"></div>
+                                <p class="name">Kevin Guo</p>
+                                <p class="title">The founder of StarWin Capital</p>
+                                <a class="linkedin-link" target="_blank" href="https://www.linkedin.com/in/kevin-guo-56b82556/">
+                                    <img src="/public/theme/asset/linkedin.png">
+                                </a>
+							</li>
+                            <li><div>
+								<img src="/public/theme/asset/avatar/wyh.jpg"></div>
+                                <p class="name">Richard Wang</p>
+                                <p class="title">DFJ DragonFund China</p>
+                                <a class="linkedin-link" target="_blank" href="https://www.linkedin.com/in/richardwang/">
+                                    <img src="/public/theme/asset/linkedin.png">
+                                </a>
+							</li>
+                            <li><div>
+								<img src="/public/theme/asset/avatar/ljr.jpg"></div>
+                                <p class="name">Jerry Liu</p>
+                                <p class="title">Research Fellow, Center for Internet and Society, Stanford University</p>
+                                <a class="linkedin-link" target="_blank" href="https://www.linkedin.com/in/jiarui-liu-b117468/">
+                                    <img src="/public/theme/asset/linkedin.png">
+                                </a>
+							</li>
+					</ul>
+                </div>
+            </div>
+        </section>
+        <section class="container dark-light logo-bg cases nobg short" id="partner">
+            <div class="section">
+                <div class="title small"><span>Institutional investors</span></div>
+                <div class="content">
+                    <ul class="menu">
+							<li class="menu-text">
+								<img src="/public/theme/asset/avatar/PC_xinghe_icon@2x.png" alt="StarWin">
+							</li>
+							<li class="menu-text">
+								<img src="/public/theme/asset/avatar/PC_qtum_icon@2x.png" alt="Qtum">
+							</li>
+                            <li class="menu-text">
+								<img src="/public/theme/asset/avatar/PC_fenbushi_icon@2x.png" alt="Fenbushi">
+							</li>
+                            <li class="menu-text">
+								<img src="/public/theme/asset/avatar/PC_rootscap_icon@2x.png" alt="RootCap">
+							</li>
+                            <li class="menu-text">
+								<img src="/public/theme/asset/avatar/PC_ito_icon@2x.png" alt="ITC">
+							</li>
+                            <li class="menu-text">
+								<img src="/public/theme/asset/avatar/PC_benrui_icon@2x.png" alt="BM">
+							</li>
+                            <li class="menu-text">
+								<img src="/public/theme/asset/avatar/PC_bitrise_icon@2x.png" alt="BC" >
+							</li>
+                            <li class="menu-text" >
+								<img src="/public/theme/asset/avatar/PC_brand_icon@2x.png" alt="INK">
+							</li>
+                            <li class="menu-text">
+								<img src="/public/theme/asset/avatar/PC_gifto_icon@2x.png" alt="GTO">
+							</li>
+                            <li class="menu-text">
+								<img src="/public/theme/asset/avatar/PC_ko369_icon@2x.png" alt="369">
+							</li>
+					</ul>
+                </div>
+            </div>
+        </section>
+        <section class="container dark logo-bg cases nobg short" id="media">
+            <div class="section">
+                <div class="title small"><span>Media</span></div>
+                <div class="content">
+                    <ul class="media-ul">
+							<a class="media-li" target="_blank" href="https://36kr.com/p/5115803.html">
+								<img src="/public/theme/asset/media/PC_36kr_icon@2x.png">
+							</a>
+                            <a class="media-li" target="_blank" href="http://www.gongxiangcj.com/zl_authors/74">
+								<img src="/public/theme/asset/media/PC_gongxiang_icon@2x.png">
+							</a>
+                            <a class="media-li" target="_blank" href="https://www.jinse.com/member/89135">
+								<img src="/public/theme/asset/media/PC_jinse_icon@2x.png">
+							</a>
+                            <a class="media-li" target="_blank" href="http://mp.sohu.com/profile?xpt=OTgyODUwNzM1NDQyMjEwODE2QHNvaHUuY29t&_f=index_pagemp_1">
+								<img src="/public/theme/asset/media/PC_souhu_icon@2x.png">
+							</a>
+                            <a class="media-li" target="_blank" href="https://bihu.com/people/347231/?index=1">
+								<img src="/public/theme/asset/media/PC_bihu_icon@2x.png">
+							</a>
+                            <a class="media-li" target="_blank" href="https://www.toutiao.com/i6540549449993683470/">
+								<img src="/public/theme/asset/media/PC_toutiao_icon@2x.png">
+							</a>
+                            <a class="media-li" target="_blank" href="http://v.youku.com/v_show/id_XMzM0OTQ1NTg0NA==.html">
+								<img src="/public/theme/asset/media/PC_youku_icon@2x.png">
+							</a>
+                            <a class="media-li" target="_blank" href="https://cloud.tencent.com/developer/news/173287">
+								<img src="/public/theme/asset/media/PC_tengxunyun_icon@2x.png">
+							</a>
+                            <a class="media-li" target="_blank" href="https://www.reddit.com/user/HeroNode-official">
+								<img src="/public/theme/asset/media/PC_reddit_icon@2x.png">
+							</a>
+                            <a class="media-li" target="_blank" href="https://medium.com/@hero_node">
+								<img src="/public/theme/asset/media/PC_medium_icon@2x.png">
+							</a>
+                            <a class="media-li" target="_blank" href="https://www.pencilnews.cn/p/17530.html">
+								<img src="/public/theme/asset/media/PC_pencil_icon@2x.png">
+							</a>
+                            <a class="media-li" target="_blank" href="http://www.woshipm.com/u/671636">
+								<img src="/public/theme/asset/media/PC_renren_icon@2x.png">
+							</a>
+                            <a class="media-li" target="_blank" href="https://xueqiu.com/4582915081/column">
+								<img src="/public/theme/asset/media/PC_xueqiu_icon@2x.png">
+							</a>
+                            <a class="media-li" href="#">
+								<img src="/public/theme/asset/media/PC_shenglue_icon@2x.png">
+							</a>
+					</ul>
+                </div>
+            </div>
+        </section>
+        <section class="container dark-light news short">
+            <div class="section news">
+                <header class="title"><span>They say </span></header>
+                <div class="swiper-container">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <div class="word">"With the needs of people pursuing fairness, trust and security, I think that blockchain application (DApp) will be a great development in the next 10 years"</div>
+                            <div class="name">Kevin Guo</div>
+                            <div class="intro">The founder of StarWin Capital</div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="word">"Hero is the most hack technical team I have ever met, and Hero Node itself is a very innovative product, and I believe it will become one of the infrastructures in the blockchain world"</div>
+                            <div class="name">Richard Wang</div>
+                            <div class="intro">DFJ DragonFund China</div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="word">"Recommend Hero Node to you, it’s a very innovative concept which will surely be the new form of future applications"</div>
+                            <div class="name">Jerry Liu</div>
+                            <div class="intro">Research fellow of Internet and social center of Stanford University</div>
+                        </div>
+                    </div>
+                    <div class="swiper-pagination"></div>
+                </div>
+            </div>
+        </section>
+        
+            <section class="main container codes dark">
+                <div class="wrap">
+                    <div class="cloud-wrap">
+                        
+                        <div id="code" class="code">
+                            $
+                            <div class="line type" text="npm install -g heronode"></div>
+                            <br>
+                            <div class="line type" text="$ heronode add eth"></div>
+                            <br>
+                            <div class="line result" text="Ether is added"></div>
+                            <br>
+                            <div class="line type" text="$ heronode add qtum"></div>
+                            <br>
+                            <div class="line result" text="Qtum is added"></div>
+                            <br>
+                            <div class="line type" text="$ heronode add ipfs"></div>
+                            <br>
+                            <div class="line result" text="IPFS is added"></div>
+                            <br>
+                            <div class="line type" text="$ heronode run"></div>
+                            <br>
+                            <div class="line result" text="HeroNode is running..."></div>
+                        </div>
+                        
+                    </div>
+                        <img class="cloud" src="public/theme/asset/laptop.png">
+
+                </div>
+            </section>
+       
+        <section class="container" id="token" style="display:none">
+            <div class="section news">
+                <header class="title">Token</header>
+                <article class="content">
+                    <div id="token-distribution">
+                    </div>
+                    <div id="token-details">
+                        
+                    </div>
+                </article>
+            </div>
+        </section>
+</article>
+
+<div id="video-box" style="display:none">
+  <a class="boxclose" id="boxclose" onclick="lightboxClose();">
+    <i class="icon iconfont icon-close"></i>
+  </a>
+  <video id="IntroVideo" width="80%" controls controlsList="nodownload">
+      <source src="https://cdn.tangguo360.com/intro.mp4" type="video/mp4">
+      <!--Browser does not support <video> tag -->
+  </video>
+</div>
+
+
+    <footer id="footer">
+        <article class="content">
+            <div class="form" style="display:none">
+                <div class="center">
+                    <div class="title">立即启动</div>
+                    <ul class="start">
+                        <li class="item">
+                            <div class="circle">
+                                <span class="orange"><i class="icon iconfont icon-user"></i></span>
+                            </div>
+                            <div class="desc">注册账号</div>
+                        </li>
+                        <li class="item">
+                            <div class="circle">
+                                <span class="orange"><i class="icon iconfont icon-lock"></i></span>
+                            </div>
+                            <div class="desc">KYC认证</div>
+                        </li>
+                        <li class="item">
+                            <div class="circle">
+                                <span class="orange"><i class="icon iconfont icon-command"></i></span>
+                            </div>
+                            <div class="desc">使用ETH开启众筹</div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="media">
+                <div class="copyright">© 2018. Hero Node Foundation All Rights Reserved</div>
+                <form class="subscribe">
+                    <input type="email" name="email" class="email" placeholder="Enter your email" required="">
+                    <i class="icon iconfont icon-email"></i>
+                    <input type="submit" data-csrf=dFUKTJWl-PwugC5e016S61Df4Gheg6lyyDYA class="subscribe-button" value="Subscribe">
+                
+<input type="hidden" name="_csrf" value="dXXOQzIW-JYwqUHQhKpfoKb5ckApDm4ae-WI" /></form>
+                <ul class="social-list">
+    <li class="item"><a href="https://github.com/hero-node" target="_blank"><i class="icon iconfont icon-github"></i></a></li>
+    <li class="item wechat">
+        <a href="#" target="_blank">
+            <i class="icon iconfont icon-wechat"></i>
+        </a>
+        <div class="wechat-image" style="display:none">
+            <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAIAAgADASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD9U6KKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAoooo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">
+            <span>wechat: node-node</span>
+        </div>
+    </li>
+    <li class="item"><a href="https://t.me/HeroNode2" target="_blank"><i class="icon iconfont icon-telegram"></i></a></li>
+    <li class="item"><a href="https://twitter.com/hero_node" target="_blank"><i class="icon iconfont icon-twitter"></i></a></li>
+    <li class="item"><a href="https://medium.com/@hero_node" target="_blank"><img src="/public/theme/asset/media/m.png" style="width:27px"></a></li>
+    <li class="item"><a href="https://www.reddit.com/r/HeroNodeOfficial/" target="_blank"><img src="/public/theme/asset/media/r.png" style="width:27px"></a></li>
+    
+</ul>
+            </div>
+        </article>
+    </footer>
+    
+    <script src="https://cdn.tangguo360.com/heronodecdn/jquery-3.2.1.min.js"></script>
+    <script src="https://cdn.tangguo360.com/heronodecdn/main.js"></script>
+    
+<script src="/public/lib/swiper/swiper-3.4.2.jquery.min.js"></script>
+<script src="/public/lib/echarts.common.min.js"></script>
+<script src="/public/lib/typedjs/lib/typed.min.js"></script>
+
+<script> 
+new Swiper('.swiper-container', {
+  loop: true,
+  autoplay: 3000,
+  pagination: '.swiper-pagination',
+  paginationClickable: true,
+});
+
+var typeds = [];
+function setupTyped() {
+  if (typeds.length > 0) {
+    typeds.forEach(function(typed) {
+      typed.destroy();
+    });
+    typeds = [];
+  }
+  var lines = $('#code .line');
+  lines.each(function(index, element) {
+    var _this = $(element);
+    _this.html('');
+    var isResult = _this.hasClass('result') ? true : false;
+    setTimeout(function() {
+      if (isResult) {
+        _this.html(_this.attr('text'));
+      } else {
+        var typed = new Typed(element, {
+          strings: [ _this.attr('text') ],
+          typeSpeed: 80,
+          startDelay: 0,
+          onComplete: function(pos, self) { 
+            $('.typed-cursor').remove();
+          },
+        });
+        typeds.push(typed);
+      }
+    }, 3000 * index); 
+  });
+}
+
+setupTyped();
+setInterval(setupTyped, 25000);
+
+$('#index .plans .slider .items .item').hover(function() {
+  $('#index .plans .slider .items .item').removeClass('active');
+  $(this).addClass('active');
+  var text = $(this).attr('text');
+  var date = $(this).children(".type").text();
+
+  $('#index .plans .detail .type').html(date);
+  $('#index .plans .detail .target').html(text);
+});
+
+function lightboxOpen() {
+  $('#video-box').show();
+  $('body').addClass('stop-scrolling');
+  var lightBoxVideo = $('#IntroVideo')[0];
+  window.scrollTo(0, 0);
+  lightBoxVideo.play();
+}
+
+function lightboxClose() {
+  $('#video-box').hide();
+  $('body').removeClass('stop-scrolling');
+  var lightBoxVideo = $('#IntroVideo')[0];
+  lightBoxVideo.pause();
+  window.scrollTo(0, 4200)
+};
+
+
+/**星空效果 */
+var runCanvas = function() {
+    var canvasEl = document.getElementById("canvas")
+    var ctx = canvasEl.getContext("2d")
+    var mousePos = [0, 0]
+    var nodes = [] //星星
+    var edges = [] //连线
+
+    var easingFactor = 5.0 //缓动因子
+    var backgroundColor = "#000" //背景颜色
+    // var backgroundColor = "rgba(255, 255, 255, 0)" //背景颜色
+    var nodeColor = "#fff" //点颜色
+    var edgeColor = "#fff" //边颜色
+
+    var pageWidth = $("#header").width(), //窗口宽度
+        pageHeight = $("#header").innerHeight() //窗口高度
+
+    window.onresize = function() {
+        ;(pageWidth = $("#header").width()),
+            (pageHeight = $("#header").innerHeight())
+        canvasEl.width = pageWidth
+        canvasEl.height = pageHeight
+
+        if (nodes.length == 0) {
+            constructNodes()
+        }
+
+        render()
+    }
+
+    window.onresize()
+
+    /**构建星星 */
+    function constructNodes() {
+        for (var i = 0; i < 100; i++) {
+            var node = {
+                drivenByMouse: i == 0,
+                x: Math.random() * canvasEl.width,
+                y: Math.random() * canvasEl.height,
+                vx: Math.random() * 1 - 0.5,
+                vy: Math.random() * 1 - 0.5,
+                radius:
+                    Math.random() > 0.9
+                        ? 3 + Math.random() * 3
+                        : 1 + Math.random() * 3
+            }
+
+            nodes.push(node)
+        }
+
+        nodes.forEach(function(e) {
+            nodes.forEach(function(e2) {
+                if (e == e2) {
+                    return
+                }
+
+                var edge = {
+                    from: e,
+                    to: e2
+                }
+
+                addEdge(edge)
+            })
+        })
+    }
+    function addEdge(edge) {
+        var ignore = false
+
+        edges.forEach(function(e) {
+            if ((e.from == edge.from) & (e.to == edge.to)) {
+                ignore = true
+            }
+
+            if ((e.to == edge.from) & (e.from == edge.to)) {
+                ignore = true
+            }
+        })
+
+        if (!ignore) {
+            edges.push(edge)
+        }
+    }
+
+    function step() {
+        nodes.forEach(function(e) {
+            if (e.drivenByMouse) {
+                return
+            }
+
+            e.x += e.vx
+            e.y += e.vy
+
+            function clamp(min, max, value) {
+                if (value > max) {
+                    return max
+                } else if (value < min) {
+                    return min
+                } else {
+                    return value
+                }
+            }
+
+            if (e.x <= 0 || e.x >= canvasEl.width) {
+                e.vx *= -1
+                e.x = clamp(0, canvasEl.width, e.x)
+            }
+
+            if (e.y <= 0 || e.y >= canvasEl.height) {
+                e.vy *= -1
+                e.y = clamp(0, canvasEl.height, e.y)
+            }
+        })
+
+        adjustNodeDrivenByMouse()
+        render()
+        window.requestAnimationFrame(step)
+    }
+
+    function adjustNodeDrivenByMouse() {
+        nodes[0].x += (mousePos[0] - nodes[0].x) / easingFactor
+        nodes[0].y += (mousePos[1] - nodes[0].y) / easingFactor
+    }
+
+    function render() {
+        ctx.fillStyle = backgroundColor
+        // ctx.fillRect(0, 0, canvasEl.width, canvasEl.height)
+        ctx.clearRect(0, 0, canvasEl.width, canvasEl.height)
+
+        edges.forEach(function(e) {
+            var l = lengthOfEdge(e)
+            var threshold = canvasEl.width / 8
+
+            if (l > threshold) {
+                return
+            }
+
+            ctx.strokeStyle = edgeColor
+            ctx.lineWidth = (1.0 - l / threshold) * 2.5
+            ctx.globalAlpha = 1.0 - l / threshold
+            ctx.beginPath()
+            ctx.moveTo(e.from.x, e.from.y)
+            ctx.lineTo(e.to.x, e.to.y)
+            ctx.stroke()
+        })
+        ctx.globalAlpha = 1.0
+
+        nodes.forEach(function(e) {
+            if (e.drivenByMouse) {
+                return
+            }
+
+            ctx.fillStyle = nodeColor
+            ctx.beginPath()
+            ctx.arc(e.x, e.y, e.radius, 0, 2 * Math.PI)
+            ctx.fill()
+        })
+    }
+    function lengthOfEdge(edge) {
+        return Math.sqrt(
+            Math.pow(edge.from.x - edge.to.x, 2) +
+                Math.pow(edge.from.y - edge.to.y, 2)
+        )
+    }
+
+    window.onmousemove = function(e) {
+        if (e.pageX > pageWidth || e.pageY > pageHeight) return
+        // console.log(e.pageX, e.pageY)
+        mousePos[0] = e.pageX
+        mousePos[1] = e.pageY
+    }
+
+    window.requestAnimationFrame(step)
+}
+runCanvas()
+</script>
+
+</body>
+
+</html>

@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- Begin Jekyll SEO tag v2.4.0 -->
+<title>Holochain | Think Outside the Blocks - scalable distributed computing</title>
+<meta name="generator" content="Jekyll v3.7.2" />
+<meta property="og:title" content="Holochain" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Think Outside the Blocks - scalable distributed computing" />
+<meta property="og:description" content="Think Outside the Blocks - scalable distributed computing" />
+<meta property="og:site_name" content="Holochain" />
+<script type="application/ld+json">
+{"description":"Think Outside the Blocks - scalable distributed computing","@type":"WebPage","url":"/404.html","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"/assets/images/holochain_logo.png"}},"headline":"Holochain","@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="shortcut icon" href="http://holochain.org/favicon.ico" type="image/x-icon" />
+  <link type="application/atom+xml" rel="alternate" href="/feed.xml" title="Holochain" />
+  
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script src="https://use.fontawesome.com/2909ea6fa6.js"></script>
+
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-4524306-30"></script>
+  <script>
+   window.dataLayer = window.dataLayer || [];
+   function gtag(){dataLayer.push(arguments)};
+   gtag('js', new Date());
+
+   gtag('config', 'UA-4524306-30');
+  </script>
+
+  <!-- Facebook Pixel Code -->
+  <script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+    n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t,s)}(window, document,'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '1409997235780268');
+    fbq('track', 'PageView');
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+    src="https://www.facebook.com/tr?id=1409997235780268&ev=PageView&noscript=1"
+  /></noscript>
+  <!-- End Facebook Pixel Code -->
+
+
+</head>
+
+
+  <body>
+
+    <header>
+  <div class="container">
+    <nav class="mobile-menu">
+    <label for="show-menu" class="show-menu"><a href="/"><img class="fadelogo header-logo" src="/assets/images/Holochain_header-logo.png" height="50" alt="Holochain Logo" /></a><div class="lines"></div></label>
+      <input type="checkbox" id="show-menu">
+        <ul id="menu">
+        <li><a target="_blank" href="https://github.com/holochain/holochain-proto">GitHub</a></li>
+        <li><a target="_blank" href="https://github.com/holochain/holochain-proto/blob/whitepaper/holochain.pdf">White Paper</a></li>
+        <li><a target="_blank" href="https://developer.holochain.org/">Get Started</a> </li>
+        <li><a target="_blank" href="https://chat.holochain.net/appsup/channels/app-dev">Chat</a></li>
+        <li><a href="/team.html">Team</a></li>
+        <li><a href="/events.html">Events</a></li>
+      </ul>
+    </nav>
+    <p class="no-mobile main-nav"><a href="/"><img class="fadelogo header-logo" src="/assets/images/Holochain_header-logo.png" height="50" alt="Holochain Logo" /></a><span class="text-right no-mobile"><a target="_blank" href="https://github.com/holochain/holochain-proto">GitHub</a> <a target="_blank" href="https://github.com/holochain/holochain-proto/blob/whitepaper/holochain.pdf">White Paper</a> <a target="_blank" href="https://developer.holochain.org/">Get Started</a> <a target="_blank" href="https://chat.holochain.net/appsup/channels/app-dev">Chat</a>  <a href="/team.html">Team</a><a href="/events.html">Events</a></span>
+    </p>
+  </div>
+
+  <!-- <div class="temp-banner">
+    <p></p>
+  </div> -->
+
+</header>
+
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <style type="text/css" media="screen">
+  .container {
+    margin: 10px auto;
+    max-width: 600px;
+    text-align: center;
+  }
+  h1 {
+    margin: 30px 0;
+    font-size: 4em;
+    line-height: 1;
+    letter-spacing: -1px;
+  }
+</style>
+
+<div class="container">
+  <h1>404</h1>
+
+  <p><strong>Page not found :(</strong></p>
+  <p>The requested page could not be found.</p>
+</div>
+
+      </div>
+    </main>
+
+    <footer>
+  <div class="footer-content">
+    <a class="text-left footer-link" href="https://holochain.typeform.com/to/oW5u7X?source=holochainsite" target="blank"><strong>Join</strong></a> the Holochain <a href="/team.html">Dev Team</a> <span class="text-right"><a href="https://github.com/holochain/holochain-proto" target="blank"><i class="fa fa-2x fa-github" aria-hidden="true"></i></a> <a href="https://www.facebook.com/holochain.design/" target="blank"><i class="fa fa-2x fa-facebook-official" aria-hidden="true"></i></a> <a href="https://twitter.com/holochain" target="blank"><i class="fa fa-2x fa-twitter" aria-hidden="true"></i></a> <a href="https://www.reddit.com/r/holochain/" target="blank"><i class="fa fa-2x fa-reddit" aria-hidden="true"></i></a> <a href="https://medium.com/holochain" target="blank"><i class="fa fa-2x fa-medium" aria-hidden="true"></i></a> <a href="https://chat.holochain.net/appsup/channels/app-dev" target="blank"><i class="fa fa-2x fa-telegram" aria-hidden="true"></i></a></span>
+  </div>
+</footer>
+
+
+  </body>
+
+</html>

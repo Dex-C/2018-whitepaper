@@ -1,0 +1,1540 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+<head>
+<meta charset="utf-8" />
+<script type="0a5d1d245197b1824e887677-text/javascript">(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-106828680-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
+<meta name="title" content="Peculium" />
+<link rel="shortlink" href="https://peculium.io/en" />
+<meta property="og:site_name" content="Peculium" />
+<link rel="canonical" href="https://peculium.io/en" />
+<link rel="alternate" hreflang="tr" href="https://peculium.io/tr" />
+<link rel="alternate" hreflang="es" href="https://peculium.io/es" />
+<link rel="alternate" hreflang="fr" href="https://peculium.io/fr" />
+<link rel="alternate" hreflang="en" href="https://peculium.io/en" />
+<meta name="description" content="First Savings Platform For Cryptocurrency" />
+<meta name="twitter:title" content="Peculium" />
+<meta name="twitter:site" content="@_Peculium" />
+<meta property="og:type" content="First Savings Platform For Cryptocurrency" />
+<meta name="twitter:description" content="First Savings Platform For Cryptocurrency" />
+<meta property="og:url" content="https://peculium.io/en" />
+<meta name="twitter:creator" content="@_Peculium" />
+<meta property="og:title" content="Peculium" />
+<meta name="twitter:url" content="https://peculium.io/" />
+<meta property="og:description" content="First Savings Platform For Cryptocurrency" />
+<meta name="twitter:image" content="https://peculium.io/sites/default/files/logo_header_2/minuature.png" />
+<meta property="og:image" content="https://peculium.io/sites/default/files/logo_header_2/minuature.png" />
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" href="https://peculium.io/sites/default/files/fontyourface/fontsquirrel/SansationBold-fontfacekit/fontyourface-stylesheet.css" media="all" />
+<link rel="stylesheet" href="https://peculium.io/sites/default/files/fontyourface/fontsquirrel/SansationRegular-fontfacekit/fontyourface-stylesheet.css" media="all" />
+<link rel="stylesheet" href="https://peculium.io/sites/default/files/fontyourface/fontsquirrel/SansationLight-fontfacekit/fontyourface-stylesheet.css" media="all" />
+<link rel="stylesheet" href="https://peculium.io/sites/default/files/fontyourface/fontsquirrel/Slabo27px-fontfacekit/fontyourface-stylesheet.css" media="all" />
+<link rel="stylesheet" href="https://peculium.io/sites/default/files/fontyourface/fontsquirrel/SourceSansProBlack-fontfacekit/fontyourface-stylesheet.css" media="all" />
+<link rel="stylesheet" href="https://peculium.io/sites/default/files/fontyourface/fontsquirrel/SourceSansProRegular-fontfacekit/fontyourface-stylesheet.css" media="all" />
+<link rel="stylesheet" href="https://peculium.io/sites/default/files/fontyourface/fontsquirrel/SourceSansProBold-fontfacekit/fontyourface-stylesheet.css" media="all" />
+<link rel="stylesheet" href="https://peculium.io/sites/default/files/fontyourface/fontsquirrel/SourceSansProLight-fontfacekit/fontyourface-stylesheet.css" media="all" />
+<link rel="stylesheet" href="https://peculium.io/sites/default/files/fontyourface/fontsquirrel/SourceSansProSemibold-fontfacekit/fontyourface-stylesheet.css" media="all" />
+<link rel="stylesheet" href="https://peculium.io/sites/default/files/fontyourface/fontsquirrel/SourceSerifProRegular-fontfacekit/fontyourface-stylesheet.css" media="all" />
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Playball:regular|Montserrat:300&amp;subset=latin" media="all" />
+<link rel="shortcut icon" href="/sites/default/files/icon%20peculium.png" type="image/png" />
+<title>Peculium</title>
+<link rel="stylesheet" href="/sites/default/files/css/css_He9r71Tvno7vyQfWAE9IxHPOK3c_MIhgiIEQ8YSoTjk.css?pejivf" media="all" />
+<link rel="stylesheet" href="/sites/default/files/css/css_LBiOH1y3iCE4cIcMXXEKW4TGSsjlOYygwv0r9c_jlbE.css?pejivf" media="all" />
+<!--[if lte IE 8]>
+<script src="/core/assets/vendor/html5shiv/html5shiv.min.js?v=3.7.3"></script>
+<![endif]-->
+
+<script type="0a5d1d245197b1824e887677-text/javascript">
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+ fbq('init', '1851909754903601'); 
+fbq('track', 'PageView');
+</script>
+<noscript>
+ <img height="1" width="1" src="https://www.facebook.com/tr?id=1851909754903601&ev=PageView&noscript=1"/>
+</noscript>
+
+<style type="text/css" media="all">
+        .backgroundimg {
+background: img("<?php print base_path().drupal_get_path('theme', 'signflow'); ?>/images/bghomepeculium.jpg");
+background-position: center;
+background-size: cover;
+}
+      </style>
+</head>
+<body class="fontyourface">
+<div id="preloader"></div>
+<a href="#main-content" class="visually-hidden focusable">
+Skip to main content
+</a>
+<div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+<header class="fixed-top scroll-change bg-transparent menu-transparent signflow-menu-transparent signflow-menu-dp" data-menu-anima="fade-bottom">
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+<div class="navbar navbar-main">
+<div class="container">
+<div class="navbar-header">
+<button type="button" class="navbar-toggle">
+<i class="fa fa-bars"></i>
+</button>
+<a class="navbar-brand scroll-hide" href="/en">
+<img class="logo-default" src="https://peculium.io/sites/default/files/logo_header_2/peculium_logo_blanc.png" alt="logo" />
+</a>
+<a id="block-signflow-branding" class="navbar-brand scroll-show" href="/en"><img src="/sites/default/files/logobleutest5_0.png" alt="Peculium" /></a>
+</div>
+<div class="collapse navbar-collapse">
+<div class="nav navbar-nav navbar-right">
+<ul id="block-signflow-main-menu" class="nav navbar-nav">
+<li class="dropdown">
+<a href="/en">Home</a>
+</li>
+<li class="dropdown">
+<a href="/en/project">PROJECT</a>
+</li>
+<li class="dropdown">
+<a href="/en/expertise">Expertise</a>
+</li>
+<li class="dropdown">
+<a href="/en/product" class="dropdown-toggle" data-toggle="dropdown" role="button">Products <span class="caret"></span></a>
+<ul class="dropdown-menu">
+<li>
+<a href="/en/singulus">SINGULUS</a>
+</li>
+<li>
+<a href="/en/aieve">AIEVE</a>
+</li>
+<li>
+<a href="/en/alterus">ALTERUS</a>
+</li>
+</ul>
+</li>
+<li class="dropdown">
+<a href="/en/team">Team</a>
+</li>
+<li class="dropdown">
+<a href="/en/documents">Docs</a>
+</li>
+<li class="dropdown">
+<a href="/en/blog?layout=grid" class="dropdown-toggle" data-toggle="dropdown" role="button">Blog <span class="caret"></span></a>
+<ul class="dropdown-menu">
+<li>
+<a href="/en/peculium-webinar">WEBINAR</a>
+</li>
+</ul>
+</li>
+<li class="dropdown">
+<a href="/en/about-us" class="dropdown-toggle" data-toggle="dropdown" role="button">About Us <span class="caret"></span></a>
+<ul class="dropdown-menu">
+<li>
+<a href="/en/our-partners">PARTNERS</a>
+</li>
+<li>
+<a href="/en/faq">FAQ</a>
+</li>
+</ul>
+</li>
+<li class="dropdown">
+<a href="/ask-eve">AIEVE</a>
+</li>
+</ul> <div id="block-languagedropdownswitcher" class="lang_select">
+<form class="lang-dropdown-form lang_dropdown_form language_interface" id="lang_dropdown_form_lang_dropdown_form5b8eba151ff962.69427468" data-drupal-selector="lang-dropdown-form" action="/en" method="post" accept-charset="UTF-8">
+<div class="js-form-item form-item js-form-type-select form-item-lang-dropdown-select js-form-item-lang-dropdown-select form-no-label">
+<label for="edit-lang-dropdown-select" class="visually-hidden">Select your language</label>
+<select style="width:120px" class="lang-dropdown-select-element form-select" id="lang-dropdown-select-lang_dropdown_form5b8eba151ff962.69427468" data-drupal-selector="edit-lang-dropdown-select" name="lang_dropdown_select"><option value="fr" selected="selected">Français</option><option value="es">Español</option><option value="tr">Türkçe</option></select>
+</div>
+<input data-drupal-selector="edit-fr" type="hidden" name="fr" value="/fr" />
+<input data-drupal-selector="edit-es" type="hidden" name="es" value="/es" />
+<input data-drupal-selector="edit-tr" type="hidden" name="tr" value="/tr" />
+<noscript><div><input data-drupal-selector="edit-submit" type="submit" id="edit-submit" name="op" value="Go" class="button js-form-submit form-submit" />
+</div></noscript><input autocomplete="off" data-drupal-selector="form-fflids-yz1sgdvjnpnuirrnqeof9ult6fzqmqfvf2vk" type="hidden" name="form_build_id" value="form-FFLIDS-Yz1sGdvJNpnuIRRnqeOf9Ult6FzqMQFvF2Vk" />
+<input data-drupal-selector="edit-lang-dropdown-form" type="hidden" name="form_id" value="lang_dropdown_form" />
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div id="block-newicoglobeanimation">
+<link href="/sites/default/files/globe/desktopx1.css" rel="stylesheet">
+<link href="/sites/default/files/globe/mobile1.css" rel="stylesheet">
+
+
+<script src="/sites/default/files/globe/Site2.js" type="0a5d1d245197b1824e887677-text/javascript"></script>
+<script src="/sites/default/files/globe/FormManager3.js" type="0a5d1d245197b1824e887677-text/javascript"></script>
+<script src="/sites/default/files/globe/DataManager.js" type="0a5d1d245197b1824e887677-text/javascript"></script>
+<script src="/sites/default/files/globe/ModelManager22.js" type="0a5d1d245197b1824e887677-text/javascript"></script>
+<script src="/sites/default/files/globe/ScrollManager2.js" type="0a5d1d245197b1824e887677-text/javascript"></script>
+<script src="/sites/default/files/globe/CanvasManager.js" type="0a5d1d245197b1824e887677-text/javascript"></script>
+<script src="/sites/default/files/globe/gl-matrix.js" type="0a5d1d245197b1824e887677-text/javascript"></script>
+<script src="/sites/default/files/globe/Camera.js" type="0a5d1d245197b1824e887677-text/javascript"></script>
+<script src="/sites/default/files/globe/Program.js" type="0a5d1d245197b1824e887677-text/javascript"></script>
+<script src="/sites/default/files/globe/ProgramManager.js" type="0a5d1d245197b1824e887677-text/javascript"></script>
+<script src="/sites/default/files/globe/TextureManager.js" type="0a5d1d245197b1824e887677-text/javascript"></script>
+<script src="/sites/default/files/globe/PointGlobeDrawable.js" type="0a5d1d245197b1824e887677-text/javascript"></script>
+<script src="/sites/default/files/globe/NebulaDrawable.js" type="0a5d1d245197b1824e887677-text/javascript"></script>
+<script src="/sites/default/files/globe/BokehDrawable.js" type="0a5d1d245197b1824e887677-text/javascript"></script>
+<script src="/sites/default/files/globe/BackgroundDrawable.js" type="0a5d1d245197b1824e887677-text/javascript"></script>
+<script src="/sites/default/files/globe/RingDrawable.js" type="0a5d1d245197b1824e887677-text/javascript"></script>
+<script src="/sites/default/files/globe/EarthquakeDrawable.js" type="0a5d1d245197b1824e887677-text/javascript"></script>
+<script src="/sites/default/files/globe/BigQuakeDrawable.js" type="0a5d1d245197b1824e887677-text/javascript"></script>
+<script src="/sites/default/files/globe/Model.js" type="0a5d1d245197b1824e887677-text/javascript"></script>
+<script src="/sites/default/files/globe/LatLng.js" type="0a5d1d245197b1824e887677-text/javascript"></script>
+<script src="/sites/default/files/globe/ProjectionUtil.js" type="0a5d1d245197b1824e887677-text/javascript"></script>
+<script src="/sites/default/files/globe/Animation.js" type="0a5d1d245197b1824e887677-text/javascript"></script>
+<script src="/sites/default/files/globe/Ease.js" type="0a5d1d245197b1824e887677-text/javascript"></script>
+<script src="/sites/default/files/globe/Ajax.js" type="0a5d1d245197b1824e887677-text/javascript"></script>
+<script src="/sites/default/files/globe/Signal.js" type="0a5d1d245197b1824e887677-text/javascript"></script>
+<script src="/sites/default/files/globe/SplitText.js" type="0a5d1d245197b1824e887677-text/javascript"></script>
+<script src="/sites/default/files/globe/TweenMax.js" type="0a5d1d245197b1824e887677-text/javascript"></script>
+
+<style>
+    #scrolling-content {
+        overflow: hidden;
+    }
+    .home-intro {
+        position: relative;
+    }
+    .home-intro h3.animated-text {
+        font-size: 18px;
+        line-height: 28px;
+    }
+    .copy-right  {
+        
+    }
+    .sale-end {
+        position: absolute;
+        bottom: 30px;
+        right:100px;
+    }
+    .countdown  {
+        width: 300px;
+        margin: 0;
+    }
+    .page-number {
+        font-size: 25px !important;
+        line-height: 30px;
+        color: #fff !important;
+        font-weight: 100 !important;
+    }
+    .countdown .countdown-label {
+        font-weight: 100;
+        font-size: 16px;
+        padding: 0 5px 0 0;
+    }
+    .countdown > div {
+
+    }
+    #request {
+        bottom: 100px;
+        width: 360px;
+        height: 70px !important;
+        font-size: 22px;
+        text-align: center
+    }
+    .ico-link {
+        position: absolute;
+        opacity: 1;
+        z-index: 10;
+        top: auto;
+        left: 11%;
+        bottom: 30px;
+        font-size:15px;
+    }
+    .video-play{
+        position: absolute !important;
+        right: 10%;
+        top: 5%;
+        width: 250px;
+        height: 100px;
+        max-width: none;
+        transform: translate(-50%, -90%);
+        padding: 0;
+        font-size: 20px;
+        background-color: rgba(0,0,0,0.15);
+    }
+.v2{
+        top: calc( 5% + 120px);
+    }
+.v3{
+        top:  calc( 5% + 240px);
+    }
+.video-play.img-box:hover:before {
+opacity:0.2
+}
+    .video-play i { margin-right: 0; }
+    @media screen and (min-width: 768px) and (max-width: 992px){
+        .copy-right {
+            right: 0;
+        }
+        .sale-end {
+            bottom: 100px;
+        }
+    }
+    @media  screen and (max-width: 768px){
+        .copy-right {
+            margin-top:0;
+padding: 0 !important;
+        }
+        .home-intro h3 {
+            margin: 20px 0 0;
+            text-align: center;
+            padding-right: 0 !important;
+        }
+        .video-play  { 
+position: relative !important;
+margin: 20px auto !important;
+display:block;
+width: 60px;
+        height: 40px;
+        line-height: 40px;
+right: auto;
+        top: auto;
+        transform: translate(0, 0);
+ }
+.video-play.img-box.i-center i.fa-play {
+    width: 30px;
+    height: 30px;
+    line-height: 29px;
+    left: -15px;
+    margin-top: -15px;
+}
+.video-play.img-box.i-center i.fa-play::before {
+    margin: 12px !important;
+    font-size: 14px;
+}
+        #scrolling-area {
+            padding: 40px 20px 20px;
+        }
+        .copy-section {
+            margin: 0 !important;
+        }
+        .copy-content {
+            top: 0;
+            position: relative;
+            transform: translateY(0%);
+        }
+        .countdown h3{
+            text-align: left;
+        }
+        .copy-content {
+            left: 0;
+            width: 100%;
+            padding: 20px 60px 0 20px;
+            box-sizing: border-box;
+        }
+        .countdown {
+            margin: 15px auto;
+        }
+        #request {
+            bottom: 135px;
+            padding: 15px;
+            top: auto;
+            left: 20px;
+            right: 20px;
+            width: calc(100% - 40px);
+            transform: none;
+            font-size: 22px;
+            height: 60px !important;
+        }
+        #request.telegram {
+            left: 190px;
+        }
+        .ico-link {
+            bottom: 15px;
+            left: 20px;
+        }
+        .sale-end {
+            bottom: 200px;
+            right: auto;
+            left: 20px;
+        }
+        canvas#globekit-canvas, .home-intro, #scrolling-content {
+            height: 930px !important;
+        }
+    }
+    @media  screen and (max-width: 480px){
+        #scrolling-area {
+            padding: 0;
+        }
+        .copy-section {
+            margin: 50px 0;
+        }
+        .home-intro h3.animated-text {
+            line-height: 20px;
+            font-size: 16px;
+            text-align:left;
+        }
+        .home-intro h3{
+            line-height: 20px;
+            font-size: 22px;
+
+        }
+        .home-intro p {
+            margin: 5px 0 !important;
+        }
+        canvas#globekit-canvas, .home-intro, #scrolling-content {
+            height: 770px !important;
+        }
+        .copy-section {
+            margin: 20px 0 !important;
+        }
+.ico-link {
+font-size: 15px;
+}
+.video-play  { 
+margin: 10px auto !important;
+ }
+    }
+@media  screen and (max-width: 375px){
+        .ico-link {
+font-size: 13px;
+}
+    }
+    @media  screen and (max-width: 320px){
+        #request {
+            bottom: 177px;
+            height: 45px !important;
+            font-size: 13px;
+        }
+        #request.telegram {
+            left: 160px;
+        }
+        .sale-end {
+            bottom: 220px;
+        }
+    }
+</style>
+<section class="home-intro">
+<div id="quake-info" style="display:none"><div><span></span></div></div>
+<canvas id="globekit-canvas" width="1024"></canvas>
+<div id="scrolling-content">
+<div id="scrolling-area">
+<div class="copy-section topic-globekit">
+<div class="copy-content">
+<h1 class="animated-text">Intelligent <span class="emdash"><span></span>Investment</span></h1>
+<h3 style="color:white; font-weight:100; " class="animated-text">AIEVE is Live and Fully Operational! Experience the True Power <br>of Automatic Trading with a 100% Success Rate! We can prove it!</h3>
+<p class="animated-body">The Future is Now. The Possibilities are Endless. Invest in our ICO Today!</p>
+</div>
+<div class="copy-content copy-right">
+<a class="video-play img-box i-center lightbox" href="https://www.youtube.com/watch?v=AyOKv55xJe4" target="_blank" data-lightbox-anima="show-scale"><i class="fa fa-play"></i></a>
+<a class="video-play v2 img-box i-center lightbox" href="https://www.youtube.com/watch?v=ZnLP836Xr5U" target="_blank" data-lightbox-anima="show-scale"><i class="fa fa-play"></i></a>
+<a class="video-play v3 img-box i-center lightbox" href="https://www.youtube.com/watch?v=HWjlfLtlZeA" target="_blank" data-lightbox-anima="show-scale"><i class="fa fa-play"></i></a>
+</div>
+</div>
+</div>
+<div class="sale-end">
+<span style="color:white; font-weight:100;">TOKEN SALE END IN</span>
+<div class="countdown text-s" data-time="09/27/2018 23:42:00" data-utc-offset="+2">
+<div>
+<span class="days countdown-values text-m page-number"></span> <span class="countdown-label">Days</span>
+</div>
+<div>
+<span class="hours countdown-values text-m page-number"></span> <span class="countdown-label">Hours</span>
+</div>
+<div>
+<span class="minutes countdown-values text-m page-number"></span> <span class="countdown-label">Mins</span>
+</div>
+<div>
+<span class="seconds countdown-values text-m page-number"></span> <span class="countdown-label">Secs</span>
+</div>
+</div>
+</div>
+<a id="request" href="https://tge.peculium.io/user" target="_blank"><span>Invest Now</span>
+<svg xmlns="http://www.w3.org/2000/svg" width="17" height="15" viewBox="0 0 17 15">
+<path d="M450.622,782.89l-1.648-6.087,13.846,7.249Zm-2.309,3.644-2.094-2.128,2.094-1.879,0.937,1.942Zm14.318-1.316-13.609,6.789,1.619-5.7Z" transform="translate(-446.219 -776.812)" />
+</svg>
+</a>
+<div class="ico-link">
+<a style="text-decoration: none; color:white!important; font-weight:300!important;" target="_blank" href="https://peculium.io/en/white-paper" class=""><b>WHITE PAPER</b></a>
+<span class="space"></span>
+<a style="text-decoration: none; color:white!important; font-weight:300!important;" target="_blank" href="/litepaper" class=""><b>LITE PAPER</b></a>
+<span class="space"></span>
+<a style="text-decoration: none; color:white!important; font-weight:300!important;" target="_blank" href="/financial-analysis" class=""><b>FINANCIAL ANALYSIS</b></a>
+<span class="space"></span>
+<a style="text-decoration: none; color:white!important; font-weight:300!important;" target="_blank" href="/pitch-deck" class=""><b>PITCH DECK</b></a>
+<span class="space"></span>
+<a style="text-decoration: none; color:white!important; font-weight:300!important;" target="_blank" href="/sales-deck" class=""><b>SALES DECK</b></a>
+<span class="space"></span>
+<a style="text-decoration: none; color:white!important; font-weight:300!important;" target="_blank" href="/telegram" class="">Join Telegram</a>
+<p>For large volume private sales and investments, please write to: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="9bf2f8f4dbebfef8eef7f2eef6b5f2f4">[email&#160;protected]</a></p>
+</div>
+</div>
+<div style="display:none">
+<div id="scrolling-content1">
+<div id="scrolling-area">
+<div class="copy-section1 topic-globekit">
+<div class="copy-content1"></div>
+</div>
+<div class="copy-section1 topic-performance">
+<div class="copy-content1"></div>
+</div>
+<div class="copy-section1 topic-customizable">
+<div class="copy-content1"></div>
+</div>
+<div class="copy-section1 topic-platform">
+<div class="copy-content1"></div>
+</div>
+<div class="copy-section1 topic-quote">
+<div class="copy-content1"></div>
+</div>
+<div class="copy-section1 topic-form">
+<div class="copy-content1">
+<div id="form-section1">
+<form id="request-form1" action="" method="POST" target="no-target">
+<div class="input-block" id="block-one">
+<label for="NAME">Name</label>
+<input id="NAME" type="text" value="" required name="NAME">
+</div>
+<div class="input-block" id="block-two">
+<label for="COMPANY">Company</label>
+<input id="COMPANY" type="text" value="" required name="COMPANY">
+</div>
+<div class="input-block" id="block-three">
+<label for="EMAIL">Email</label>
+<input id="EMAIL" type="email" value="" required name="EMAIL">
+</div>
+<div class="textarea-block" id="block-four">
+<label for="NEEDS">Tell us more about your needs...</label>
+<textarea id="NEEDS" name="NEEDS"></textarea>
+</div>
+</form>
+<span id="error-message1"></span>
+</div>
+<h2 id="success-message1"><span class="emdash"><span></span></span></h2>
+</div>
+</div>
+</div>
+</div>
+<div id="pagination">
+<div id="pagination-text">
+<div id="page-count-tens1">
+<div class="page-numbers1">
+<div class="page-number"></div>
+</div>
+</div>
+<div id="page-count-ones1">
+<div class="page-numbers1">
+<div class="page-number"></div>
+<div class="page-number"></div>
+<div class="page-number"></div>
+<div class="page-number"></div>
+<div class="page-number"></div>
+<div class="page-number"></div>
+</div>
+</div>
+<span id="page-count-total"></span>
+</div>
+<ul id="pagination-dots1"></ul>
+</div>
+<div id="mouse-indicator">
+<div id="mouse-wheel1"></div>
+</div>
+<a id="request1" href="#"><span></span></a>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="0a5d1d245197b1824e887677-text/javascript">
+        Site.init();
+        WebFontConfig = {
+            google: {
+                families: ["Roboto:100,300,500:latin"]
+            },
+            /* Called when all the specified web-font provider modules (google, typekit, and/or custom) have reported that they have started loading fonts. */
+            loading: function() {
+                // do something
+            },
+            /* Called when each requested web font has started loading. The fontFamily parameter is the name of the font family, and fontDescription represents the style and weight of the font. */
+            fontloading: function(fontFamily, fontDescription) {
+                // do something
+            },
+            /* Called when each requested web font has finished loading. The fontFamily parameter is the name of the font family, and fontDescription represents the style and weight of the font. */
+            fontactive: function(fontFamily, fontDescription) {
+                // do something
+            },
+            /* Called if a requested web font failed to load. The fontFamily parameter is the name of the font family, and fontDescription represents the style and weight of the font. */
+            fontinactive: function(fontFamily, fontDescription) {
+                // do something
+            },
+            /* Called when all of the web fonts have either finished loading or failed to load, as long as at least one loaded successfully. */
+            active: function() {
+                setTimeout(function(){
+                    Site.fontsDidActivate();
+                }, 250);
+            },
+            /* Called if the browser does not support web fonts or if none of the fonts could be loaded. */
+            inactive: function() {
+                setTimeout(function(){
+                    Site.fontsDidActivate();
+                }, 250);
+            }
+        };
+    </script>
+
+<script src="/sites/default/files/globe/WebFontLoader.js" type="0a5d1d245197b1824e887677-text/javascript"></script>
+</section>
+</div>
+<div id="block-believeoffer">
+<style>
+ .believe p{
+ 	font-size:18px;
+ 	letter-spacing:2px;
+ 	font-weight:300!important;
+ 	color:black;
+ }
+</style>
+<div class="section-bg-image bg-no-repeat block-bg">
+<hr class="space">
+<hr class="space">
+<h2 class="text-center">BELIEVE : EXCEPTIONAL OFFER</h2>
+<hr class="space">
+<div class="offset-md-1 col-md-6">
+<img src="/themes/custom/signflow/images/tableau site-2x.png" alt="alt" />
+</div>
+<div class="col-md-6 believe">
+<p>As far as data goes, with our experience and expertise, we developed AIEVE - our Artificial Intelligence engine that can predict the movements of major cryptocurrencies with great accuracy.</p>
+<p>You all saw her performance at each phase, a demonstration of what it can offer you. Today, it is no longer in the testing phase; it has demonstrated its performance in the real world scenarios and has earned profits even in the present market conditions. It is her impeccable performance that allows us to present it in its BELIEVE form, and several months ahead of schedule</p>
+<p>Today, we are proud to be able to position ourselves in this market segment, proud to have precisely identified what will make us better, and at the same time add value to your portfolios by bringing it the stability that it deserves.</p>
+<p>And to accompany the contest that will show you the effective management, we have opened to the first 220 investors of ICO September 2018 an exclusive access</p>
+</div>
+</div>
+<hr class="space">
+</div>
+<div id="block-newcotokendistribution">
+<div class="section-bg-image bg-no-repeat block-bg">
+<hr class="space l" />
+<hr class="space">
+<h2 class="text-center">Bonus per Hold Period</h2>
+<hr class="space">
+<div class="col-md-1">
+</div>
+<div class="offset-md-1 col-md-5">
+<img src="/themes/custom/signflow/images/tab-hold.png" alt="alt" />
+</div>
+<div class="col-md-5">
+<hr class="space l">
+<p style="font-size:18px; letter-spacing:2px; font-weight:200px!important; color:black; font-weight:200">By investing in Peculiums last ICO, you will contribute for the development of a project that is here to stay for a long term! You will support a group of scientists, engineers, developers and blockchain lovers, that give their best every day to offer the most up-to-date tools, and that fulfilled the needs of all of our users profiles in the crypto/blockchain ecosystem.
+</br>
+</br>
+By supporting Peculium, you will venture into the future and we want to reward those who believe the most!
+</br>
+</br>
+For this reason, we have created a bonus system for all the investors that will show their support by hodling their PCL for a long term.</p>
+</div>
+<div class="col-md-12">
+<hr class="space m">
+<p class="text-center" style="font-size:18px; letter-spacing:2px; font-weight:400px!important; color:black;">
+The tokens can be claimed about 1 month after the ICO.
+</p>
+</div>
+<hr class="space" />
+<hr class="space" />
+<h2 class="text-center">Tokens Allocation & Funds Allocation</h2>
+<hr class="space">
+<div class="container content">
+<div class="row">
+<div class="col-md-6" data-anima="fade-left">
+<div class="img-box"><img src="/themes/custom/signflow/images/token sale - white pape.png" alt="alt" /></div>
+</div>
+<div class="col-md-6" data-anima="fade-right">
+<div class="img-box"><img src="/themes/custom/signflow/images/pie-chartD.jpeg" alt="alt" /></div>
+</div>
+</div>
+</div>
+</div>
+<div id="block-newicopresentation">
+<div class="container content">
+<div class="row">
+<div class="imacspace"> </div>
+<div class="col-md-3">
+<h4 style="color: #390a78!important;font-weight:400 !important;">Savings Platform</h4>
+<p style="color:#606060;font-weight:200 !important;">
+Peculium is the first savings and investment platform for individuals, brokers, and financial institutions. Peculium trades on the cryptocurrency markets. Peculium brings the power of algorithmic trading to everyday users. </p>
+</div>
+<div class="col-md-3">
+<h4 style="color: #390a78!important;font-weight:400 !important;">ICO</h4>
+<p style="color:#606060;font-weight:200 !important;">
+Peculium has raised € 8.1 million from a successful ICO. Peculium is supported by a committed community of thousands of individuals from all across the world. Peculium is already listed on multiple exchanges. </p>
+</div>
+<div class="col-md-3">
+<h4 style="color: #390a78!important;font-weight:400 !important;">PCL</h4>
+<p style="color:#606060;font-weight:200 !important;">
+Pécule (PCL) means savings. PCL is the utility token (ERC20) used on Peculium platform to pay for the various products. These products take advantage of the Artificial Intelligence engine AIΞVE. </p>
+</div>
+<div class="col-md-3">
+<h4 style="color: #390a78!important;font-weight:400 !important;">Team</h4>
+<p style="color:#606060;font-weight:200 !important;">
+The team of Peculium is composed of 63 individuals, with a wide range of expertise from Blockchain technology and software development to quantitative finance and algorithmic trading. </p>
+</div>
+</div>
+</div>
+</div>
+<div id="block-newicosupercomputer">
+<style>
+.supercalc h3{
+    color: white;
+    font-weight:100;
+    font-family: 'Roboto';
+}
+.supercalc h2{
+    margin: 0px 100px!important;
+    color: white;
+    font-weight:100;
+    font-family: 'Roboto';
+    text-align: center;
+}
+.supercalc h4{
+    color: white!important;
+    font-weight:100;
+    font-family: 'Roboto';
+    line-height:35px;
+    font-size:28px;
+}
+.supercalc h5{
+    color: white!important;
+    font-weight:100;
+    font-family: 'Roboto';
+    line-height:35px;
+    font-size:17px;
+
+}
+.block-quote.quote-2:after{
+    color: #390a78;
+}
+.block-quote.quote-2:before{
+    color: #390a78;
+}
+.quote-author{
+    border-color: #390a78!important;
+}
+
+</style>
+<div class="supercalc section-bg-image bg-no-repeat block-bg" style="background-image: url(/themes/custom/signflow/images/gradient-bckg.jpg);">
+<h2>The SuperComputer</br>for the Blockchain</h2>
+<hr class="space">
+<h4 class="ac">QUETZAL HPC - First SuperComputer<br />for the Blockchain</h4>
+<hr class="space s">
+<div class="container content">
+<div class="row" data-anima="fade-bottom" data-timeline="asc">
+<div class="col-md-5 anima">
+<div class="img-box">
+<img src="/themes/custom/signflow/images/supercalculator3.jpg" alt="alt" />
+</div>
+</div>
+<div class="col-md-7">
+<h4>Understanding the Blockchain ecosystem</h4>
+<h5>Blockchain is going to revolutionise the way Finance industry functions. We, at Peculium, understand both the technological aspects of the Blockchain as well as your needs as an investor. </h5>
+<h5>The power of programmable economy, use of smart contracts, a deep understanding of data sciences teamed up with the experience of a seasoned team makes us the right choice for your savings.
+</h5>
+</div>
+</div>
+<div class="container content">
+<div class="row" data-anima="fade-bottom" data-timeline="asc">
+<div class="col-md-6">
+<h4>Alterus & HPC Quetzal Blockchain SuperComputer.
+The complete blockchain experience for businesses.
+</h4>
+<h5 style="line-height:30px;">
+For the automatic learning purpose, Peculium’s AI requires effective computing resources that can handle complex and parallel simulations to process a large amount of data.
+</h5>
+<h5 style="line-height:30px;">To tackle this, we present the architecture and technology used for each of the AI processing scopes - Big Data, AML, KYC, and CTF.</h5>
+</div>
+<div class="col-md-6 anima">
+<div class="img-box"><img src="/themes/custom/signflow/images/supercalculator2.jpg" alt="alt" /></div>
+</div>
+</div>
+</div>
+<div class="container content">
+<div class="row" data-anima="fade-bottom" data-timeline="asc">
+<div class="col-md-5 anima">
+<div class="img-box"><img src="/themes/custom/signflow/images/supercalculator1.jpg" alt="alt" /></div>
+</div>
+<div class="col-md-7">
+<h4>Blockchain success starts here</h4>
+<h5>Starting with an HPC cluster of 63 teraflop CPU / 250 teraflop Tesla x2 GPU per node
+and Nvidia Tesla V100, the first Fused HTP Cluster
+</h5>
+<h5>The security is handled by cryptographic protocols and techniques that ensure permanence, resilience, and immutability of the data.</h5>
+<h5>Quetzal combines HPC and AI techniques to automate,<br /> accelerate, and drive advancements in Blockchain & investment</h5>
+</div>
+</div>
+</div>
+<div class="container content">
+<div class="row" data-anima="fade-bottom" data-timeline="asc">
+<div class="col-md-7" style="padding:70px 90px!important;">
+<h4 class="block-quote quote-2 no-margins">I AM A VISIONARY, AN ENCHANTMENT, A CREATOR AND MUCH MORE. I AM HPC QUETZAL <br /><span class="quote-author">The Peculium SuperComputer</span></h4>
+</div>
+<div class="col-md-5 anima">
+<div class="img-box"><img src="/themes/custom/signflow/images/supercalculator4.jpg" alt="alt" /></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="block-newcoinsidebigdata">
+<div style="background-color: #eae9f4" class="section-bg-image text-center bg-no-repeat block-bg">
+<hr class="space">
+<hr class="space">
+<h2 class="text-center">Inside BigData to </br>Automatic Learning & Artificial Intelligence</h2>
+<div class="row vertical-row">
+<div class="col-md-12" data-anima="fade-bottom">
+<a class="img-box" href="javascript:;"><img src="/themes/custom/signflow/images/infographic_icon2.jpg" alt="alt" /></a>
+<p class="text-right" style="font-size:12px; margin-right: 30px;">
+source : coincheckup.com
+</p>
+<hr class="space m">
+</div>
+</div>
+</div>
+</div>
+<div id="block-newicoaixvethefirstandstrongest">
+<style>
+	.titleaieve{
+                text-align:left;
+		font-size: 2vw;
+		color: white;
+		font-weight: 100;
+		font-family: Roboto;
+		position: absolute;
+		padding: 30px 100px;
+	}
+
+
+	.bottom-left {
+		position: absolute;
+		bottom: 70px;
+		left: 10px;
+		background:#9800de!important;
+		border-color:#9800de!important;
+                font-size: 1.5vw;
+                margin: 30px 60px;
+                padding:  5px 5px!important;
+	}
+</style>
+<div class="section-bg-image text-center bg-no-repeat block-bg" style="background-image: url(/themes/custom/signflow/images/gradient-bckg.jpg);">
+<div class="container content" style="position: relative;">
+<div style="box-shadow: 5px 7px 20px 0px black;" data-anima="fade-bottom" data-anima-time="1000">
+<h3 class="titleaieve">AIΞVE, the First and Strongest<br />Artificial Intelligence<br />in the Blockchain</h3>
+<a href="https://peculium.io/aieve" target="_blank" class="circle-button btn btn-sm bottom-left">VIEW DETAILS</a>
+<img src="/themes/custom/signflow/images/aieve-background-72-A.jpg" alt="alt" /></div>
+</div>
+</div>
+</div>
+</div>
+<div id="block-newicoproducts">
+<section>
+<style>
+.list-group-item:before{
+color:#390a78!important;
+}
+        #particles-js{ position:absolute;
+            width: 100%;
+            height: 100%;
+            background-image: url("");
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: 50% 50%; 
+        }
+    </style>
+<div id="particles-js"></div>
+<div class="container content">
+<div class="row">
+<h1 class="ac">Our Products</h1>
+<hr class="space l">
+<h4 class="text-center">Your Savings Empowered by our Tools and Artificial Intelligence. Our three products are make to fit your needs: choose the one that is best for you</h4>
+<hr class="space">
+<div class="col-md-4">
+<div class="list-group pricing-table">
+<div class="list-group-item pricing-name">
+</div>
+<hr class="space m">
+<div class="ac bc" style="background: linear-gradient(#390a78, #7b1dd2);width:85%;border-radius: 15px;"><hr class="space xs"><h2 class="ac" style="color:white;">Alterus</h2>
+<h5 class="ac" style="color:white;margin-bottom:2px;">PROFESSIONAL SAVINGS</h5><br></div>
+<hr style="background-color:#21004c; width:60%;">
+<hr class="space m">
+<div class="list-group-item">
+Web app for crypto savings
+</div>
+<div class="list-group-item">
+Corporate savings
+</div>
+<div class="list-group-item">
+Self-Management
+</div>
+<div class="list-group-item">
+Easy to use
+</div>
+<div class="list-group-item">
+Risk-Management
+</div>
+<div class="list-group-item">
+AIEVE on demand
+</div>
+<div class="list-group-item pricing-btn text-center">
+<a style="text-decoration: none;  background-color:white!important; color:#21004c!important; border-color:#21004c!important;" target="_blank" href="https://peculium.io/alterus" class="circle-button btn btn-lg shadow-1 ac"> VIEW DETAILS </a>
+</div>
+</div>
+</div>
+<div class="col-md-4 ac">
+<div class="list-group pricing-table pricing-table-big" style="margin: -20px -30px 0 -30px; !important">
+<div class="list-group-item pricing-name">
+</div>
+<hr class="space m">
+<div class="ac bc" style="background: linear-gradient(#390a78, #7b1dd2);width:85%;border-radius: 15px;"><hr class="space xs"><h2 class="ac" style="color:white;">Singulus</h2>
+<h5 class="ac" style="color:white;margin-bottom:2px;">PERSONAL SAVINGS</h5><br></div>
+<hr style="background-color:#21004c; width:60%;">
+<hr class="space s">
+<div class="list-group-item">
+Mobile app for crypto savings
+</div>
+<div class="list-group-item">
+Personal savings
+</div>
+<div class="list-group-item">
+Self-Management
+</div>
+<div class="list-group-item">
+Easy to use
+</div>
+<div class="list-group-item">
+Risk-Management
+</div>
+<div class="list-group-item">
+AIEVE on demand
+</div>
+<div class="list-group-item pricing-btn text-center">
+<a style="text-decoration: none; background-color:#390a78!important; color:white!important; border-color:#390a78!important;" target="_blank" href="https://peculium.io/singulus" class="circle-button btn btn-lg shadow-1 ac"> VIEW DETAILS </a>
+</div>
+</div>
+</div>
+<div class="col-md-4 ac">
+<div class="list-group pricing-table">
+<div class="list-group-item pricing-name">
+</div>
+<hr class="space m">
+<div class="ac bc" style="background: linear-gradient(#390a78, #7b1dd2);width:85%;border-radius: 15px;"><hr class="space xs"><h2 class="ac" style="color:white;">Solidus</h2>
+<h5 class="ac" style="color:white;margin-bottom:2px;">SMART CONTRACT</h5><br></div>
+<hr style="background-color:#21004c; width:60%;">
+<hr class="space m">
+<div class="list-group-item">
+Various Durations
+</div>
+<div class="list-group-item">
+Personal/Business Savings
+</div>
+<div class="list-group-item">
+Delegated Management
+</div>
+<div class="list-group-item">
+Effortless
+</div>
+<div class="list-group-item">
+Risk-Management
+</div>
+<div class="list-group-item">
+Managed by AIEVE
+</div>
+<div class="list-group-item pricing-btn text-center">
+<a style="text-decoration: none; background-color:white!important; color:#21004c!important; border: none!important;" target="_blank;" href="#" class="circle-button btn btn-lg shadow-1ac">Launch : Q1 2019</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type="0a5d1d245197b1824e887677-text/javascript" src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+<script type="0a5d1d245197b1824e887677-text/javascript">
+        particlesJS("particles-js", {
+        particles: {
+        number: { value: 106, density: { enable: true, value_area: 800 } },
+        color: { value: "#781ac6" },
+        shape: {
+        type: "circle",
+        stroke: { width: 0, color: "#000000" },
+        polygon: { nb_sides: 5 },
+        image: { src: "img/github.svg", width: 100, height: 100 }
+        },
+        opacity: {
+        value: 0.40246529723245905,
+        random: false,
+        anim: { enable: false, speed: 1, opacity_min: 0.1, sync: false }
+        },
+        size: {
+        value: 3,
+        random: true,
+        anim: { enable: false, speed: 40, size_min: 0.1, sync: false }
+        },
+        line_linked: {
+            enable: false,
+            distance: 0,
+            color: "#123e7d",
+            opacity: 0.4,
+            width: 1
+        },
+        move: {
+        enable: true,
+        speed: 6,
+        direction: "none",
+        random: false,
+        straight: false,
+        out_mode: "out",
+        bounce: false,
+        attract: { enable: false, rotateX: 600, rotateY: 1200 }
+        }
+        },
+        interactivity: {
+        detect_on: "canvas",
+        events: {
+        onhover: { enable: true, mode: "repulse" },
+        onclick: { enable: true, mode: "push" },
+        resize: true
+        },
+        modes: {
+        grab: { distance: 400, line_linked: { opacity: 1 } },
+        bubble: { distance: 400, size: 40, duration: 2, opacity: 8, speed: 3 },
+        repulse: { distance: 200, duration: 0.4 },
+        push: { particles_nb: 4 },
+        remove: { particles_nb: 2 }
+        }
+        },
+        retina_detect: true
+        });
+    </script>
+</section>
+</div>
+<div id="block-newicoteamsimple">
+<style>
+i{
+color: #390a78;
+}
+.espace {
+height:65px;
+}
+}
+</style>
+<div class="container content">
+<h2>Meet Our Team</h2>
+<hr class="space">
+<div class="grid-list gallery">
+<div class="grid-box row">
+
+<div class="grid-item col-md-3">
+<div class="img-box adv-img adv-img-half-content" data-anima="fade-left" data-trigger="hover">
+<i class="im-thumb anima"></i>
+<div class="img-box lightbox anima-scale-up anima">
+<img src="/themes/custom/signflow/images/francois.jpg" alt="François HIAULT" />
+</div>
+<div class="caption">
+<h2>François HIAULT</h2>
+<p>Chief ICO Officer</p>
+<a title="" href="https://www.linkedin.com/in/fran%C3%A7ois-hiault-b7b62199/" target=" _blank"><i class="fa fa-linkedin"></i></a>
+</div>
+</div>
+</div>
+
+<div class="grid-item col-md-3">
+<div class="img-box adv-img adv-img-half-content" data-anima="fade-left" data-trigger="hover">
+<i class="im-thumb anima"></i>
+<div class="img-box lightbox anima-scale-up anima">
+<img src="/themes/custom/signflow/images/nadir.jpeg" alt="Nadir Lopez Ibarra" />
+</div>
+<div class="caption">
+<h2>Nadir Lopez Ibarra</h2>
+<p>Business Developer</p>
+<a title="" href="https://www.linkedin.com/in/nadir-lopez-ibarra-9b9990122/" target=" _blank"><i class="fa fa-linkedin"></i></a>
+</div>
+</div>
+</div>
+
+<div class="grid-item col-md-3">
+<div class="img-box adv-img adv-img-half-content" data-anima="fade-left" data-trigger="hover">
+<i class="im-thumb anima"></i>
+<div class="img-box lightbox anima-scale-up anima">
+<img src="/themes/custom/signflow/images/Basak.jpeg" alt="Basak Kutlu" />
+</div>
+<div class="caption">
+<h2>Basak Kutlu</h2>
+<p>Business Developer</p>
+<a title="" href="https://www.linkedin.com/in/ba%C5%9Fak-b%C3%BCrge-kutlu-002733b3/" target=" _blank"><i class="fa fa-linkedin"></i></a>
+</div>
+</div>
+</div>
+
+<div class="grid-item col-md-3">
+<div class="img-box adv-img adv-img-half-content" data-anima="fade-left" data-trigger="hover">
+<i class="im-thumb anima"></i>
+<div class="img-box lightbox anima-scale-up anima">
+<img src="/themes/custom/signflow/images/lisaP.jpg" alt="Lisa Ponkin" />
+</div>
+<div class="caption">
+<h2>Lisa Ponkin</h2>
+<p>Legal Expert</p>
+<a title="" href="https://www.linkedin.com/in/lisa-chouanga-ponkin-5a6757134" target=" _blank"><i class="fa fa-linkedin"></i></a>
+</div>
+</div>
+</div>
+
+<div class="grid-item col-md-3">
+<div class="img-box adv-img adv-img-half-content" data-anima="fade-left" data-trigger="hover">
+<i class="im-thumb anima"></i>
+<div class="img-box lightbox anima-scale-up anima">
+<img src="/themes/custom/signflow/images/florian.jpg" alt="Florian Rais" />
+</div>
+<div class="caption">
+<h2>Florian Rais</h2>
+<p>Chief Commercial Officer</p>
+<a title="" href="https://www.linkedin.com/in/florian-rais-677a633a/" target=" _blank"><i class="fa fa-linkedin"></i></a>
+</div>
+</div>
+</div>
+
+<div class="grid-item col-md-3">
+<div class="img-box adv-img adv-img-half-content" data-anima="fade-left" data-trigger="hover">
+<i class="im-thumb anima"></i>
+<div class="img-box lightbox anima-scale-up anima">
+<img src="/themes/custom/signflow/images/taoufik.jpg" alt="Taoufik Lachheb" />
+</div>
+<div class="caption">
+<h2>Taoufik Lachheb</h2>
+<p>Chief Financial Officer</p>
+<a title="" href="https://www.linkedin.com/in/taoufik-lachheb-584b1049/" target=" _blank"><i class="fa fa-linkedin"></i></a>
+</div>
+</div>
+</div>
+
+<div class="grid-item col-md-3">
+<div class="img-box adv-img adv-img-half-content" data-anima="fade-left" data-trigger="hover">
+<i class="im-thumb anima"></i>
+<div class="img-box lightbox anima-scale-up anima">
+<img src="/themes/custom/signflow/images/alba.jpeg" alt="Alba Plana" />
+</div>
+<div class="caption">
+<h2>Alba Plana</h2>
+<p>Brand Designer</p>
+<a title="" href="https://www.linkedin.com/in/albaplanasau/" target=" _blank"><i class="fa fa-linkedin"></i></a>
+</div>
+</div>
+</div>
+
+<div class="grid-item col-md-3">
+<div class="img-box adv-img adv-img-half-content" data-anima="fade-left" data-trigger="hover">
+<i class="im-thumb anima"></i>
+<div class="img-box lightbox anima-scale-up anima">
+<img src="/themes/custom/signflow/images/Mathilde.jpeg" alt="Mathilde Bourbon" />
+</div>
+<div class="caption">
+<h2>Mathilde Bourbon</h2>
+<p>UI-UX Graphic Designer</p>
+<a title="" href="https://www.linkedin.com/in/mathilde-bourbon-a82682138/" target=" _blank"><i class="fa fa-linkedin"></i></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<hr class="space " />
+<div class="col-md-12">
+<div class="col-md-4">
+<hr class="space s" />
+<h3 style="color: #390a78!important;font-weight:200!important;">Communication</h3>
+<hr class="space m" />
+<div style="position: absolute;float:left;">
+<img class="circle" style="width:50px; height:50px;" src="/themes/custom/signflow/images/stefan.jpg" alt="Stefan Schettler">
+</div>
+<div style="position: absolute;float:right;margin-left:50px;">
+<hr class="space xs" />
+<h5 style="color: #390a78; font-weight:600;display:inline;">&nbsp;Stefan Schettler&emsp;|&emsp;<a title="" href="https://www.linkedin.com/in/stefan-schettler/" target=" _blank"><i class="fa fa-linkedin"></i></a></h5>
+<h5>&nbsp;Head of Communication</h5>
+</div>
+<div class="espace"></div>
+<div style="position: absolute;float:left;">
+<img class="circle" style="width:50px; height:50px;display:inline;" src="/themes/custom/signflow/images/andreumont.png" alt="Andreu M">
+</div>
+<div style="position: absolute;float:right;margin-left:50px;">
+<h5 style="color: #390a78; font-weight:600;display:inline;">&nbsp;Andreu M.&emsp;|&emsp;<a title="" href="https://www.linkedin.com/" target=" _blank"><i class="fa fa-linkedin"></i></a></h5>
+<h5>&nbsp;Communication Specialist,</br>&nbsp;Latin America & Spain</h5>
+</div>
+<div class="espace"></div>
+<div style="position: absolute;float:left;">
+<img class="circle" style="width:50px; height:50px;display:inline;" src="/themes/custom/signflow/images/manuelR.jpg" alt="Manuel R.">
+</div>
+<div style="position: absolute;float:right;margin-left:50px;">
+<h5 style="color:#390a78; font-weight:600;display:inline;">&nbsp;Manuel R.&emsp;|&emsp;<a title="" href="https://www.linkedin.com/in/manuelrojohorno/" target=" _blank"><i class="fa fa-linkedin"></i></a></h5>
+<h5>&nbsp;Communication Specialist,</br>&nbsp;Latin America & Spain</h5>
+</div>
+<div class="espace"></div>
+<div style="position: absolute;float:left;">
+<img class="circle" style="width:50px; height:50px;display:inline;" src="/themes/custom/signflow/images/sirbu.jpg" alt="Sirbu Alexandru">
+</div>
+<div style="position: absolute;float:right;margin-left:50px;">
+<h5 style="color: #390a78; font-weight:600;display:inline;">&nbsp;Sirbu Alexandru&emsp;|&emsp;<a title="" href="https://www.linkedin.com/in/sirbu-alexandru-b69a67b9/" target=" _blank"><i class="fa fa-linkedin"></i></a></h5>
+<h5>&nbsp;Communication Specialist,</br>&nbsp;Europe & US</h5>
+</div>
+<div class="espace"></div>
+<div style="position: absolute;float:left;">
+<img class="circle" style="width:50px; height:50px;display:inline;" src="/themes/custom/signflow/images/joseph.png" alt="Joseph Anton Gadong">
+</div>
+<div style="position: absolute;float:right;margin-left:50px;">
+<h5 style="color: #390a78; font-weight:600;display:inline;">&nbsp;Joseph Anton Gadong&emsp;|&emsp;<a title="" href="https://www.linkedin.com/in/anton-gadong-935a83a4/" target=" _blank"><i class="fa fa-linkedin"></i></a></h5>
+<h5>&nbsp;Communication Specialist,</br>&nbsp;Asia</h5>
+</div>
+<div class="espace"></div>
+<div style="position: absolute;float:left;">
+<img class="circle" style="width:50px; height:50px;display:inline;" src="/themes/custom/signflow/images/michael.png" alt="Michael Vadal">
+</div>
+<div style="position: absolute;float:right;margin-left:50px;">
+<h5 style="color: #390a78; font-weight:600;display:inline;">&nbsp;Michael Vadal&emsp;|&emsp;<a title="" href="https://www.linkedin.com/in/michael-vadal-04225454/" target=" _blank"><i class="fa fa-linkedin"></i></a></h5>
+<h5>&nbsp;Communication Specialist,</br>&nbsp;Asia</h5>
+</div>
+</div>
+<div class="col-md-4">
+<hr class="space s" />
+<h3 style="color: #390a78!important;font-weight:200!important;">Operations</h3>
+<hr class="space m" />
+<div style="position: absolute;float:left;">
+<img class="circle" style="width:50px; height:50px;display:inline;" src="/themes/custom/signflow/images/anay.jpeg" alt="Anay Bhalerao">
+</div>
+<div style="position: absolute;float:right;margin-left:50px;">
+<hr class="space xs" />
+<h5 style="color: #390a78; font-weight:600;display:inline;">&nbsp;Anay Bhalerao&emsp;|&emsp;<a title="" href="https://www.linkedin.com/in/anaybhalerao/" target=" _blank"><i class="fa fa-linkedin"></i></a></h5>
+<h5>&nbsp;Head Of Content Strategy</h5>
+</div>
+<div class="espace"></div>
+<div style="position: absolute;float:left;">
+<img class="circle" style="width:50px; height:50px;display:inline;" src="/themes/custom/signflow/images/esso.jpg" alt="Esso-Dong DJAFALO">
+</div>
+<div style="position: absolute;float:right;margin-left:50px;">
+<hr class="space xs" />
+<h5 style="color: #390a78; font-weight:600;display:inline;">&nbsp;Esso-Dong DJAFALO&emsp;|&emsp;<a title="" href="https://www.linkedin.com/in/esso-dong-djafalo-24aa22a6/" target=" _blank"><i class="fa fa-linkedin"></i></a></h5>
+<h5>&nbsp;Tech. Lead</h5>
+</div>
+<div class="espace"></div>
+<div style="position: absolute;float:left;">
+<img class="circle" style="width:50px; height:50px;display:inline;" src="/themes/custom/signflow/images/paul.jpeg" alt="Paul Poursafa">
+</div>
+<div style="position: absolute;float:right;margin-left:50px;">
+<hr class="space xs" />
+<h5 style="color: #390a78; font-weight:600;display:inline;">&nbsp;Paul Poursafa&emsp;|&emsp;<a title="" href="https://www.linkedin.com/in/paul-poursafa/" target=" _blank"><i class="fa fa-linkedin"></i></a></h5>
+<h5>&nbsp;Data Process Blockchain Developer</h5>
+</div>
+<div class="espace"></div>
+<div style="position: absolute;float:left;">
+<img class="circle" style="width:50px; height:50px;display:inline;" src="/themes/custom/signflow/images/jorge.jpg" alt="Jorge Rodriguez">
+</div>
+<div style="position: absolute;float:right;margin-left:50px;">
+<hr class="space xs" />
+<h5 style="color: #390a78; font-weight:600;display:inline;">&nbsp;Jorge Rodriguez&emsp;|&emsp;<a title="" href="https://www.linkedin.com/in/jorge-rodriguez-115570139/" target=" _blank"><i class="fa fa-linkedin"></i></a></h5>
+<h5>&nbsp;Chief Security Officer</h5>
+</div>
+<div class="espace"></div>
+<div style="position: absolute;float:left;">
+<img class="circle" style="width:50px; height:50px;display:inline;" src="/themes/custom/signflow/images/malik.jpg" alt="Malik Cherif">
+</div>
+<div style="position: absolute;float:right;margin-left:50px;">
+<hr class="space xs" />
+<h5 style="color: #390a78; font-weight:600;display:inline;">&nbsp;Malik Cherif&emsp;|&emsp;<a title="" href="https://www.linkedin.com/in/t0m4c0/" target=" _blank"><i class="fa fa-linkedin"></i></a></h5>
+<h5>&nbsp;HPC Quetzal</h5>
+</div>
+</div>
+<div class="col-md-4">
+<hr class="space s" />
+<h3 style="color: #390a78!important;font-weight:200!important;">Marketing</h3>
+<hr class="space m" />
+<div style="position: absolute;float:left;">
+<img class="circle" style="width:50px; height:50px;display:inline;" src="/themes/custom/signflow/images/ahmed1.jpg" alt="Ahmed Imad">
+</div>
+<div style="position: absolute;float:right;margin-left:50px;">
+<h5 style="color: #390a78; font-weight:600;display:inline;">&nbsp;Ahmed Imad&emsp;|&emsp;<a title="" href="https://www.linkedin.com/in/imad-ahmad-7221b897" target=" _blank"><i class="fa fa-linkedin"></i></a></h5>
+<h5>&nbsp;Technical Marketing</h5>
+</div>
+<div class="espace"></div>
+<div style="position: absolute;float:left;">
+<img class="circle" style="width:50px; height:50px;display:inline;" src="/themes/custom/signflow/images/ashish.jpg" alt="Ashish Sharma">
+</div>
+<div style="position: absolute;float:right;margin-left:50px;">
+<hr class="space xs" />
+<h5 style="color: #390a78; font-weight:600;display:inline;">&nbsp;Ashish Sharma&emsp;|&emsp;<a title="" href="https://www.linkedin.com/in/ashish4sharma/" target=" _blank"><i class="fa fa-linkedin"></i></a></h5>
+<h5>&nbsp;Head of Marketing, Asia</h5>
+</div>
+<div class="espace"></div>
+<div style="position: absolute;float:left;">
+<img class="circle" style="width:50px; height:50px;display:inline;" src="/themes/custom/signflow/images/mickael.jpg" alt="Michael Edward">
+</div>
+<div style="position: absolute;float:right;margin-left:50px;">
+<hr class="space xs" />
+<h5 style="color: #390a78; font-weight:600;display:inline;">&nbsp;Michael Edward&emsp;|&emsp;<a title="" href="https://www.linkedin.com/in/michael-edward-naftaliev/" target=" _blank"><i class="fa fa-linkedin"></i></a></h5>
+<h5>&nbsp;Head of Marketing, Europe</h5>
+</div>
+<div class="espace"></div>
+<div style="position: absolute;float:left;">
+<img class="circle" style="width:50px; height:50px;display:inline;" src="/themes/custom/signflow/images/tyl.jpeg" alt="Tyler Caulfield">
+</div>
+<div style="position: absolute;float:right;margin-left:50px;">
+<h5 style="color: #390a78; font-weight:600;display:inline;">&nbsp;Tyler Caulfield&emsp;|&emsp;<a title="" href="https://www.linkedin.com/in/pprst/" target=" _blank"><i class="fa fa-linkedin"></i></a></h5>
+<h5>&nbsp;Head of Marketing, United States</h5>
+</div>
+</div>
+</div>
+</div>
+<div id="block-newicoroadmap">
+<style>
+.circle-button{
+text-decoration: none;
+background-color:#5001a8 !important;
+color:white;
+border-color:#5001a8 !important;"
+}
+
+.circle-button:not(.btn-border):hover{
+text-decoration: none;
+background-color:#21004c !important;
+color:white;
+border-color:#21004c !important;"
+}
+</style>
+<div class="section-bg-image text-center bg-no-repeat block-bg" style="background-image: url(/themes/custom/signflow/images/waves2.png);background-position: bottom;">
+<div class="container content">
+<div class="row ac">
+<h1>Road Map</h1>
+<hr class="space">
+<div class="bc" style="max-width: 1200px;">
+<img class="sh effect-shine" alt="alt" src="/themes/custom/signflow/images/last-roadmap-web.png">
+</div>
+</div>
+</div>
+<div class="text-center section-doc">
+<div class="container content">
+<h4 class="text-normal">Ready To Get Started?</h4>
+<p>Make an intelligent choice investing in your future</p>
+<hr class="space s">
+<a style href="https://tge.peculium.io/user" target="_blank" class="circle-button btn btn-sm">INVEST NOW</a>
+</div>
+</div>
+<hr class="space">
+<hr class="space">
+<hr class="space">
+</div>
+</div>
+<div id="block-smartcontrat">
+<link href="/sites/default/files/code/prism.css" rel="stylesheet" />
+<div class="container content" style="padding-top:0">
+<div class="title-icon title-icon-bg">
+<h2 style="margin:0">Our Smart Contrat</h2>
+</div>
+<pre><code class="language-php">
+/*
+This Token Contract implements the Peculium token (beta v2)
+*/
+
+import "./PeculiumOld.sol";
+
+pragma solidity ^0.4.15;
+
+contract Peculium is BurnableToken,Ownable { // Our token is a standard ERC20 Token with burnable and ownable aptitude
+
+	/*Variables about the old token contract */	
+	PeculiumOld public peculOld; // The old Peculium token
+	address public peculOldAdress = 0x53148Bb4551707edF51a1e8d7A93698d18931225; // The address of the old Peculium contract
+
+	using SafeMath for uint256; // We use safemath to do basic math operation (+,-,*,/)
+	using SafeERC20 for ERC20Basic; 
+
+    	/* Public variables of the token for ERC20 compliance */
+	string public name = "Peculium"; //token name 
+    	string public symbol = "PCL"; // token symbol
+    	uint256 public decimals = 8; // token number of decimal
+    	
+    	/* Public variables specific for Peculium */
+        uint256 public constant MAX_SUPPLY_NBTOKEN   = 20000000000*10**8; // The max cap is 20 Billion Peculium
+
+	mapping(address => bool) public balancesCannotSell; // The boolean variable, to frost the tokens
+
+    	/* Event for the freeze of account */
+	event ChangedTokens(address changedTarget,uint256 amountToChanged);
+	event FrozenFunds(address address_target, bool bool_canSell);
+	.......
+</code></pre>
+<hr class="space m">
+<a style="color:#fff; margin: 0 auto; display: block; width: 250px;" target="_blanck" href="https://github.com/PeculiumPCL/Peculium/blob/master/contracts/v2/Peculium.sol" class="circle-button btn btn-border btn-lg"><i class="fa fa-github" style="color:#fff"></i>View on Github</a>
+</div>
+<script src="/sites/default/files/code/prism.js" type="0a5d1d245197b1824e887677-text/javascript"></script>
+</div>
+<div id="block-newicosocial">
+<style>
+	.five-columns.row .col-sm-2 { float: left; width: 18.8%; padding: 0; margin-right: 1.5%; min-height: 0; }
+	.five-columns.row .col-sm-2:nth-last-child(2) { margin-right: 0; }
+	.five-columns h4{color: #fff !important; font-size: 14px; margin-top: 5px; text-transform: uppercase;}
+	@media (max-width: 640px) {
+		.five-columns.row .col-sm-2 { float: left; width: 100%; padding: 0; margin-right: 0}
+		.five-columns h4{margin-top: 10px;}
+	}
+       h4{
+font-weight:200!important;
+	}
+</style>
+<div class="section-bg-image text-center bg-no-repeat block-bg" style="background-image: url(/themes/custom/signflow/images/gradient-bckg.jpg);">
+<div class="container content" data-anima="fade-bottom" data-time="1000">
+<div class="col-sm-2 text-center">
+</div>
+<div class="col-sm-8 text-center">
+<div class="five-columns row">
+<div class="col-sm-2 text-center">
+<a target="_blank" href="/reddit"><i class="bc fa fa-reddit-alien circle text-m"></i>
+<h4>REDDIT</h4>
+</a>
+</div>
+<div class="col-sm-2 text-center">
+<a target="_blank" href="/github"><i class="fa fa-github circle text-m"></i>
+<h4>GITHUB</h4>
+</a>
+</div>
+<div class="col-sm-2 text-center">
+<a target="_blank" href="/twitter"><i class="fa fa-twitter circle text-m"></i>
+<h4>TWITTER</h4>
+ </a>
+</div>
+<div class="col-sm-2 text-center">
+<a target="_blank" href="/facebook"><i class="fa fa-facebook circle text-m"></i>
+<h4>FACEBOOK</h4>
+</a>
+</div>
+<div class="col-sm-2 text-center">
+<a target="_blank" href="/medium"><i class="fa fa-medium circle text-m"></i>
+<h4>MEDIUM</h4>
+</a>
+</div>
+</div>
+</div>
+<div class="col-sm-2 text-center">
+</div>
+
+<div class="row"></div>
+<div class="col-sm-2 text-center">
+</div>
+<div class="col-sm-8 text-center">
+<div class="five-columns row" style="margin-top: 20px">
+<div class="col-sm-2 text-center">
+<a target="_blank" href="/telegram">
+<img class="circle text-m" src="/themes/custom/signflow/images/telegram/en_t.png" alt="Main Channel">
+<h4>MAIN CHANNEL</h4>
+</a>
+</div>
+<div class="col-sm-2 text-center">
+<a target="_blank" href="/telegram-peculium-china">
+<img class="circle text-m" src="/themes/custom/signflow/images/telegram/ch_t.png" alt="Chinese Channel">
+<h4>CHINESE CHANNEL</h4>
+</a>
+</div>
+<div class="col-sm-2 text-center">
+<a target="_blank" href="/telegram-peculium_spanish">
+<img class="circle text-m" src="/themes/custom/signflow/images/telegram/sp_t.png" alt="Spanish Channel">
+<h4>SPANISH CHANNEL</h4>
+</a>
+</div>
+<div class="col-sm-2 text-center">
+<a target="_blank" href="/telegram-peculium-fr">
+<img class="circle text-m" src="/themes/custom/signflow/images/telegram/fr_t.png" alt="French Channel">
+<h4>FRENCH CHANNEL</h4>
+</a>
+</div>
+<div class="col-sm-2 text-center">
+<a target="_blank" href="/telegram-peculium-de">
+<img class="circle text-m" src="/themes/custom/signflow/images/telegram/ger_t.png" alt="German Channel">
+<h4>GERMAN CHANNEL</h4>
+</a>
+</div>
+</div>
+</div>
+<div class="col-sm-2 text-center">
+</div>
+</div>
+</div>
+</div>
+<div id="block-facebookmessangerchat">
+
+<div id="fb-root"></div>
+<script type="0a5d1d245197b1824e887677-text/javascript">(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js#xfbml=1&version=v2.12&autoLogAppEvents=1';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div class="fb-customerchat" attribution=setup_tool page_id="194834041057698" logged_in_greeting="Welcome to Peculium. How can we help you?" logged_out_greeting="Welcome to Peculium. How can we help you?">
+</div>
+</div>
+<i class="scroll-top scroll-top-mobile show fa fa-sort-asc"></i>
+<footer class="footer-base">
+<div class="content">
+<div class="container">
+<div class="row">
+<div id="block-signflowblockfootercolumnlogo" class="col-md-3 footer-center text-left">
+<div class="tag-row text-left">
+<p></p>
+<p><i class="fa fa-angle-right"></i> <a href="https://drive.google.com/file/d/0B_9U5BVEAQa9NHNfZnZlOGZua00/view">Privacy Legacy</a></p>
+<p><i class="fa fa-angle-right"></i> <a href="https://drive.google.com/file/d/0B0EJmtqin-mqMGVWYW1iYXRHM28/view">Terms & Conditions</a></p>
+</div>
+</div>
+<div id="block-signflowblockfootercolumnaddress" class="col-md-3 footer-left text-left">
+<div class="tag-row text-left">
+<a><i class="fa fa-map-marker text-center"></i> Peculium SAS<br>16 avenue de la liberté</br> 92000 – FRANCE</a>
+</div>
+</div>
+<div id="block-signflowblockfootercolumnsocialnetwork" class="col-md-6 footer-left text-left">
+<div class="tag-row text-left">
+<div class="col-md-6">
+
+<i class="fa fa-envelope-o"></i>&ensp; <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="02717772726d707642726761776e6b776f2c6b6d">[email&#160;protected]</a><br /><br />
+<a><i class="fa fa-phone"></i> &ensp; +33 977 197 969</a><br /><br />
+</div>
+<div class="col-md-6">
+<p>Partner we support :</p><br />
+<a class="img-box text-center" target="_blanck" href="https://lbcc.tilda.ws/"><img class="bc" style="height:35px; width:200px" src="/themes/custom/signflow/images/lbcrypto.jpg" alt="alt" /></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row copy-row">
+<div class="col-md-12 copy-text">
+<p class="text-center">Copyright © 2018 peculium.io All rights reserved </p>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"en\/","currentPath":"node","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"en"},"pluralDelimiter":"\u0003","google_analytics":{"trackOutbound":true,"trackMailto":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"lang_dropdown":{"lang-dropdown-form":{"key":"lang_dropdown_form5b8eba151ff962.69427468"}},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"user":{"uid":0,"permissionsHash":"c26e9a94935250068839cee44c081d2b2e681499b6ad60f47371c6ea35ab8899"}}</script>
+<script src="/core/assets/vendor/domready/ready.min.js?v=1.0.8" type="0a5d1d245197b1824e887677-text/javascript"></script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.2.1" type="0a5d1d245197b1824e887677-text/javascript"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=8.5.0" type="0a5d1d245197b1824e887677-text/javascript"></script>
+<script src="/core/misc/drupal.js?v=8.5.0" type="0a5d1d245197b1824e887677-text/javascript"></script>
+<script src="/core/misc/drupal.init.js?v=8.5.0" type="0a5d1d245197b1824e887677-text/javascript"></script>
+<script src="/modules/google_analytics/js/google_analytics.js?v=8.5.0" type="0a5d1d245197b1824e887677-text/javascript"></script>
+<script src="/modules/lang_dropdown/js/lang_dropdown.js?v=1.x" type="0a5d1d245197b1824e887677-text/javascript"></script>
+<script src="/themes/custom/signflow/HTWF/scripts/script.js?v=8.5.0" type="0a5d1d245197b1824e887677-text/javascript"></script>
+<script src="/themes/custom/signflow/HTWF/scripts/bootstrap/js/bootstrap.min.js?v=8.5.0" type="0a5d1d245197b1824e887677-text/javascript"></script>
+<script src="/themes/custom/signflow/HTWF/scripts/jquery.twbsPagination.min.js?v=8.5.0" type="0a5d1d245197b1824e887677-text/javascript"></script>
+<script src="/themes/custom/signflow/HTWF/scripts/imagesloaded.min.js?v=8.5.0" type="0a5d1d245197b1824e887677-text/javascript"></script>
+<script src="/themes/custom/signflow/HTWF/scripts/parallax.min.js?v=8.5.0" type="0a5d1d245197b1824e887677-text/javascript"></script>
+<script src="/themes/custom/signflow/HTWF/scripts/flexslider/jquery.flexslider-min.js?v=8.5.0" type="0a5d1d245197b1824e887677-text/javascript"></script>
+<script src="/themes/custom/signflow/HTWF/scripts/google.maps.min.js?v=8.5.0" type="0a5d1d245197b1824e887677-text/javascript"></script>
+<script src="/themes/custom/signflow/HTWF/scripts/jquery.spritely.min.js?v=8.5.0" type="0a5d1d245197b1824e887677-text/javascript"></script>
+<script src="/themes/custom/signflow/HTWF/scripts/isotope.min.js?v=8.5.0" type="0a5d1d245197b1824e887677-text/javascript"></script>
+<script src="/themes/custom/signflow/HTWF/scripts/jquery.progress-counter.js?v=8.5.0" type="0a5d1d245197b1824e887677-text/javascript"></script>
+<script src="/themes/custom/signflow/HTWF/scripts/jquery.tab-accordion.js?v=8.5.0" type="0a5d1d245197b1824e887677-text/javascript"></script>
+<script src="/themes/custom/signflow/HTWF/scripts/bootstrap/js/bootstrap.popover.min.js?v=8.5.0" type="0a5d1d245197b1824e887677-text/javascript"></script>
+<script src="/themes/custom/signflow/HTWF/scripts/jquery.magnific-popup.min.js?v=8.5.0" type="0a5d1d245197b1824e887677-text/javascript"></script>
+<script src="/themes/custom/signflow/HTWF/scripts/jquery.flipster.min.js?v=8.5.0" type="0a5d1d245197b1824e887677-text/javascript"></script>
+<script src="/themes/custom/signflow/HTWF/scripts/social.stream.min.js?v=8.5.0" type="0a5d1d245197b1824e887677-text/javascript"></script>
+<script src="/themes/custom/signflow/HTWF/scripts/jquery.slimscroll.min.js?v=8.5.0" type="0a5d1d245197b1824e887677-text/javascript"></script>
+<script src="/themes/custom/signflow/HTWF/scripts/smooth.scroll.min.js?v=8.5.0" type="0a5d1d245197b1824e887677-text/javascript"></script>
+<script src="/themes/custom/signflow/HTWF/scripts/metis.menu.min.js?v=8.5.0" type="0a5d1d245197b1824e887677-text/javascript"></script>
+<script src="/themes/custom/signflow/HTWF/scripts/update.js?v=8.5.0" type="0a5d1d245197b1824e887677-text/javascript"></script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/2448a7bd/cloudflare-static/rocket-loader.min.js" data-cf-nonce="0a5d1d245197b1824e887677-" defer=""></script></body>
+</html>

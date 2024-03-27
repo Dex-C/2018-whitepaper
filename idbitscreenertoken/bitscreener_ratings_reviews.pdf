@@ -1,0 +1,71 @@
+<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8" class="next-head next-head"/><meta name="viewport" content="width=device-width, initial-scale=1.0" class="next-head"/><link rel="preload" href="/_next/244956c2-7b56-4f3f-ba4a-9c7b673ddaec/page/_error.js" as="script"/><link rel="preload" href="/_next/244956c2-7b56-4f3f-ba4a-9c7b673ddaec/main.js" as="script"/><script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+              (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+              m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+              })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+            ga('create', 'UA-102659142-2', 'auto');
+          </script><meta http-equiv="x-ua-compatible" content="ie=edge"/><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/><link rel="manifest" href="/manifest.json"/><link rel="apple-touch-icon" sizes="57x57" href="/static/favicon/apple-icon-57x57.png"/><link rel="apple-touch-icon" sizes="60x60" href="/static/favicon/apple-icon-60x60.png"/><link rel="apple-touch-icon" sizes="72x72" href="/static/favicon/apple-icon-72x72.png"/><link rel="apple-touch-icon" sizes="76x76" href="/static/favicon/apple-icon-76x76.png"/><link rel="apple-touch-icon" sizes="114x114" href="/static/favicon/apple-icon-114x114.png"/><link rel="apple-touch-icon" sizes="120x120" href="/static/favicon/apple-icon-120x120.png"/><link rel="apple-touch-icon" sizes="144x144" href="/static/favicon/apple-icon-144x144.png"/><link rel="apple-touch-icon" sizes="152x152" href="/static/favicon/apple-icon-152x152.png"/><link rel="apple-touch-icon" sizes="180x180" href="/static/favicon/apple-icon-180x180.png"/><link rel="icon" type="image/png" sizes="192x192" href="/static/favicon/android-icon-192x192.png"/><link rel="icon" type="image/png" sizes="32x32" href="/static/favicon/favicon-32x32.png"/><link rel="icon" type="image/png" sizes="96x96" href="/static/favicon/favicon-96x96.png"/><link rel="icon" type="image/png" sizes="16x16" href="/static/favicon/favicon-16x16.png"/><link rel="manifest" href="/static/favicon/manifest.json"/><meta name="msapplication-TileColor" content="#ffffff"/><meta name="msapplication-TileImage" content="/static/favicon/ms-icon-144x144.png"/><meta name="theme-color" content="#ffffff"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:site" content="@BitScreener"/><meta name="twitter:title" content="BitScreener Token BITX"/><meta name="twitter:description" content="Join 1.2 million users of BitScreener to build a financial data marketplace on blockchain."/><meta property="og:url" content="https://tokensale.bitscreener.com"/><meta property="og:type" content="website"/><meta property="og:title" content="BitScreener Token BITX"/><meta property="og:description" content="Join 1.2 million users of BitScreener to build a financial data marketplace on blockchain."/><link rel="stylesheet" href="/_next/static/style.css"/><style data-styled-components="gQMgMK hkNDWu heynhX Nlihj eHhCDv eNfdNg bVuDBX gOLPNf jMPztT">
+/* sc-component-id: sc-keyframes-gQMgMK */
+@-webkit-keyframes gQMgMK{0%{-webkit-transform:translateY(500px);-ms-transform:translateY(500px);transform:translateY(500px);opacity:0;}35%{opacity:0;}100%{-webkit-transform:translateY(0px);-ms-transform:translateY(0px);transform:translateY(0px);opacity:1;}} @keyframes gQMgMK{0%{-webkit-transform:translateY(500px);-ms-transform:translateY(500px);transform:translateY(500px);opacity:0;}35%{opacity:0;}100%{-webkit-transform:translateY(0px);-ms-transform:translateY(0px);transform:translateY(0px);opacity:1;}}
+/* sc-component-id: sc-keyframes-hkNDWu */
+@-webkit-keyframes hkNDWu{0%{-webkit-transform:translateY(10px);-ms-transform:translateY(10px);transform:translateY(10px);opacity:0;}60%{opacity:1;}80%{-webkit-transform:translateY(-20vw);-ms-transform:translateY(-20vw);transform:translateY(-20vw);}100%{-webkit-transform:translateY(-15vw);-ms-transform:translateY(-15vw);transform:translateY(-15vw);opacity:0;}} @keyframes hkNDWu{0%{-webkit-transform:translateY(10px);-ms-transform:translateY(10px);transform:translateY(10px);opacity:0;}60%{opacity:1;}80%{-webkit-transform:translateY(-20vw);-ms-transform:translateY(-20vw);transform:translateY(-20vw);}100%{-webkit-transform:translateY(-15vw);-ms-transform:translateY(-15vw);transform:translateY(-15vw);opacity:0;}}
+/* sc-component-id: sc-keyframes-heynhX */
+@-webkit-keyframes heynhX{0%{-webkit-transform:translateY(-10px);-ms-transform:translateY(-10px);transform:translateY(-10px);opacity:0;}60%{opacity:1;}80%{-webkit-transform:translateY(20vw);-ms-transform:translateY(20vw);transform:translateY(20vw);}100%{-webkit-transform:translateY(15vw);-ms-transform:translateY(15vw);transform:translateY(15vw);opacity:0;}} @keyframes heynhX{0%{-webkit-transform:translateY(-10px);-ms-transform:translateY(-10px);transform:translateY(-10px);opacity:0;}60%{opacity:1;}80%{-webkit-transform:translateY(20vw);-ms-transform:translateY(20vw);transform:translateY(20vw);}100%{-webkit-transform:translateY(15vw);-ms-transform:translateY(15vw);transform:translateY(15vw);opacity:0;}}
+/* sc-component-id: sc-keyframes-Nlihj */
+@-webkit-keyframes Nlihj{0%{-webkit-transform:translateX(10px);-ms-transform:translateX(10px);transform:translateX(10px);opacity:0;}60%{opacity:1;}80%{-webkit-transform:translateX(-35vw);-ms-transform:translateX(-35vw);transform:translateX(-35vw);}100%{-webkit-transform:translateX(-180px);-ms-transform:translateX(-180px);transform:translateX(-180px);opacity:0;}} @keyframes Nlihj{0%{-webkit-transform:translateX(10px);-ms-transform:translateX(10px);transform:translateX(10px);opacity:0;}60%{opacity:1;}80%{-webkit-transform:translateX(-35vw);-ms-transform:translateX(-35vw);transform:translateX(-35vw);}100%{-webkit-transform:translateX(-180px);-ms-transform:translateX(-180px);transform:translateX(-180px);opacity:0;}}
+/* sc-component-id: sc-keyframes-eHhCDv */
+@-webkit-keyframes eHhCDv{0%{-webkit-transform:translateX(-10px);-ms-transform:translateX(-10px);transform:translateX(-10px);opacity:0;}60%{opacity:1;}80%{-webkit-transform:translateX(35vw);-ms-transform:translateX(35vw);transform:translateX(35vw);}100%{-webkit-transform:translateX(180px);-ms-transform:translateX(180px);transform:translateX(180px);opacity:0;}} @keyframes eHhCDv{0%{-webkit-transform:translateX(-10px);-ms-transform:translateX(-10px);transform:translateX(-10px);opacity:0;}60%{opacity:1;}80%{-webkit-transform:translateX(35vw);-ms-transform:translateX(35vw);transform:translateX(35vw);}100%{-webkit-transform:translateX(180px);-ms-transform:translateX(180px);transform:translateX(180px);opacity:0;}}
+/* sc-component-id: sc-keyframes-eNfdNg */
+@-webkit-keyframes eNfdNg{0%{-webkit-transform:rotate(135deg) translate(0vw,0vw);-ms-transform:rotate(135deg) translate(0vw,0vw);transform:rotate(135deg) translate(0vw,0vw);opacity:0;}60%{opacity:1;}100%{-webkit-transform:rotate(135deg) translate(-3vw,20vw);-ms-transform:rotate(135deg) translate(-3vw,20vw);transform:rotate(135deg) translate(-3vw,20vw);opacity:0;}} @keyframes eNfdNg{0%{-webkit-transform:rotate(135deg) translate(0vw,0vw);-ms-transform:rotate(135deg) translate(0vw,0vw);transform:rotate(135deg) translate(0vw,0vw);opacity:0;}60%{opacity:1;}100%{-webkit-transform:rotate(135deg) translate(-3vw,20vw);-ms-transform:rotate(135deg) translate(-3vw,20vw);transform:rotate(135deg) translate(-3vw,20vw);opacity:0;}}
+/* sc-component-id: sc-keyframes-bVuDBX */
+@-webkit-keyframes bVuDBX{0%{-webkit-transform:rotate(45deg);-ms-transform:rotate(45deg);transform:rotate(45deg);opacity:0;}60%{opacity:1;}100%{-webkit-transform:rotate(45deg) translate(-3vw,-20vw);-ms-transform:rotate(45deg) translate(-3vw,-20vw);transform:rotate(45deg) translate(-3vw,-20vw);opacity:0;}} @keyframes bVuDBX{0%{-webkit-transform:rotate(45deg);-ms-transform:rotate(45deg);transform:rotate(45deg);opacity:0;}60%{opacity:1;}100%{-webkit-transform:rotate(45deg) translate(-3vw,-20vw);-ms-transform:rotate(45deg) translate(-3vw,-20vw);transform:rotate(45deg) translate(-3vw,-20vw);opacity:0;}}
+/* sc-component-id: sc-keyframes-gOLPNf */
+@-webkit-keyframes gOLPNf{0%{-webkit-transform:rotate(45deg) translate(0vw,0vw);-ms-transform:rotate(45deg) translate(0vw,0vw);transform:rotate(45deg) translate(0vw,0vw);opacity:0;}60%{opacity:1;}100%{-webkit-transform:rotate(45deg) translate(-3vw,20vw);-ms-transform:rotate(45deg) translate(-3vw,20vw);transform:rotate(45deg) translate(-3vw,20vw);opacity:0;}} @keyframes gOLPNf{0%{-webkit-transform:rotate(45deg) translate(0vw,0vw);-ms-transform:rotate(45deg) translate(0vw,0vw);transform:rotate(45deg) translate(0vw,0vw);opacity:0;}60%{opacity:1;}100%{-webkit-transform:rotate(45deg) translate(-3vw,20vw);-ms-transform:rotate(45deg) translate(-3vw,20vw);transform:rotate(45deg) translate(-3vw,20vw);opacity:0;}}
+/* sc-component-id: sc-keyframes-jMPztT */
+@-webkit-keyframes jMPztT{0%{-webkit-transform:rotate(135deg) translate(0vw,0vw);-ms-transform:rotate(135deg) translate(0vw,0vw);transform:rotate(135deg) translate(0vw,0vw);opacity:0;}60%{opacity:1;}100%{-webkit-transform:rotate(135deg) translate(0vw,-20vw);-ms-transform:rotate(135deg) translate(0vw,-20vw);transform:rotate(135deg) translate(0vw,-20vw);opacity:0;}} @keyframes jMPztT{0%{-webkit-transform:rotate(135deg) translate(0vw,0vw);-ms-transform:rotate(135deg) translate(0vw,0vw);transform:rotate(135deg) translate(0vw,0vw);opacity:0;}60%{opacity:1;}100%{-webkit-transform:rotate(135deg) translate(0vw,-20vw);-ms-transform:rotate(135deg) translate(0vw,-20vw);transform:rotate(135deg) translate(0vw,-20vw);opacity:0;}}</style></head><body><div id="__next"><div style="color:#000;background:#fff;font-family:-apple-system, BlinkMacSystemFont, Roboto, &quot;Segoe UI&quot;, &quot;Fira Sans&quot;, Avenir, &quot;Helvetica Neue&quot;, &quot;Lucida Grande&quot;, sans-serif;height:100vh;text-align:center;display:flex;flex-direction:column;align-items:center;justify-content:center" data-reactroot=""><div><style>body { margin: 0 }</style><h1 style="display:inline-block;border-right:1px solid rgba(0, 0, 0,.3);margin:0;margin-right:20px;padding:10px 23px 10px 0;font-size:24px;font-weight:500;vertical-align:top">404</h1><div style="display:inline-block;text-align:left;line-height:49px;height:49px;vertical-align:middle"><h2 style="font-size:14px;font-weight:normal;line-height:inherit;margin:0;padding:0">This page could not be found<!-- -->.</h2></div></div></div></div><div id="__next-error"></div><script>
+          __NEXT_DATA__ = {"props":{"statusCode":404},"page":"/_error","pathname":"//static/files/bitscreener_ratings_reviews.pdf","query":{},"buildId":"244956c2-7b56-4f3f-ba4a-9c7b673ddaec","assetPrefix":"","nextExport":false,"err":null,"chunks":[]}
+          module={}
+          __NEXT_LOADED_PAGES__ = []
+          __NEXT_LOADED_CHUNKS__ = []
+
+          __NEXT_REGISTER_PAGE = function (route, fn) {
+            __NEXT_LOADED_PAGES__.push({ route: route, fn: fn })
+          }
+
+          __NEXT_REGISTER_CHUNK = function (chunkName, fn) {
+            __NEXT_LOADED_CHUNKS__.push({ chunkName: chunkName, fn: fn })
+          }
+
+          false
+        </script><script async="" id="__NEXT_PAGE__/_error" src="/_next/244956c2-7b56-4f3f-ba4a-9c7b673ddaec/page/_error.js"></script><script src="/_next/244956c2-7b56-4f3f-ba4a-9c7b673ddaec/main.js" async=""></script><script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.0/js.cookie.min.js"></script><script>
+              function getURLParam(name) {
+                return decodeURIComponent((new RegExp('[?|&]' + name + '=' + '([^&;]+?)(&|#|;|$)').exec(window.location.search) || [null, ''])[1].replace(/\s+/g, '%20')) || null;
+              }
+
+              if(getURLParam('utm_source') !== null) {
+                Cookies.set('utm_source', getURLParam('utm_source'), {
+                  expires: 365,
+                  path: '/',
+                  domain: window.location.hostname,
+                  secure: true
+                });
+              }
+            
+              if(getURLParam('utm_campaign') !== null) {
+                Cookies.set('utm_campaign', getURLParam('utm_campaign'), {
+                  expires: 365,
+                  path: '/',
+                  domain: window.location.hostname,
+                  secure: true
+                });
+              }
+            
+              if(getURLParam('utm_medium') !== null) {
+                Cookies.set('utm_medium', getURLParam('utm_medium'), {
+                  expires: 365,
+                  path: '/',
+                  domain: window.location.hostname,
+                  secure: true
+                });
+              }
+          </script></body></html>

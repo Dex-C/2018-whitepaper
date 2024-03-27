@@ -1,0 +1,1055 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]>
+<html class="iem7" lang="en" dir="ltr" xmlns:og="http://opengraphprotocol.org/schema/">
+<![endif]-->
+<!--[if lte IE 6]>
+<html class="lt-ie9 lt-ie8 lt-ie7" lang="en" dir="ltr" xmlns:og="http://opengraphprotocol.org/schema/">
+<![endif]-->
+<!--[if (IE 7)&(!IEMobile)]>
+<html class="lt-ie9 lt-ie8" lang="en" dir="ltr" xmlns:og="http://opengraphprotocol.org/schema/">
+<![endif]-->
+<!--[if IE 8]>
+<html class="lt-ie9" lang="en" dir="ltr" xmlns:og="http://opengraphprotocol.org/schema/">
+<![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!-->
+<html lang="en" dir="ltr" xmlns:og="http://opengraphprotocol.org/schema/" prefix="rnews: http://iptc.org/std/rNews/2011-10-07# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema# schema: http://schema.org/">
+<!--<![endif]-->
+
+<head>
+<title>404 - Page not found | City A.M.</title>
+
+
+<script type="text/javascript" async=true>
+        var elem = document.createElement('script');
+        elem.src = 'https://quantcast.mgr.consensu.org/cmp.js';
+        elem.async = true;
+        elem.type = "text/javascript";
+        var scpt = document.getElementsByTagName('script')[0];
+        scpt.parentNode.insertBefore(elem, scpt);
+        (function() {
+            var gdprAppliesGlobally = false;
+
+            function addFrame() {
+                if (!window.frames['__cmpLocator']) {
+                    if (document.body)
+
+                    {
+                        var body = document.body,
+                            iframe = document.createElement('iframe');
+                        iframe.style = 'display:none';
+                        iframe.name = '__cmpLocator';
+                        body.appendChild(iframe);
+                    } else
+
+                    { // In the case where this stub is located in the head, // this allows us to inject the iframe more quickly than // relying on DOMContentLoaded or other events. setTimeout(addFrame, 5); }
+                    }
+                }
+                addFrame();
+
+                function cmpMsgHandler(event) {
+                    var msgIsString = typeof event.data === "string";
+                    var json;
+                    if (msgIsString) {
+                        json = event.data.indexOf("__cmpCall") != -1 ? JSON.parse(event.data) : {};
+                    } else
+
+                    {
+                        json = event.data;
+                    }
+                    if (json.__cmpCall) {
+                        var i = json.__cmpCall;
+                        window.__cmp(i.command, i.parameter, function(retValue, success) {
+                            var returnMsg = {
+                                "__cmpReturn": {
+                                    "returnValue": retValue,
+                                    "success": success,
+                                    "callId": i.callId
+                                }
+                            };
+                            event.source.postMessage(msgIsString ?
+                                JSON.stringify(returnMsg) : returnMsg, '*');
+                        });
+                    }
+                }
+                window.__cmp = function(c) {
+                    var b = arguments;
+                    if (!b.length)
+
+                    {
+                        return __cmp.a;
+                    } else if (b[0] === 'ping') {
+                        b[2](
+
+                            {
+                                "gdprAppliesGlobally": gdprAppliesGlobally,
+                                "cmpLoaded": false
+                            }, true);
+                    } else if (c == '__cmp')
+                        return false;
+                    else {
+                        if (typeof __cmp.a === 'undefined')
+
+                        {
+                            __cmp.a = [];
+                        }
+                        __cmp.a.push([].slice.apply(b));
+                    }
+                }
+                window.__cmp.gdprAppliesGlobally = gdprAppliesGlobally;
+                window.__cmp.msgHandler = cmpMsgHandler;
+                if (window.addEventListener)
+
+                {
+                    window.addEventListener('message', cmpMsgHandler, false);
+                } else
+
+                {
+                    window.attachEvent('onmessage', cmpMsgHandler);
+                }
+            })(); window.__cmp('init',
+
+            {
+                'Language': 'en',
+                'Initial Screen Reject Button Text': 'I do not accept',
+                'Initial Screen Accept Button Text': 'I accept',
+                'Initial Screen Purpose Link Text': 'Find Out More',
+                'Purpose Screen Body Text': 'You can set your consent preferences and determine how you want your data to be used based on the purposes below. You may set your preferences for us independently from those of third-party partners. Each purpose has a description so that you know how we and partners use your data.',
+                'Vendor Screen Body Text': 'You can set consent preferences for each individual third-party company below. Expand each company list item to see what purposes they use data for to help make your choices. In some cases, companies may disclose that they use your data without asking for your consent, based on their legitimate interests. You can click on their privacy policies for more information and to opt out.',
+                'Vendor Screen Accept All Button Text': 'Accept all',
+                'Vendor Screen Reject All Button Text': 'Reject all',
+                'Initial Screen Body Text': 'We and our partners use technology such as cookies on our site to personalise content and ads, provide social media features, and analyse our traffic. Click below to consent to the use of this technology across the web. You can change your mind and change your consent choices at anytime by returning to this site.',
+                'Initial Screen Body Text Option': 1,
+                'Publisher Name': 'City A.M.',
+                'Publisher Logo': 'https://www.blackswan.com/blog/wp-content/uploads/2018/01/city-am-logo.jpg',
+                'Post Consent Page': 'http://www.cityam.com/privacy-policy',
+                'No Option': false,
+            }
+        );
+    </script>
+
+<style>
+        .qc-cmp-button {
+            background-color: #1a86dd !important;
+            border-color: #1a86dd !important;
+        }
+
+        .qc-cmp-button:hover {
+            background-color: transparent !important;
+            border-color: #1a86dd !important;
+        }
+
+        .qc-cmp-alt-action,
+        .qc-cmp-link {
+            color: #1a86dd !important;
+        }
+
+        .qc-cmp-button {
+            color: #ffffff !important;
+        }
+
+        .qc-cmp-button.qc-cmp-secondary-button {
+            color: #1a86dd !important;
+        }
+
+        .qc-cmp-button.qc-cmp-button.qc-cmp-secondary-button:hover {
+            color: #ffffff !important;
+        }
+
+        .qc-cmp-button.qc-cmp-secondary-button {
+            border-color: #ffffff !important;
+            background-color: transparent !important;
+        }
+
+        .qc-cmp-button.qc-cmp-secondary-button:hover {
+            background-color: #ffffff !important;
+        }
+
+        .qc-cmp-ui,
+        .qc-cmp-ui .qc-cmp-main-messaging,
+        .qc-cmp-ui .qc-cmp-messaging,
+        .qc-cmp-ui .qc-cmp-beta-messaging,
+        .qc-cmp-ui .qc-cmp-title,
+        .qc-cmp-ui .qc-cmp-sub-title,
+        .qc-cmp-ui .qc-cmp-purpose-info,
+        .qc-cmp-ui .qc-cmp-table,
+        .qc-cmp-ui .qc-cmp-table-header,
+        .qc-cmp-ui .qc-cmp-vendor-list,
+        .qc-cmp-ui .qc-cmp-vendor-list-title {
+            color: #000000 !important;
+        }
+
+        .qc-cmp-ui a,
+        .qc-cmp-ui .qc-cmp-alt-action {
+            color: #1a86dd !important;
+        }
+
+        .qc-cmp-ui {
+            background-color: #ffffff !important;
+        }
+
+        .qc-cmp-publisher-purposes-table .qc-cmp-table-header {
+            background-color: #fafafa !important;
+        }
+
+        .qc-cmp-publisher-purposes-table .qc-cmp-table-row {
+            background-color: #ffffff !important;
+        }
+
+        .qc-cmp-small-toggle.qc-cmp-toggle-on,
+        .qc-cmp-toggle.qc-cmp-toggle-on {
+            background-color: #1a86dd !important;
+            border-color: #1a86dd !important;
+        }
+    </style>
+<script src="/assets/js/jquery-1.11.1.min.js"></script>
+<script src="/assets/js/jquery-migrate-1.2.1.min.js"></script>
+<meta class="ogImage" property="og:image" content="http://www.cityam.com/assets/images/site/holding-images/200x200_default.png" />
+<meta class="ogImageUrl" property="og:image:url" content="http://www.cityam.com/assets/images/site/holding-images/200x200_default.png" />
+<meta property="article:section" content="" />
+<script src="/assets/js/adobe/AppMeasurement.js?v=201808171404" type="text/javascript"></script>
+<link rel="shortcut icon" href="/assets/images/site/icons/favicon.ico">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-TileImage" content="/assets/images/site/icons/mstile-144x144.png">
+<meta name="msapplication-config" content="/assets/images/site/icons/browserconfig.xml">
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta charset="utf-8" />
+<link href="/assets/css/reset.css" rel="stylesheet" type="text/css" />
+<link href="/assets/frontend/css/app.css?v=201808171404" media="screen, projection" rel="stylesheet" type="text/css" />
+<link href="/assets/css/cam-animate.css" media="screen" rel="stylesheet" type="text/css" />
+<link href='http://fonts.googleapis.com/css?family=Merriweather:400,700,900' rel='stylesheet' type='text/css'>
+<link href="/assets/css/font-awesome.min.css" rel="stylesheet">
+<link href="/assets/css/fonts/source-sans.css" rel='stylesheet' type='text/css' />
+<link href="/assets/css/admin/jquery-ui.min.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/assets/css/admin/jquery-ui.structure.min.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/assets/css/admin/jquery-ui.theme.min.css" media="screen" rel="stylesheet" type="text/css" />
+<script src="/assets/js/admin/jquery-ui.min.js"></script>
+<!--[if IE]>
+<link href="/assets/css/ie.css" media="screen, projection" rel="stylesheet" type="text/css" />
+<![endif]-->
+<meta name="viewport" content="initial-scale = 1.0, maximum-scale = 1.0" />
+<link rel="apple-touch-icon" sizes="57x57" href="/assets/images/site/icons/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/assets/images/site/icons/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/assets/images/site/icons/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/assets/images/site/icons/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/assets/images/site/icons/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/assets/images/site/icons/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/assets/images/site/icons/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/assets/images/site/icons/apple-touch-icon-152x152.png">
+<link rel="icon" type="image/png" href="/assets/images/site/icons/favicon-160x160.png" sizes="160x160">
+<link rel="icon" type="image/png" href="/assets/images/site/icons/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/assets/images/site/icons/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="/assets/images/site/icons/favicon-32x32.png" sizes="32x32">
+
+<script type="text/javascript">
+    var dataLayer = [];
+    var dataVars = {};
+            dataVars.pageCategory = 'error';
+                                                        dataVars.adobePageName = '404-http://www.cityam.com/assets/uploads/content/2018/01/cityam-2018-01-30--5a710def77a87.pdf';
+                    dataVars.adobePageType = 'error-404';
+                    dataVars.adobeErrorPageType = 'errorPage';
+                dataVars.adobePageSection = 'error';
+                dataVars.adobePageSubSection = '';
+                dataVars.adobePageHierarchy = 'error';
+                                                    
+                dataVars.pageCategory = 'error';
+                    dataVars.pageType = 'error-404';
+                dataVars.pageChannel = 'error';
+                            dataVars.camPageUri = '404-http://www.cityam.com/assets/uploads/content/2018/01/cityam-2018-01-30--5a710def77a87.pdf';
+    
+    
+    dataLayer.push(dataVars);
+</script>
+
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PB4567"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-PB4567');</script>
+
+<script type="text/javascript" src="//mtrx.go.sonobi.com/morpheus.cityam.1720.js"></script>
+<script type='text/javascript'>
+    (function() {
+        var useSSL = 'https:' == document.location.protocol;
+        var src = (useSSL ? 'https:' : 'http:') +
+                '//www.googletagservices.com/tag/js/gpt.js';
+        document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+    })();
+</script>
+<script type="text/javascript" src="/assets/js/audience-extraction.js?v=201808171404"></script>
+<script type="text/javascript" src="/assets/js/onscreen/on-screen.umd.min.js"></script>
+<script type="text/javascript" src="/assets/js/dfp/dfp.js?v=201808171404"></script>
+<script type="text/javascript">
+googletag.cmd.push(function() {
+googletag
+.defineSlot('/134702932/digital-innovators', [[970, 250], [728, 90]], 'digital-innovators')
+.defineSizeMapping(dfpSizeMappings.bannerAd)
+.addService(googletag.pubads());
+googletag
+.defineSlot('/134702932/banner_Ad_A', [[970, 250], [728, 90]], 'banner_Ad_A')
+.defineSizeMapping(dfpSizeMappings.bannerAd)
+.addService(googletag.pubads());
+googletag
+.defineSlot('/134702932/banner_Ad_B', [[970, 250], [728, 90]], 'banner_Ad_B')
+.defineSizeMapping(dfpSizeMappings.bannerAd)
+.addService(googletag.pubads());
+googletag
+.defineSlot('/134702932/banner_Ad_C', [728, 90], 'banner_Ad_C')
+.defineSizeMapping(dfpSizeMappings.banner728)
+.addService(googletag.pubads());
+googletag
+.defineSlot('/134702932/boxAd_A', [300, 250], 'boxAd_A')
+.addService(googletag.pubads());
+googletag
+.defineSlot('/134702932/boxAd_B', [300, 250], 'boxAd_B')
+.addService(googletag.pubads());
+googletag
+.defineSlot('/134702932/article_body_freewall', [1, 1], 'article_body_freewall')
+.addService(googletag.pubads());
+googletag
+.defineSlot('/134702932/article_body_video', [1, 1], 'article_body_video')
+.addService(googletag.pubads());
+googletag
+.defineSlot('/134702932/company_1', [1, 1], 'company_1')
+.addService(googletag.pubads());
+googletag
+.defineSlot('/134702932/banner_website_leap_popup', [1, 1], 'banner_website_leap_popup')
+.defineSizeMapping(dfpSizeMappings.leapPopup)
+.addService(googletag.pubads());
+googletag
+.defineSlot('/134702932/list_banner_website_1', [728, 90], 'list_banner_website_1')
+.defineSizeMapping(dfpSizeMappings.banner728)
+.addService(googletag.pubads());
+googletag
+.defineSlot('/134702932/list_banner_website_2', [728, 90], 'list_banner_website_2')
+.defineSizeMapping(dfpSizeMappings.banner728)
+.addService(googletag.pubads());
+googletag.pubads().collapseEmptyDivs();googletag.enableServices();
+});
+</script>
+
+<script type="text/javascript">
+    (function() {
+        var cx = '012303637272837164841:8tcdln7ll_i';
+        var gcse = document.createElement('script');
+        gcse.type = 'text/javascript';
+        gcse.async = true;
+        gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+                '//www.google.com/cse/cse.js?cx=' + cx;
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(gcse, s);
+    })();
+</script>
+
+
+<script type="text/javascript">
+    _atrk_opts = { atrk_acct:"HVBpi1a8s700yN", domain:"cityam.com",dynamic: true};
+    (function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=HVBpi1a8s700yN" style="display:none" height="1" width="1" alt="" /></noscript>
+
+<script type="text/javascript">
+    </script>
+<script type="text/javascript" src="/assets/js/bootstrap.min.js"></script>
+<script type="text/javascript">
+    var cam = {
+        currentPage: {}
+    };
+</script>
+<script type="text/javascript">
+        cam.currentPage.topLevelSection = 'error';
+    </script>
+<script type="text/javascript">
+        window.adRefreshSettings = {
+            enabled: 1,
+            refreshDelay: 25,
+            refreshLimit: 5
+        };
+    </script> 
+<script src="//d3urj1bkrgys5t.cloudfront.net/app.min.js" async></script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-21045025-5"></script>
+<script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag()
+
+        {dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-21045025-5');
+    </script>
+<script type="text/javascript">
+        googletag.pubads().setTargeting('PostID', ['25366']);
+        googletag.pubads().setTargeting('Page-Type', ['single']);
+        googletag.pubads().setTargeting('Post-Type', ['post']);
+        googletag.pubads().setTargeting('Post-Author', ['Hunain Haider']);
+        googletag.pubads().setTargeting('Category', ['life']);
+    </script>
+</head>
+<body class="">
+<div id="cam-desktop-checker" class="hidden-lg"></div>
+<div class="">
+<div class="cam-background-overlay"></div>
+<div id="cookie-notice"></div>
+<div id="admin-navigation" data-navigation-ad="cam-1">
+</div>
+<div id="pre-header" data-navigation-ad="cam-2">
+</div>
+<header class="js-navigation-affix" data-navigation-ad="cam-3">
+<div class="navigation">
+<nav class="navbar-default">
+<div class="container relative">
+
+<div id="cam-menu-btn" class="navigation-spacer navigation-logo navigation-highlight" style="padding: 0 12px">
+<a href="/" id="logo">
+<svg width="137" height="32" viewBox="0 0 137 32">
+<path class="st0" d="M17.1,9.9h-0.7c-0.4-3.4-2.2-8.2-5.9-8.2c-3,0-3.6,2.9-3.6,7.5v15c0,2.7,0.5,6.1,3.4,6.1c3.8,0,6-4.1,6.4-8.2
+    h0.7v8.4h-0.7c0-0.7-0.2-1.5-0.9-1.5c-0.9,0-2.5,2-5.4,2C4.1,31,0,24,0,16C0,8,4.1,1,10.3,1c3.1,0,4.2,2.3,5.2,2.3
+    c0.6,0,0.8-0.8,0.9-1.7h0.7V9.9z" />
+<path class="st0" d="M19.6,29.7h2V2.3h-2V1.6h10.2v0.7h-2v27.4h2v0.7H19.6V29.7z" />
+<path class="st0" d="M35.7,29.7h2.6V2.3c-4.6,0.5-5.9,4.6-6.1,8.6h-0.7V1.6h19.9V11h-0.7c-0.2-4.1-1.5-8.2-6.1-8.6v27.4h2.6v0.7
+    H35.7V29.7z" />
+<path class="st0" d="M57.1,29.7h2.2V17.3l-6-15h-1.5V1.6h9.5v0.7h-1.7l5.1,13.1L69,5.2c0.4-0.9,0.7-1.6,0.7-2
+    c0-0.8-1.1-0.8-1.9-0.8V1.6h5.1v0.7c-1.8,0-2,0.2-3,2.6l-4.5,11.1v13.6h2.2v0.7H57.1V29.7z" />
+<path class="st0" d="M71.9,29.7c1.4,0,2.1-0.5,2.4-1.7l7.3-26.4h2l7.5,28.1h1.8v0.7H83v-0.7h2l-2.1-8H77l-1,3.8
+    c-0.5,1.6-0.8,2.9-0.8,3.2c0,0.9,1.6,0.9,2.2,0.9v0.7h-5.5V29.7z M79.9,10.9L79.9,10.9L77.1,21h5.5L79.9,10.9z" />
+<path class="st0" d="M94.2,25.4h4.7v5h-4.7V25.4z" />
+<path class="st0" d="M101.6,29.7c1.9,0,2.2-0.3,2.2-3.9V2.3h-2V1.6h8.5l4.5,17.9h0.1l4.5-17.9h8.3v0.7h-2v27.4h2v0.7h-10.1v-0.7
+    h2.2V3h-0.1l-6.8,27.4h-1.4l-6.9-27.6h-0.1v23c0,3.5,0.4,3.9,2.2,3.9v0.7h-5.4V29.7z" />
+<path class="st0" d="M130.4,25.4h4.7v5h-4.7V25.4z" />
+</svg>
+</a>
+<button type="button" class="cam-dropdown-burger remove-button-styles" aria-haspopup="true" aria-expanded="false">
+<span class="header-icon-bar"></span>
+<span class="header-icon-bar"></span>
+<span class="header-icon-bar"></span>
+</button>
+<div id="cam-desktop-navigation" class="cam-dropdown">
+<div class="visible-xs cam-navigation-type"></div>
+<div class="dropdown-menu cam-dropdown-menu row" aria-labelledby="dLabel">
+<ul class="cam-dropdown-primary hidden-xs" role="tablist">
+<li role="presentation" class="cam-primary-item Business">
+<a class="cam-nav-link" href="/business" aria-controls="cam-link-business">Business</a>
+</li>
+<li role="presentation" class="cam-primary-item Industries">
+<a class="cam-nav-link" href="/industries" aria-controls="cam-link-industries">Industries</a>
+</li>
+<li role="presentation" class="cam-primary-item Markets">
+<a class="cam-nav-link" href="/markets" aria-controls="cam-link-markets">Markets</a>
+</li>
+<li role="presentation" class="cam-primary-item Technology">
+<a class="cam-nav-link" href="/technology" aria-controls="cam-link-technology">Technology</a>
+</li>
+<li role="presentation" class="cam-primary-item Leadership">
+<a class="cam-nav-link" href="/leadership" aria-controls="cam-link-leadership">Leadership</a>
+</li>
+<li role="presentation" class="cam-primary-item Life &amp; Style">
+<a class="cam-nav-link" href="/life-and-style" aria-controls="cam-link-life-and-style">Life &amp; Style</a>
+</li>
+<li role="presentation" class="cam-primary-item Money">
+<a class="cam-nav-link" href="/money" aria-controls="cam-link-money">Money</a>
+</li>
+<li role="presentation" class="cam-primary-item Sport">
+<a class="cam-nav-link" href="/sport" aria-controls="cam-link-sport">Sport</a>
+</li>
+<li role="presentation" class="cam-primary-item Charity">
+<a class="cam-nav-link" href="/chairty" aria-controls="cam-link-charity">Charity</a>
+</li>
+<li role="presentation" class="cam-primary-item Lists">
+<a class="cam-nav-link" href="/lists" aria-controls="cam-link-lists">Lists</a>
+</li>
+<li class="cam-empty-li visible-sm visible-md cam-remove-border-bottom">&nbsp;</li>
+</ul>
+<div class="cam-dropdown-secondary tab-content hidden-xs">
+<div id="cam-link-business" role="tabpanel" class="tab-pane in active cam-dropdown-secondary-container">
+<div class="cam-secondary-title">
+<a href="/business">Business <span>(View all)</span></a>
+</div>
+<ul class="cam-secondary-list">
+<li class="cam-secondary-item ">
+<a class="cam-nav-link" href="/business/banking">Banking</a>
+</li>
+<li class="cam-secondary-item ">
+<a class="cam-nav-link" href="/business/economics">Economics</a>
+</li>
+<li class="cam-secondary-item ">
+<a class="cam-nav-link" href="/business/international">International</a>
+</li>
+<li class="cam-secondary-item ">
+<a class="cam-nav-link" href="/business/london">London</a>
+</li>
+<li class="cam-secondary-item ">
+<a class="cam-nav-link" href="/business/insurance">Insurance</a>
+</li>
+<li class="cam-secondary-item ">
+<a class="cam-nav-link" href="/business/manda">M&amp;A</a>
+</li>
+<li class="cam-secondary-item ">
+<a class="cam-nav-link" href="/business/the-capitalist">The Capitalist</a>
+</li>
+<li class="cam-secondary-item ">
+<a class="cam-nav-link" href="/business/politics">Politics</a>
+</li>
+<li class="cam-secondary-item cam-remove-border-bottom">
+<a class="cam-nav-link" href="/talk/cfa-institute">CFA Institute Talk</a>
+</li>
+<li class="cam-secondary-item cam-remove-border-bottom">
+<a class="cam-nav-link" href="/talk/acca-talk">ACCA Talk</a>
+</li>
+</ul>
+</div>
+<div id="cam-link-industries" role="tabpanel" class="tab-pane  cam-dropdown-secondary-container">
+<div class="cam-secondary-title">
+<a href="/industries">Industries <span>(View all)</span></a>
+</div>
+<ul class="cam-secondary-list">
+<li class="cam-secondary-item ">
+<a class="cam-nav-link" href="/industries/law-and-professional-services">Law &amp; professional services</a>
+</li>
+<li class="cam-secondary-item ">
+<a class="cam-nav-link" href="/industries/property">Property</a>
+</li>
+<li class="cam-secondary-item ">
+<a class="cam-nav-link" href="/industries/retail-and-leisure">Retail and leisure</a>
+</li>
+<li class="cam-secondary-item ">
+<a class="cam-nav-link" href="/industries/marketing-and-advertising">Marketing and advertising</a>
+</li>
+<li class="cam-secondary-item ">
+<a class="cam-nav-link" href="/industries/pharmaceuticals">Pharmaceuticals</a>
+</li>
+<li class="cam-secondary-item ">
+<a class="cam-nav-link" href="/industries/telecoms">Telecoms</a>
+</li>
+<li class="cam-secondary-item ">
+<a class="cam-nav-link" href="/industries/media">Media</a>
+</li>
+<li class="cam-secondary-item ">
+<a class="cam-nav-link" href="/industries/transport-and-infrastructure">Transport and infrastructure</a>
+</li>
+<li class="cam-secondary-item cam-remove-border-bottom">
+<a class="cam-nav-link" href="/industries/industrials">Industrials</a>
+</li>
+</ul>
+</div>
+<div id="cam-link-markets" role="tabpanel" class="tab-pane  cam-dropdown-secondary-container">
+<div class="cam-secondary-title">
+<a href="/markets">Markets <span>(View all)</span></a>
+</div>
+<ul class="cam-secondary-list">
+<li class="cam-secondary-item ">
+<a class="cam-nav-link" href="/markets/currencies">Currencies</a>
+</li>
+<li class="cam-secondary-item ">
+<a class="cam-nav-link" href="/markets/cryptocurrencies">Cryptocurrencies</a>
+</li>
+<li class="cam-secondary-item ">
+<a class="cam-nav-link" href="/markets/commodities">Commodities</a>
+</li>
+<li class="cam-secondary-item ">
+<a class="cam-nav-link" href="/markets/equities">Equities</a>
+</li>
+
+<li class="cam-secondary-item ">
+<a class="cam-nav-link" href="/markets/bonds">Bonds</a>
+</li>
+<li class="cam-secondary-item ">
+<a class="cam-nav-link" href="/markets/ipos-and-fundraising">IPOs and fundraising</a>
+</li>
+<li class="cam-secondary-item cam-remove-border-bottom">
+<a class="cam-nav-link" href="/talk/cmcmarkets">CMC Markets Talk</a>
+</li>
+</ul>
+</div>
+<div id="cam-link-technology" role="tabpanel" class="tab-pane  cam-dropdown-secondary-container">
+<div class="cam-secondary-title">
+<a href="/technology">Technology <span>(View all)</span></a>
+</div>
+<ul class="cam-secondary-list">
+<li class="cam-secondary-item ">
+<a class="cam-nav-link" href="/technology/science">Science</a>
+</li>
+ <li class="cam-secondary-item ">
+<a class="cam-nav-link" href="/technology/gadget-reviews">Gadget reviews</a>
+</li>
+<li class="cam-secondary-item cam-remove-border-bottom">
+<a class="cam-nav-link" href="/technology/cyber-security">Cyber security</a>
+</li>
+<li class="cam-secondary-item cam-remove-border-bottom">
+<a class="cam-nav-link" href="/technology/fintech">Fintech</a>
+</li>
+</ul>
+</div>
+<div id="cam-link-leadership" role="tabpanel" class="tab-pane  cam-dropdown-secondary-container">
+<div class="cam-secondary-title">
+<a href="/leadership">Leadership <span>(View all)</span></a>
+</div>
+<ul class="cam-secondary-list">
+<li class="cam-secondary-item ">
+<a class="cam-nav-link" href="/leadership/entrepreneurs">Entrepreneurs</a>
+</li>
+<li class="cam-secondary-item ">
+<a class="cam-nav-link" href="/leadership/management">Management</a>
+</li>
+<li class="cam-secondary-item ">
+<a class="cam-nav-link" href="/leadership/millennials">Millennials</a>
+</li>
+<li class="cam-secondary-item ">
+<a class="cam-nav-link" href="/leadership/careers">Careers</a>
+</li>
+<li class="cam-secondary-item cam-remove-border-bottom">
+<a class="cam-nav-link" href="/leadership/women">Women</a>
+</li>
+</ul>
+</div>
+<div id="cam-link-life-and-style" role="tabpanel" class="tab-pane  cam-dropdown-secondary-container">
+<div class="cam-secondary-title">
+<a href="/life-and-style">Life &amp; Style <span>(View all)</span></a>
+</div>
+<ul class="cam-secondary-list">
+<li class="cam-secondary-item ">
+<a class="cam-nav-link" href="/life-and-style/travel">Travel</a>
+</li>
+<li class="cam-secondary-item ">
+<a class="cam-nav-link" href="/life-and-style/watches">Watches</a>
+</li>
+<li class="cam-secondary-item ">
+<a class="cam-nav-link" href="/life-and-style/fashion">Fashion</a>
+</li>
+<li class="cam-secondary-item ">
+<a class="cam-nav-link" href="/life-and-style/food">Food</a>
+</li>
+<li class="cam-secondary-item ">
+<a class="cam-nav-link" href="/life-and-style/homes-and-interiors">Homes and interiors</a>
+</li>
+<li class="cam-secondary-item ">
+<a class="cam-nav-link" href="/life-and-style/cars">Cars</a>
+</li>
+<li class="cam-secondary-item cam-remove-border-bottom">
+<a class="cam-nav-link" href="/life-and-style/culture">Culture</a>
+</li>
+<li class="cam-secondary-item cam-remove-border-bottom">
+<a class="cam-nav-link" href="/pullman">Pullman</a>
+</li>
+</ul>
+</div>
+<div id="cam-link-money" role="tabpanel" class="tab-pane  cam-dropdown-secondary-container">
+<div class="cam-secondary-title">
+<a href="/money">Money <span>(View all)</span></a>
+</div>
+<ul class="cam-secondary-list">
+<li class="cam-secondary-item ">
+<a class="cam-nav-link" href="/money/investing">Investing</a>
+</li>
+<li class="cam-secondary-item ">
+<a class="cam-nav-link" href="/money/pensions">Pensions</a>
+</li>
+<li class="cam-secondary-item ">
+<a class="cam-nav-link" href="/money/crowdfunding">Crowdfunding</a>
+</li>
+<li class="cam-secondary-item ">
+<a class="cam-nav-link" href="/money/alt-fi">Alt-fi</a>
+</li>
+<li class="cam-secondary-item ">
+<a class="cam-nav-link" href="/crowd-finance-data">Crowd Finance Data</a>
+</li>
+<li class="cam-secondary-item ">
+<a class="cam-nav-link" href="/money/isas">ISAS</a>
+</li>
+<li class="cam-secondary-item ">
+<a class="cam-nav-link" href="/talk/schroders">Schroders Talk</a>
+</li>
+<li class="cam-secondary-item ">
+<a class="cam-nav-link" href="/talk/fisher-investment-talk">Fisher Investments UK Talk</a>
+</li>
+<li class="cam-secondary-item cam-remove-border-bottom">
+<a class="cam-nav-link" href="/talk/charles-stanley-talk">Charles Stanley Talk</a>
+</li>
+</ul>
+</div>
+<div id="cam-link-sport" role="tabpanel" class="tab-pane  cam-dropdown-secondary-container">
+<div class="cam-secondary-title">
+<a href="/sport">Sport <span>(View all)</span></a>
+</div>
+<ul class="cam-secondary-list">
+<li class="cam-secondary-item ">
+<a class="cam-nav-link" href="/sport/football">Football</a>
+</li>
+<li class="cam-secondary-item ">
+<a class="cam-nav-link" href="/sport/rugby-union">Rugby Union</a>
+</li>
+<li class="cam-secondary-item ">
+<a class="cam-nav-link" href="/sport/formula-1">Formula 1</a>
+</li>
+<li class="cam-secondary-item ">
+<a class="cam-nav-link" href="/sport/cricket">Cricket</a>
+</li>
+<li class="cam-secondary-item ">
+<a class="cam-nav-link" href="/sport/the-punter">The Punter</a>
+</li>
+<li class="cam-secondary-item ">
+<a class="cam-nav-link" href="/sport/tennis">Tennis</a>
+</li>
+<li class="cam-secondary-item cam-remove-border-bottom">
+<a class="cam-nav-link" href="/sport/golf">Golf</a>
+</li>
+<li class="cam-secondary-item cam-remove-border-bottom">
+<a class="cam-nav-link" href="/sport/sports-money">Sports money</a>
+</li>
+</ul>
+</div>
+<div id="cam-link-charity" role="tabpanel" class="tab-pane  cam-dropdown-secondary-container">
+<div class="cam-secondary-title">
+<a href="/chairty">Charity <span>(View all)</span></a>
+</div>
+<ul class="cam-secondary-list">
+<li class="cam-secondary-item cam-remove-border-bottom">
+<a class="cam-nav-link" href="/talk/peoples-">People&#039;s Talk</a>
+</li>
+</ul>
+</div>
+<div id="cam-link-lists" role="tabpanel" class="tab-pane  cam-dropdown-secondary-container">
+<div class="cam-secondary-title">
+<a href="/lists">Lists <span>(View all)</span></a>
+</div>
+<ul class="cam-secondary-list">
+<li class="cam-secondary-item ">
+<a class="cam-nav-link" href="/digital-innovators">Digital Innovators</a>
+</li>
+<li class="cam-secondary-item ">
+<a class="cam-nav-link" href="/rio-50">Rio 50</a>
+</li>
+<li class="cam-secondary-item ">
+<a class="cam-nav-link" href="/power-100-women">Power 100 Women</a>
+</li>
+<li class="cam-secondary-item ">
+<a class="cam-nav-link" href="/leap-100">Leap 100</a>
+</li>
+<li class="cam-secondary-item cam-remove-border-bottom">
+<a class="cam-nav-link" href="/giving-2017">Giving 2017</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="cam-dropdown-tertiary hidden-xs">
+<div class="cam-tertiary-authors">
+<div class="cam-tertiary-title">Most viewed authors <span class="infobox" data-toggle="tooltip" data-placement="top" title="Published in the last 72 hours"><i class="fa fa-question-circle" aria-hidden="true"></i></span></div>
+<div class="cam-navigation-author">
+<div class="cam-author-img-col">
+<img class="cam-navigation-author-img" src="/assets/uploads/authors/image_resized/5b8e7bfb3e9be-RebeccaSmith.jpg" />
+</div>
+<div class="cam-author-details-col">
+<div class="cam-author-text">
+<a class="cam-nav-link" href="">Rebecca Smith</a>
+</div>
+<div class="cam-author-views">(8,691 views)</div>
+</div>
+</div>
+<div class="cam-navigation-author">
+<div class="cam-author-img-col">
+<img class="cam-navigation-author-img" src="/assets/uploads/authors/image_resized/57eda96f2c748-lynsey-barber-220x220.jpg" />
+</div>
+<div class="cam-author-details-col">
+<div class="cam-author-text">
+<a class="cam-nav-link" href="">Lynsey Barber</a>
+</div>
+<div class="cam-author-views">(8,348 views)</div>
+</div>
+</div>
+<div class="cam-navigation-author">
+<div class="cam-author-img-col">
+<img class="cam-navigation-author-img" src="/assets/uploads/authors/image_resized/57eda97942736-caitlin-morrison-220x220.jpg" />
+</div>
+<div class="cam-author-details-col">
+<div class="cam-author-text">
+<a class="cam-nav-link" href="">Caitlin Morrison</a>
+</div>
+<div class="cam-author-views">(5,874 views)</div>
+</div>
+</div>
+</div>
+<div class="cam-tertiary-links">
+<div class="cam-tertiary-title">City A.M. links</div>
+<ul class="cam-tertiary-link-list">
+<li><a class="cam-nav-link" href="http://www.cityam.com/newsletter">Newsletters</a></li>
+<li><a class="cam-nav-link" href="http://www.cityam.com/edition">Latest paper</a></li>
+<li><a class="cam-nav-link" href="http://www.cityam.com/advertising">Advertising</a></li>
+<li><a class="cam-nav-link" href="http://www.cityam.com/awards ">Awards</a></li>
+<li><a class="cam-nav-link" href="/crypto-insider">CryptoInsider</a></li>
+<li><a class="cam-nav-link" href="/about-city-am">About</a></li>
+<li><a class="cam-nav-link" href="/careers-at-city-am">Careers</a></li>
+<li><a class="cam-nav-link" href="http://tickets.cityam.com/" target="_blank">Tickets</a></li>
+<div class="clearfix"></div>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<ul class="navigation-highlight navigation-search">
+<li><a href="javascript:void(0)" class="js-search-btn"><img class="navigation-search-icon" src="/assets/frontend/images/search-iconx2.gif" alt="" /></a></li>
+</ul>
+<div class="navigation-search-input">
+<form action="/search-results" id="search-form">
+<input type="text" name="as_q" placeholder="Search City A.M..." class="js-search-input" />
+</form>
+</div>
+<ul class="nav navigation-spacer social-links hidden-xs hidden-sm">
+<li>
+<ul>
+<li>
+<a href="https://www.facebook.com/cityam" class="facebook-icon social-click" data-social-type="Facebook (H)" title="Follow us on Facebook" target="_blank">
+<svg width="24" height="24" viewBox="0 0 90 90" style="margin-top:10px;">
+<path id="f" d="M49.7,89.9V55.1h11.7l1.7-13.6H49.7v-8.7c0-3.9,1.1-6.6,6.7-6.6l7.2,0V14.1c-1.2-0.2-5.5-0.5-10.5-0.5
+c-10.4,0-17.5,6.3-17.5,17.9v10H24v13.6h11.7v34.8H49.7z" />
+</svg>
+</a>
+</li>
+<li>
+<a href="https://twitter.com/cityam" class="twitter-icon social-click" data-social-type="Twitter (H)" title="Follow us on Twitter" target="_blank">
+<svg width="24" height="24" viewBox="0 0 90 90">
+<path d="M76.3,25.6c-2.3,1-4.8,1.7-7.4,2c2.7-1.6,4.7-4.1,5.7-7.1c-2.5,1.5-5.2,2.5-8.2,3.1c-2.3-2.5-5.7-4.1-9.4-4.1
+c-7.1,0-12.9,5.8-12.9,12.9c0,1,0.1,2,0.3,2.9C33.8,34.8,24.3,29.7,18,21.9c-1.1,1.9-1.7,4.1-1.7,6.5c0,4.5,2.3,8.4,5.7,10.7
+c-2.1-0.1-4.1-0.6-5.8-1.6c0,0.1,0,0.1,0,0.2c0,6.2,4.4,11.4,10.3,12.6c-1.1,0.3-2.2,0.5-3.4,0.5c-0.8,0-1.6-0.1-2.4-0.2
+c1.6,5.1,6.4,8.8,12,8.9c-4.4,3.4-9.9,5.5-16,5.5c-1,0-2.1-0.1-3.1-0.2c5.7,3.6,12.4,5.8,19.7,5.8c23.6,0,36.6-19.6,36.6-36.6
+c0-0.6,0-1.1,0-1.7C72.4,30.4,74.6,28.1,76.3,25.6z" />
+</svg>
+</a>
+</li>
+<li>
+<a href="https://plus.google.com/106508342285323254392/posts" class="googleplus-icon social-click" data-social-type="Google+ (H)" title="Follow us on Google+" target="_blank">
+<svg width="24" height="24" viewBox="0 0 90 90">
+<path class="st1" d="M38.4,45.6c0-3.5,7.7-4.5,7.7-12.7c0-4.9-0.5-7.9-4.3-9.7c0-1.2,6.9-0.4,6.9-2.7c-1.2,0-15,0-15,0
+s-15.2,0.4-15.2,13.2c0,12.9,13.3,11.4,13.3,11.4s0,1.9,0,3.3c0,1.3,1.8,0.9,2,3.5c-0.9,0-18.5-0.5-18.5,11.2
+c0,11.7,15.5,11.1,15.5,11.1s17.9,0.8,17.9-13.7C48.6,51.9,38.4,49.1,38.4,45.6z M25.4,34.5c-1.4-5.2,0.4-10.2,4.1-11.2
+c3.7-1,7.8,2.4,9.2,7.5c1.4,5.2-0.4,10.2-4.1,11.2C30.9,43.1,26.8,39.7,25.4,34.5z M33.1,70.5c-6.2,0.4-11.5-2.9-11.8-7.4
+c-0.3-4.5,4.5-8.5,10.7-8.9c6.2-0.4,11.5,2.9,11.8,7.4C44.1,66.1,39.3,70.1,33.1,70.5z" />
+<polygon class="st1" points="76.8,31 76.8,34.1 66.3,34.1 66.3,44.5 63.2,44.5 63.2,34.1 52.8,34.1 52.8,31 63.2,31 63.2,20.5
+66.3,20.5 66.3,31 		" />
+</svg>
+</a>
+</li>
+<li>
+<a href="http://www.linkedin.com/company/cityam" class="linkedin-icon social-click" data-social-type="LinkedIn (H)" title="Follow us on LinkedIn" target="_blank">
+<svg width="24" height="24" viewBox="0 0 90 90">
+<g>
+<path d="M27.2,75.7V34.9H13.7v40.8H27.2L27.2,75.7z M20.5,29.3c4.7,0,7.7-3.1,7.7-7.1c-0.1-4-2.9-7.1-7.6-7.1
+c-4.6,0-7.7,3.1-7.7,7.1C12.9,26.2,15.8,29.3,20.5,29.3L20.5,29.3L20.5,29.3z" />
+<path d="M34.8,75.7h13.6V52.9c0-1.2,0.1-2.4,0.4-3.3c1-2.4,3.2-5,7-5c4.9,0,6.9,3.7,6.9,9.2v21.9h13.6V52.3
+c0-12.5-6.7-18.4-15.6-18.4c-7.3,0-10.5,4.1-12.3,6.9h0.1v-5.9H34.8C34.9,38.7,34.8,75.7,34.8,75.7L34.8,75.7z" />
+</g>
+</svg>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class="nav-inline hidden-xs">
+<a href="http://www.cityam.com/latest-news">Latest news</a>
+<a href="http://www.cityam.com/most-popular">Most popular</a>
+<a href="/opinion">Opinion</a>
+<a href="/topic/city-am-unregulated" class="hidden-sm">Podcast</a>
+<a href="/advertising/magazines" class="hidden-sm">The Magazine</a>
+</div>
+</div>
+</nav>
+</div>
+</header>
+<div id="cam-mobile-navigation"></div>
+<div class="sub-navigation" data-navigation-ad="cam-4">
+<div class="container ">
+<div class="row">
+<div class="col-md-10 col-lg-9 hidden-1195 hidden-xs hidden-sm">
+<div class="breadcrumbs">
+</div>
+</div>
+<div class="col-lg-15 col-md-14 col-sm-24 full-width-1195">
+<div class="ftse pull-right hidden-xs"><esi:include src="/esi/ftse-250-widget" /></div>
+<div class="ftse pull-right"><esi:include src="/esi/ftse-100-widget" /></div>
+<div class="ftse pull-right hidden-xs"><esi:include src="/esi/bats-100-widget" /></div>
+</div>
+</div>
+</div>
+</div>
+<div class="container">
+<div class="fixed-column-container-md">
+<div class="row">
+<div class="col-xs-24 col-md-24">
+<div class="container-site-page">
+<h1>404 - Page not found</h1>
+<p><strong>We're sorry, but that page could not be found.</strong></p>
+<h2 style="text-transform: none; font-size: 23px; margin-top: 20px;">Let us know</h2>
+<p>Expecting to see a different page?</p>
+<p>This might be because you have entered the web address incorrectly or the page has moved.</p>
+<p><a href="javascript:void(0);" id="cityam-error-notify">Please contact us</a> or visit our <a href="/">homepage</a>.</p>
+</div>
+</div>
+<div class="col-xs-24 col-sm-12 col-md-8">
+</div>
+<div class="col-xs-24 col-sm-12 col-md-fixed">
+<div style="margin-top: 50px;">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="footer-nav">
+<div class="container">
+<div class="row">
+<div class="col-lg-12 col-sm-14 col-xs-24">
+<div class="footer-nav-links-container">
+<div class="footer-nav-column">
+<a href="/business"><h3>Business</h3></a>
+<a href="/industries"><h3>Industries</h3></a>
+<a href="/markets"><h3>Markets</h3></a>
+</div>
+<div class="footer-nav-column">
+<a href="/technology"><h3>Technology</h3></a>
+<a href="/leadership"><h3>Leadership</h3></a>
+<a href="/life-and-style"><h3>Life &amp; Style</h3></a>
+</div>
+<div class="footer-nav-column">
+<a href="/money"><h3>Money</h3></a>
+<a href="/sport"><h3>Sport</h3></a>
+<a href="/lists"><h3>Lists</h3></a>
+</div>
+</div>
+</div>
+<div class="col-lg-12 col-sm-10 col-xs-24">
+<div id="footer-social">
+<div class="paragraph">Follow us for breaking <span class="footer-newsletter-break-mobile"></span>news and latest updates:
+<span class="footer-newsletter-social-container">
+<a href="https://www.facebook.com/cityam" class="facebook-icon social-click" data-social-type="Facebook (F)" title="Follow us on Facebook" target="_blank">
+<svg width="18" height="18" viewBox="0 0 90 90" class="svg-facebook-icon">
+<path id="f" d="M49.7,89.9V55.1h11.7l1.7-13.6H49.7v-8.7c0-3.9,1.1-6.6,6.7-6.6l7.2,0V14.1c-1.2-0.2-5.5-0.5-10.5-0.5
+    c-10.4,0-17.5,6.3-17.5,17.9v10H24v13.6h11.7v34.8H49.7z" />
+</svg>
+</a>
+<a href="https://twitter.com/cityam" class="twitter-icon social-click" data-social-type="Twitter (F)" title="Follow us on Twitter" target="_blank">
+<svg width="18" height="18" viewBox="0 0 90 90">
+<path d="M76.3,25.6c-2.3,1-4.8,1.7-7.4,2c2.7-1.6,4.7-4.1,5.7-7.1c-2.5,1.5-5.2,2.5-8.2,3.1c-2.3-2.5-5.7-4.1-9.4-4.1
+    c-7.1,0-12.9,5.8-12.9,12.9c0,1,0.1,2,0.3,2.9C33.8,34.8,24.3,29.7,18,21.9c-1.1,1.9-1.7,4.1-1.7,6.5c0,4.5,2.3,8.4,5.7,10.7
+    c-2.1-0.1-4.1-0.6-5.8-1.6c0,0.1,0,0.1,0,0.2c0,6.2,4.4,11.4,10.3,12.6c-1.1,0.3-2.2,0.5-3.4,0.5c-0.8,0-1.6-0.1-2.4-0.2
+    c1.6,5.1,6.4,8.8,12,8.9c-4.4,3.4-9.9,5.5-16,5.5c-1,0-2.1-0.1-3.1-0.2c5.7,3.6,12.4,5.8,19.7,5.8c23.6,0,36.6-19.6,36.6-36.6
+    c0-0.6,0-1.1,0-1.7C72.4,30.4,74.6,28.1,76.3,25.6z" />
+</svg>
+</a>
+<a href="https://plus.google.com/106508342285323254392/posts" class="googleplus-icon social-click" data-social-type="Google+ (F)" title="Follow us on Google+" target="_blank">
+<svg width="18" height="18" viewBox="0 0 90 90">
+<path class="st1" d="M38.4,45.6c0-3.5,7.7-4.5,7.7-12.7c0-4.9-0.5-7.9-4.3-9.7c0-1.2,6.9-0.4,6.9-2.7c-1.2,0-15,0-15,0
+    s-15.2,0.4-15.2,13.2c0,12.9,13.3,11.4,13.3,11.4s0,1.9,0,3.3c0,1.3,1.8,0.9,2,3.5c-0.9,0-18.5-0.5-18.5,11.2
+    c0,11.7,15.5,11.1,15.5,11.1s17.9,0.8,17.9-13.7C48.6,51.9,38.4,49.1,38.4,45.6z M25.4,34.5c-1.4-5.2,0.4-10.2,4.1-11.2
+    c3.7-1,7.8,2.4,9.2,7.5c1.4,5.2-0.4,10.2-4.1,11.2C30.9,43.1,26.8,39.7,25.4,34.5z M33.1,70.5c-6.2,0.4-11.5-2.9-11.8-7.4
+    c-0.3-4.5,4.5-8.5,10.7-8.9c6.2-0.4,11.5,2.9,11.8,7.4C44.1,66.1,39.3,70.1,33.1,70.5z" />
+<polygon class="st1" points="76.8,31 76.8,34.1 66.3,34.1 66.3,44.5 63.2,44.5 63.2,34.1 52.8,34.1 52.8,31 63.2,31 63.2,20.5
+    66.3,20.5 66.3,31 		" />
+</svg>
+</a>
+<a href="http://www.linkedin.com/company/cityam" class="linkedin-icon social-click" data-social-type="LinkedIn (F)" title="Follow us on LinkedIn" target="_blank">
+<svg width="18" height="18" viewBox="0 0 90 90">
+<g>
+<path d="M27.2,75.7V34.9H13.7v40.8H27.2L27.2,75.7z M20.5,29.3c4.7,0,7.7-3.1,7.7-7.1c-0.1-4-2.9-7.1-7.6-7.1
+    c-4.6,0-7.7,3.1-7.7,7.1C12.9,26.2,15.8,29.3,20.5,29.3L20.5,29.3L20.5,29.3z" />
+<path d="M34.8,75.7h13.6V52.9c0-1.2,0.1-2.4,0.4-3.3c1-2.4,3.2-5,7-5c4.9,0,6.9,3.7,6.9,9.2v21.9h13.6V52.3
+    c0-12.5-6.7-18.4-15.6-18.4c-7.3,0-10.5,4.1-12.3,6.9h0.1v-5.9H34.8C34.9,38.7,34.8,75.7,34.8,75.7L34.8,75.7z" />
+</g>
+</svg>
+</a>
+</span>
+</div>
+</div>
+<div id="footer-newsletter" class="visible-lg">
+<div class="paragraph">Stay up to date: get our <span class="footer-newsletter-bold">FREE</span> daily emails</div>
+<form action="/newsletter/subscribe" method="post" class="newsletter-footer-form">
+<input type="hidden" name="thx" value="http://www.cityam.com/newsletter/success" />
+<input type="hidden" name="err" value="http://www.cityam.com/newsletter/error" />
+<input type="hidden" name="sign_up_source" value="" />
+<input type="hidden" name="tracked_source" value="footer-v2" id="tracked-source" />
+<input type="hidden" name="lid[]" id="lid-main" value="morning-update-v2" />
+<input type="email" name="email_address" placeholder="Email address" />
+<button type="submit" class="btn btn-primary">Sign up</button>
+</form>
+</div>
+</div>
+</div>
+<div class="row hidden-lg">
+<div id="footer-newsletter-mobile">
+<div class="paragraph">Stay up to date: get our <span class="footer-newsletter-bold">FREE</span> daily emails</div>
+<form action="/newsletter/subscribe" method="post" class="newsletter-footer-form">
+<input type="hidden" name="thx" value="http://www.cityam.com/newsletter/success" />
+<input type="hidden" name="err" value="http://www.cityam.com/newsletter/error" />
+<input type="hidden" name="sign_up_source" value="" />
+<input type="hidden" name="tracked_source" value="footer-v2" id="tracked-source" />
+<input type="hidden" name="lid[]" id="lid-main" value="morning-update-v2" />
+<input type="email" name="email_address" placeholder="Email address" />
+<button type="submit" class="btn btn-primary btn-lg">Sign up</button>
+</form>
+</div>
+</div>
+</div>
+</div>
+<div id="footer-copyright">
+<div class="container">
+<div class="row">
+<div class="col-lg-9 col-sm-12 col-xs-24">
+<div class="footer-column-1">
+<div class="paragraph"><a href="/about-city-am">About</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.cityam.com/advertising">Advertising</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/privacy-policy">Privacy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/terms-conditions">Terms</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.cityam.com/site-map">Sitemap</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.cityam.com/edition">Latest&nbsp;paper</a></div>
+</div>
+</div>
+<div class="col-lg-10 visible-lg">
+<div class="footer-column-2">
+</div>
+</div>
+<div class="col-lg-5 col-sm-12 col-xs-24">
+<div class="footer-column-3">
+<div class="paragraph">Copyright &copy; 2018 City A.M. Limited</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="focus-overlay"></div>
+<script type="text/javascript">
+    var chartbeatDebugRegexp = new RegExp(/(\?|\&)chartbeatDebug\=1$/);
+    if (chartbeatDebugRegexp.test(window.location.href)) {
+                console.log('Chartbeat section: error');
+                console.log('Chartbeat author: City A.M.');
+    }
+</script>
+<script type="text/javascript" src="http://s.idio.co/ip.js"></script>
+<script src="/assets/js/waypoints.min.js?v=201808171404"></script>
+<script src="/assets/js/headroom.min.js?v=201808171404"></script>
+<script src="/assets/js/jQuery.headroom.min.js?v=201808171404"></script>
+<script src="/assets/js/scripts.js?v=201808171404"></script>
+<script src="/assets/js/focus.js?v=201808171404"></script>
+<script src="/assets/js/jquery.hoverIntent.js?v=201808171404"></script>
+<script src="/assets/frontend/js/navigation.js?v=201808171404"></script>
+<style>
+    a[href="http://www.cityam.com/most-popular"] {
+        display: none !important;
+    }
+</style>
+<script type="text/javascript">
+    (function($){
+        var pageUrl = top.location.href;
+        var emailTo = 'feedback@cityam.com';
+        var rawBody = 'Error page: ' + pageUrl + ' \r\n\r\n';
+        var mailBody = encodeURIComponent(rawBody);
+        $('#cityam-error-notify').on('click', function() {
+            top.location.href = 'mailto:' + emailTo + '?subject=404 page not found&body=' + mailBody;
+            return false;
+        });
+    })(jQuery)
+</script>
+<div id="cam-view-port-detector">
+<div id="cam-view-xs" class="visible-xs"></div>
+<div id="cam-view-sm" class="visible-sm"></div>
+<div id="cam-view-md" class="visible-md"></div>
+<div id="cam-view-lg" class="visible-lg"></div>
+</div>
+</body>
+</html>

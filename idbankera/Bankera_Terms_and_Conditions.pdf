@@ -1,0 +1,602 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Bankera - a bank for the blockchain era.">
+<meta name="author" content="Bankera">
+<meta name="copyright" content="Bankera Ltd" />
+<meta name="keywords" content="Bankera, blockchain bank, blockchain banking, ether, eth, nem, xem" />
+<meta property="og:title" content="Bankera - Bank for the Blockchain Bank" />
+<meta name="twitter:title" content="Bankera - Bank for the Blockchain Bank" />
+<meta property="og:description" content="Bankera is building a bank for the Blockchain Era." />
+<meta name="twitter:description" content="Bankera is building a bank for the Blockchain Era." />
+<meta property="og:site_name" content="Bankera">
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://bankera.com/" id="og-url" />
+<meta property="og:image" content="https://bankera.com/img/og/Bankera-og.png">
+<meta property="og:image:type" content="image/png">
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@Bankeracom" />
+<meta name="twitter:image" content="https://bankera.com/img/og/Bankera-twitter.png" />
+<meta name="twitter:image:width" content="626" />
+<meta name="twitter:image:height" content="335" />
+<meta name="theme-color" content="#64D3B2" />
+<link rel="manifest" href="/manifest.json">
+<script data-cfasync="false" src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async></script>
+<script>
+		var OneSignal = window.OneSignal || [];
+		OneSignal.push(["init", {
+			appId: "43180552-c4d4-4f80-9643-b4349bff1807",
+			autoRegister: false,
+			notifyButton: {
+				enable: true,
+				position: 'bottom-left'
+			}
+		}]);
+	</script>
+<script src="//script.crazyegg.com/pages/scripts/0071/2102.js" async="async"></script>
+<title>Bankera | Banking for the Blockchain Era</title>
+<link rel="icon" type="image/x-icon" href="favicon.ico" />
+
+
+<!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js" integrity="sha384-0s5Pv64cNZJieYFkXYOTId2HMA2Lfb6q2nAcx2n0RTLUnCAoTTsS0nKEO27XyKcY" crossorigin="anonymous"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js" integrity="sha384-ZoaMbDF+4LeFxg6WdScQ9nnR1QC2MIRxA1O9KWEXQwns1G8UNyIEZIQidzb0T1fo" crossorigin="anonymous"></script>
+    <![endif]-->
+
+<script src="https://spectrocoin.com/external/js/spectroReferral.js" async=""></script>
+
+<script src="assets&#x2F;script-32c81051f0459371cd96.js"></script>
+
+<script>
+		! function(f, b, e, v, n, t, s) {
+			if (f.fbq) return;
+			n = f.fbq = function() {
+				n.callMethod ?
+					n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+			};
+			if (!f._fbq) f._fbq = n;
+			n.push = n;
+			n.loaded = !0;
+			n.version = '2.0';
+			n.queue = [];
+			t = b.createElement(e);
+			t.async = !0;
+			t.src = v;
+			s = b.getElementsByTagName(e)[0];
+			s.parentNode.insertBefore(t, s)
+		}(window,
+			document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+		fbq('init', '1707682869274154');
+		fbq('track', 'PageView');
+	</script>
+
+<script>
+		(function(i, s, o, g, r, a, m) {
+			i['GoogleAnalyticsObject'] = r;
+			i[r] = i[r] || function() {
+				(i[r].q = i[r].q || []).push(arguments)
+			}, i[r].l = 1 * new Date();
+			a = s.createElement(o),
+				m = s.getElementsByTagName(o)[0];
+			a.async = 1;
+			a.src = g;
+			m.parentNode.insertBefore(a, m)
+		})(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+		ga('create', 'UA-104100408-1', 'auto');
+		ga('send', 'pageview');
+	</script>
+</head>
+<body id="page-top" class="index">
+
+<noscript><img height="1" width="1" alt="fb pixel" style="display:none" src="https://www.facebook.com/tr?id=1707682869274154&amp;ev=PageView&amp;noscript=1"/></noscript>
+
+<div class="modal fade" id="mailerSubscribe" role="dialog">
+<div class="modal-dialog">
+<div class="close-btn" data-dismiss="modal">
+<i class="fa fa-times-circle" aria-hidden="true"></i>
+</div>
+<div class="modal-content">
+<div id="mlb2-5505417" class="ml-subscribe-form ml-subscribe-form-5505417">
+<div class="ml-vertical-align-center">
+<div class="modal-logo"></div>
+<div class="mail-logo">
+<img data-src="img/mail.png" class="img-responsive" alt="Mailer">
+</div>
+<div id="ml-block-success" class="subscribe-form ml-block-success" style="display:none">
+<div class="form-section">
+<p>Thank you, we will get in touch with you shortly!</p>
+</div>
+</div>
+<form class="ml-block-form" action="https://app.mailerlite.com/webforms/submit/b1a4b4" data-id="479901" data-code="b1a4b4" method="POST" target="_blank">
+<div class="subscribe-form horizontal">
+<div class="form-section mb10">
+<p>Sign up for news and special offers!</p>
+</div>
+<div class="form-section horizontal">
+<div class="form-group ml-field-email ml-validate-required ml-validate-email">
+<input type="email" name="fields[email]" class="form-control" placeholder="Your Email *" value="" autocomplete="email" spellcheck="false">
+</div>
+</div>
+<div class="form-section horizontal ml-button-position">
+<button type="submit" class="primary">
+Subscribe
+</button>
+<button disabled="disabled" style="display: none;" type="button" class="loading">
+<img src="https://static.mailerlite.com/images/rolling@2x.gif" alt="loader" width="20" height="20" style="width: 20px; height: 20px;">
+</button>
+</div>
+<div class="clearfix" style="clear: both;"></div>
+<input type="hidden" name="ml-submit" value="1" />
+</div>
+</form>
+<script>
+							function ml_webform_success_5505417() {
+								var $ = ml_jQuery || jQuery;
+
+								$('.ml-subscribe-form-5505417 .ml-block-success').show();
+								$('.ml-subscribe-form-5505417 .ml-block-form').hide();
+							};
+						</script>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<nav id="mainNav" class="navbar navbar-default navbar-custom navbar-fixed-top">
+<div class="container">
+
+<div class="navbar-header page-scroll">
+<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+<span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
+</button>
+<a class="navbar-brand page-scroll" href="#page-top"><img data-src="img/logo.svg" alt="Bankera"></a>
+</div>
+
+<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+<ul class="nav navbar-nav navbar-right">
+<li class="hidden"><a href="#page-top"></a></li>
+<li><a class="page-scroll" href="#exchange">Exchange</a></li>
+<li><a class="page-scroll" href="#wallet">Wallet</a></li>
+<li><a class="page-scroll" href="#card">Debit Card</a></li>
+<li><a class="page-scroll" href="#payment">Payment Processing</a></li>
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+EN <span class="caret"></span>
+</a>
+<ul class="dropdown-menu scroll-menu">
+<li><a href="index-ru.html">RU</a></li>
+
+<li><a href="index-it.html">IT</a></li>
+<li><a href="index-fr.html">FR</a></li>
+<li><a href="index-pt.html">PT-BR</a></li>
+<li><a href="index-ko.html">KO</a></li>
+
+<li><a href="index-ja.html">JA</a></li>
+<li><a href="index-ar.html">AR</a></li>
+<li><a href="index-zhCN.html">ZH-CN</a></li>
+<li><a href="index-zhTW.html">ZH-TW</a></li>
+
+<li><a href="index-nl.html">NL</a></li>
+
+<li><a href="index-es.html">ES</a></li>
+
+<li><a href="index-pl.html">PL</a></li>
+
+
+
+
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+
+<header>
+<div id="particles"></div>
+<div class="vtable">
+<div class="vcell">
+<div class="container intro">
+<div class="row">
+<div class="col-xs-12 intro-text">
+<div class="intro-heading">Banking For The Blockchain Era</div>
+</div>
+</div>
+<div class="row">
+<div class="col-md-6 intro-text">
+<div class="intro-sub-heading">
+Subscribe for more updates
+</div>
+<form id="subscribeForm" action="/" method="POST" novalidate>
+<div id="subscribeRow" class="row">
+<div class="form-group inline">
+<input type="email" name="fields[email]" id="subscribeEmail" class="form-control input-lg" placeholder="Your Email *" data-error-message="Please enter a valid email address" required>
+<button type="submit" class="btn btn-xl subscribe-button">Subscribe</button>
+</div>
+<div class="col-lg-12 hidden-md hidden-lg" style="display:none">
+<h3 class="subscribeError text-danger"></h3>
+</div>
+<div class="col-md-12 hidden-xs hidden-sm" style="display:none">
+<h3 class="subscribeError text-danger"></h3>
+</div>
+</div>
+<div id="subscribeSuccessRow" class="row" style="display:none;">
+<div class="col-lg-8 col-lg-offset-2 text-center">
+<p class="large">Thank you, we will get in touch with you shortly!</p>
+</div>
+</div>
+</form>
+<div class="button-row">
+<a href="https://careers.bankera.com/" target="_blank" class="btn btn-xl subscribe-button">CAREERS</a>
+<a href="https://spectrocoin.com/?utm_campaign=mvp&amp;utm_source=bankera" target="_blank" class="btn btn-xl subscribe-button">OUR MVP</a>
+<a href=https:&#x2F;&#x2F;chat.bankera.com&#x2F;channel&#x2F;community target="_blank" class="btn btn-xl subscribe-button">CHAT</a>
+</div>
+</div>
+<div class="col-md-6">
+<div class="intro-video">
+<iframe src="https://www.youtube-nocookie.com/embed/DzLXSMcCosA?rel=0&amp;showinfo=0" allowfullscreen></iframe>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</header>
+
+<section id="exchange">
+<div class="vtable">
+<div class="vcell">
+<div class="container">
+<div class="row">
+<div class="col-md-7 col-md-offset-5">
+<h3>Exchange</h3>
+</div>
+<div class="col-md-5">
+<img data-src="img/exchange.svg" class="exchange" alt="Exchange">
+</div>
+<div class="col-md-7">
+<p>
+<a href="https://exchange.bankera.com" target="_blank">Bankera's exchange</a>, to be launched in the second quarter of 2018, will offer a trading solution on the next-generation level for cryptocurrencies and tokens. The exchange will support Bitcoin, Ethereum, DASH, NEM, and other cryptocurrencies, as well as ERC20 and NEM Mosaic tokens. The exchange will offer high liquidity, a transparent order book, and low fees. Furthermore, to provide utility for BNK (Bankera tokens), the trading of all pairs including BNK will be free, i.e., it will be more cost efficient to buy BNK with BTC and then sell BNK for ETH, rather than buying ETH with BTC directly.
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<section id="wallet">
+<div class="vtable">
+<div class="vcell">
+<div class="container">
+<div class="row">
+<div class="col-xs-12">
+<h3>Wallet</h3>
+</div>
+<div class="col-md-7">
+<p>
+A Bankera wallet will be your gateway to access various blockchains. Hence, customers will be able to utilize a top-level inter-blockchain technology to facilitate off-chain and cross-chain transactions among different digital assets. The integrated exchange will allow you to easily convert assets from one to the other. Supported Peer-to-Peer payments will allow you to transfer funds to your friends at no cost. In addition to blockchain based payments, a Bankera wallet will provide access to a wide spectrum of traditional payment options for seamless deposits and withdrawals. The web and mobile (iOS, Android, Windows Phone) applications will allow you to access your assets from wherever you are.
+</p>
+</div>
+<div class="col-md-5">
+<img data-src="img/wallet.svg" alt="Wallet">
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<section id="card">
+<div class="vtable">
+<div class="vcell">
+<div class="container">
+<div class="row">
+<div class="col-md-7 col-md-offset-5">
+<h3>Debit Card</h3>
+</div>
+<div class="col-md-5">
+<img data-src="img/card.svg" alt="Debit Card">
+</div>
+<div class="col-md-7">
+<p>
+Bankera cards will allow you to spend funds held in a Bankera wallet everywhere traditional credit or debit cards are accepted. The direct integration of a Bankera wallet will give you full control of your card. Virtual and physical cards will be available, giving you the option to choose a card which best suits your needs. With only a few clicks, you will be able to easily monitor your debit card balance and transaction history online.
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<section id="payment">
+<div class="vtable">
+<div class="vcell">
+<div class="container">
+<div class="row">
+<div class="col-xs-12">
+<h3>Payment Processing</h3>
+</div>
+<div class="col-md-7">
+<p>
+Bankera's payment solutions will help your business accept payments by eliminating the need for technological know-how and financial risks. You can always be sure of the amount you will receive from your client in your selected currency. To make our cooperation even easier, Bankera will offer various integration options ranging from e-commerce plugins to APIs. Furthermore, for Bankera, payment processing is not only about acquiring payments but also about providing tools for payouts and various tailored solutions.
+</p>
+</div>
+<div class="col-md-5">
+<img data-src="img/payment.svg" alt="Payment Processing">
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<div id="roadmap-link" class="secondaryNav">
+<div class="container">
+<div class="row">
+<div class="col-xs-12">
+Roadmap
+</div>
+</div>
+</div>
+</div>
+
+<section id="roadmap">
+<div class="container">
+<div class="row">
+<div class="col-lg-12">
+<ul class="timeline">
+<li class="timeline-done">
+<div class="timeline-road timeline-moved"></div>
+<div class="timeline-image">
+<img class="img-circle img-responsive" data-src="img/about/2-1.png" alt="Bankera&#39;s payment cards as viable product icon">
+</div>
+<div class="timeline-panel">
+<div class="timeline-heading">
+<h4>Development of IT infrastructure</h4>
+<h4 class="subheading">Completed</h4>
+</div>
+<div class="timeline-body">
+<p>The required IT infrastructure to facilitate payment processing and issue personal IBANs and payment cards has already been developed and are available as a minimum viable product (MVP) in the form of <a href="https://spectrocoin.com/" target="_blank">SpectroCoin</a>. Currently, SpectroCoin has <b>810,000+ clients</b> and has already issued <b>65,000 cards</b>.</p>
+</div>
+</div>
+</li>
+<li class="timeline-inverted timeline-done">
+<div class="timeline-road timeline-moving"></div>
+<div class="timeline-image">
+<img class="img-circle img-responsive" data-src="img/about/phone.png" alt="Bankera&#39;s mobile wallet icon">
+</div>
+<div class="timeline-panel">
+<div class="timeline-heading">
+<h4>WALLET CAPABILITY</h4>
+<h4 class="subheading">Completed</h4>
+</div>
+<div class="timeline-body">
+<p>Support of full P2P transfers, mobile wallets and the start of membership application in major payment networks such as card schemes and remittance networks.</p>
+</div>
+</div>
+</li>
+<li>
+<div class="timeline-road"></div>
+<div class="timeline-image">
+<img class="img-circle img-responsive" data-src="img/about/exchange.png" alt="">
+</div>
+<div class="timeline-panel">
+<div class="timeline-heading">
+<h4>Launch of the exchange</h4>
+<h4 class="subheading">late 2018</h4>
+</div>
+<div class="timeline-body">
+<p>The start of the live version of <a href="https://exchange.bankera.com/" target="_blank" style="color: #0C9EBD;">Bankera’s exchange</a> supporting major cryptocurrencies, ERC20 and NEM Mosaic tokens.</p>
+</div>
+</div>
+</li>
+<li class="timeline-inverted">
+<div class="timeline-road"></div>
+<div class="timeline-image">
+<img class="img-circle img-responsive" data-src="img/about/bank.png" alt="Bankera&#39;s bank icon">
+</div>
+<div class="timeline-panel">
+<div class="timeline-heading">
+<h4>BANKING CAPABILITY</h4>
+<h4 class="subheading">early 2019</h4>
+</div>
+<div class="timeline-body">
+<p>A banking license or partnerships will be obtained. This will allow us to offer loans and deposit services.</p>
+</div>
+</div>
+</li>
+<li>
+<div class="timeline-road"></div>
+<div class="timeline-image">
+<img class="img-circle img-responsive" data-src="img/about/investments.png" alt="Bankera&#39;s investment solutions icon">
+</div>
+<div class="timeline-panel">
+<div class="timeline-heading">
+<h4>Investment solutions</h4>
+<h4 class="subheading">late 2019</h4>
+</div>
+<div class="timeline-body">
+<p>The launch of services related to low-cost investment solutions such as exchange traded funds (ETFs), crypto currency and crypto token funds as well as robo advising.</p>
+</div>
+</div>
+</li>
+<li class="timeline-inverted">
+<div class="timeline-road"></div>
+<div class="timeline-image">
+<img class="img-circle img-responsive" data-src="img/about/newmoney.png" alt="Bankera&#39;s new types of money icon">
+</div>
+<div class="timeline-panel">
+<div class="timeline-heading">
+<h4>NEW TYPES OF MONEY</h4>
+<h4 class="subheading">2020</h4>
+</div>
+<div class="timeline-body">
+<p>The synergy between investment and payment products will offer new types of money such as economic growth linked currency or usage of ETFs as a medium of exchange.</p>
+</div>
+</div>
+</li>
+<li>
+<div class="timeline-road"></div>
+<div class="timeline-image">
+<h4>BLOCKCHAIN<br>ERA<br>CONTINUES</h4>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<div id="team-link" class="secondaryNav">
+<div class="container">
+<div class="row">
+<div class="col-xs-12">
+Team
+</div>
+</div>
+</div>
+</div>
+
+<section id="team">
+<div class="container">
+<div class="row">
+<div class="col-sm-3">
+<div class="team-member">
+<img data-src="img/team/vytautas-karalevicius.jpg" class="img-responsive img-circle" alt="Vytautas Karalevicius">
+<h4>Vytautas Karalevičius</h4>
+<p>
+<br> Vytautas is currently completing a Ph.D. in Cryptocurrencies at KU Leuven University in Belgium. Prior to that, he received an MPhil degree in Finance from Cambridge University. He has interned at Bloomberg (London office).
+</p>
+<ul class="list-inline social-buttons">
+<li>
+<a href="https://www.linkedin.com/in/vytautas-karalevičius-7a949436/" target="_blank"><i class="fa fa-linkedin"></i></a>
+</li>
+</ul>
+</div>
+</div>
+<div class="col-sm-3">
+<div class="team-member">
+<img data-src="img/team/mantas-mockevicius.jpg" class="img-responsive img-circle" alt="Mantas Mockevicius">
+<h4>Mantas Mockevičius</h4>
+<p>
+<br> Mantas has more than eight years of experience in managing operations and compliance for electronic and digital money exchanges. He holds a bachelor&#39;s degree in Economics and master&#39;s degree in Finance.
+</p>
+<ul class="list-inline social-buttons">
+<li>
+<a href="https://www.linkedin.com/in/mantasmockevicius/" target="_blank"><i class="fa fa-linkedin"></i></a>
+</li>
+</ul>
+</div>
+</div>
+<div class="col-sm-3">
+<div class="team-member">
+<img data-src="img/team/justas-dobiliauskas.jpg" class="img-responsive img-circle" alt="Justas Dobiliauskas">
+<h4>Justas Dobiliauskas</h4>
+<p>
+<br> Justas has nine years of experience in developing software for medium and large financial institutions as well as five years of experience working with blockchain technology and cryptocurrencies. He is an expert in P2P technologies and holds a master&#39;s degree in Information Systems Security.
+</p>
+<ul class="list-inline social-buttons">
+<li>
+<a href="https://www.linkedin.com/in/justas-dobiliauskas-2209504b/" target="_blank"><i class="fa fa-linkedin"></i></a>
+</li>
+</ul>
+</div>
+</div>
+<div class="col-sm-3">
+<div class="team-member">
+<img data-src="img/team/craig-grant.jpg" class="img-responsive img-circle" alt="Craig Grant">
+<h4>Craig Grant</h4>
+<p>
+<br> Craig has experience in the payment processing industry including three years at Skrill (now a part of the Paysafe Group) as a senior business development manager.
+</p>
+<ul class="list-inline social-buttons">
+<li>
+<a href="https://www.linkedin.com/in/grantcraig/" target="_blank"><i class="fa fa-linkedin"></i></a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-3">
+<div class="team-member">
+<img data-src="img/team/susana-wessling.jpg" class="img-responsive img-circle" alt="Susana Wessling">
+<h4>Susana Wessling</h4>
+<p>
+<br> Susana has over five years of experience in web and graphic design. Before coming to Bankera, she had worked on designing social networks for startups. Now Susana will assist us with Bankera&#39;s website development and will help to ensure its usability, design, and overall user experience and, in turn, will help the company to get one step closer to becoming the bank for the blockchain era.
+</p>
+</div>
+</div>
+<div class="col-sm-3">
+<div class="team-member">
+<img data-src="img/team/ruta-cizinauskaite.jpg" class="img-responsive img-circle" alt="Ruta Cizinauskaite">
+<h4>Rūta Čižinauskaitė</h4>
+<p>
+<br> Ruta is a B2B and B2C marketing expert with experience in both the corporate and governmental sectors. Before coming to Bankera, she has accumulated knowledge in social media, SEO, project management, and sales while working for a startup based in Brussels, the US Embassy and the Lithuanian government.
+</p>
+<ul class="list-inline social-buttons">
+<li>
+<a href="https://www.linkedin.com/in/ruta-cizinauskaite-33a6ba84/" target="_blank"><i class="fa fa-linkedin"></i></a>
+</li>
+</ul>
+</div>
+</div>
+<div class="col-sm-3">
+<div class="team-member">
+<img data-src="img/team/tse-hsin-lu.jpg" class="img-responsive img-circle" alt="Tse-Hsin Lu">
+<h4>Tse-Hsin Lu</h4>
+<p>
+<br> Tse-Hsin is an expert in digital marketing, especially for financial services. She gained her SEO and social media experience while working as a leader of the SpectroCoin marketing team. While living in the USA, Taiwan and Belgium, she gained superior knowledge from each of these markets.
+</p>
+</div>
+</div>
+<div class="col-sm-3">
+<div class="team-member">
+<img data-src="img/team/team-members.jpg" class="img-responsive img-circle" alt="">
+<h4>70+ team members</h4>
+<p>
+<br> Bankera has a team of experienced specialists working in IT, Quality Assurance, Finance, Client Support, Human Resources, Marketing&amp;Communication, Business and Product development and others. Our motto - less talks, more maximum quality products and services.
+</p>
+<ul class="list-inline social-buttons">
+<li>
+<a href="https://www.linkedin.com/company/bankera" target="_blank"><i class="fa fa-linkedin"></i></a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<footer>
+<div class="container">
+<div class="row">
+<div class="col-xs-12">
+<span class="copyright">
+&copy; Bankera.com 2017-<span class="thisYear"></span>
+</span>
+<span class="terms-and-conditions">
+<a href="papers/Bankera_Terms_and_Conditions.pdf" target="_blank" style="color:#333">Terms and Conditions</a>
+</span>
+</div>
+</div>
+</div>
+</footer>
+
+<script>
+		! function(e, t, n, s, u, a) {
+			e.twq || (s = e.twq = function() {
+					s.exe ? s.exe.apply(s, arguments) : s.queue.push(arguments);
+				}, s.version = '1.1', s.queue = [], u = t.createElement(n), u.async = !0, u.src = '//static.ads-twitter.com/uwt.js',
+				a = t.getElementsByTagName(n)[0], a.parentNode.insertBefore(u, a))
+		}(window, document, 'script');
+		twq('init', 'nycga');
+		twq('track', 'PageView');
+	</script>
+</body>
+</html>

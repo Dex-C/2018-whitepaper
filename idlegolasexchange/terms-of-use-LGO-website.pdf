@@ -1,0 +1,795 @@
+
+
+
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" prefix="og: http://ogp.me/ns#"> <!--<![endif]-->
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+		<title>LGO Exchange, Fair and Secure By Design</title>
+		<meta name="description" content="LGO is a full stack exchange built by fintech insiders who understand the needs of financial institutions eager to enter the crypto market.">
+		<link href="/static/v2/css/slick.css?v2.1=3.51" rel="stylesheet">
+		<link href="/static/v2/css/slick-theme.css?v2.1=3.51" rel="stylesheet">
+		<link href="/static/v2/css/main_v3.css?v2.1=3.51" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700|Raleway:300,400,500,600,700" rel="stylesheet">
+		<link rel="icon" type="image/png" sizes="32x32" href="/static/v2/img/favicon-32x32_v3.png?v2.0=3.51">
+		<link rel="icon" type="image/png" sizes="96x96" href="/static/v2/img/favicon-96x96_v3.png?v2.0=3.51">
+		<link rel="icon" type="image/png" sizes="16x16" href="/static/v2/img/favicon-16x16_v3.png?v2.0=3.51">
+        <link rel="apple-touch-icon" sizes="57x57" href="/static/v2/img/apple-icon-57x57.png">
+        <link rel="apple-touch-icon" sizes="60x60" href="/static/v2/img/apple-icon-60x60.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="/static/v2/img/apple-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="/static/v2/img/apple-icon-76x76.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="/static/v2/img/apple-icon-114x114.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="/static/v2/img/apple-icon-120x120.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="/static/v2/img/apple-icon-144x144.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="/static/v2/img/apple-icon-152x152.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="/static/v2/img/apple-icon-180x180.png">
+        <link rel="icon" type="image/png" sizes="192x192"  href="/static/v2/img/android-icon-192x192.png">
+        <link rel="manifest" href="/static/v2/img/manifest.json">
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:site" content="@LegolasExchange" />
+        <meta name="twitter:creator" content="@LegolasExchange" />
+        <meta property="og:url" content="https://legolas.exchange" />
+        <meta property="og:title" content="LGO Exchange, Fair and Secure By Design" />
+        <meta property="og:image" content="https://legolas.exchange/static/v2/img/ogimage.jpg?v=3.51" />
+        <meta property="og:description" content="LGO is a full stack exchange built by fintech insiders who understand the needs of financial institutions eager to enter the crypto market." />
+        <meta name="msapplication-TileColor" content="#4fc7a4">
+        <meta name="msapplication-TileImage" content="/static/v2/img/ms-icon-144x144.png">
+        <meta name="theme-color" content="#4fc7a4">
+		<!-- Facebook Pixel Code -->
+		<script>
+			!function(f,b,e,v,n,t,s)
+			{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+			n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+			if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+			n.queue=[];t=b.createElement(e);t.async=!0;
+			t.src=v;s=b.getElementsByTagName(e)[0];
+			s.parentNode.insertBefore(t,s)}(window,document,'script',
+			'https://connect.facebook.net/en_US/fbevents.js');
+			 fbq('init', '1333180670121281');
+			fbq('track', 'PageView');
+		</script>
+		<noscript>
+		 <img height="1" width="1" src="https://www.facebook.com/tr?id=1333180670121281&ev=PageView&noscript=1" />
+		</noscript>
+		<!-- End Facebook Pixel Code -->
+        
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-121914948-3"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'UA-121914948-3');
+        </script>
+	</head>
+	<body>
+
+		<header class="main-header">
+			<nav class="navbar fixed-top navbar-expand-lg navbar-header">
+
+				
+				<div class="maps" id="maps">
+				  <ul class="list-inline">
+				
+				    
+				    <li class="list-inline-item"><a href="/de/" class="map_icon de" title="German"></a></li>
+				    
+				
+				    
+				    <li class="list-inline-item"><a href="/" class="map_icon en" title="English"></a></li>
+				    
+				
+				    
+				    <li class="list-inline-item"><a href="/es/" class="map_icon es" title="Spanish"></a></li>
+				    
+				
+				    
+				    <li class="list-inline-item"><a href="/fr/" class="map_icon fr" title="French"></a></li>
+				    
+				
+				    
+				    <li class="list-inline-item"><a href="/ru/" class="map_icon ru" title="Russian"></a></li>
+				    
+				
+				    
+				    <li class="list-inline-item"><a href="/ja/" class="map_icon ja" title="Japanese"></a></li>
+				    
+				
+				    
+				    <li class="list-inline-item"><a href="/ko/" class="map_icon ko" title="Korean"></a></li>
+				    
+				
+				    
+				    <li class="list-inline-item"><a href="/zh-hans/" class="map_icon zh-hans" title="Chinese"></a></li>
+				    
+				
+					</ul>
+				</div>
+				<a class="navbar-brand anchor text-uppercase" href="#top">
+					<img src="/static/v2/img/logo_v3.png?v2.3=3.51" alt="" />
+					<span class="first_name">LGO</span><span class="last_name">Exchange</span>
+				</a>
+	      <div class="navbar-header">
+						<button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-expanded="false">
+				      <span class="sr-only">Toggle navigation</span>
+							<span class="navbar-toggler-icon"></span>
+						</button>
+				</div>
+				<div class="collapse navbar-collapse" id="navbarSupportedContent">
+					<ul class="navbar-nav ml-auto text-left text-ld-right push-top" id="navbar-header">
+				    
+		<li class="nav-item">
+			<a class="nav-link anchor" href="#about">About</a>
+		</li>
+		<li class="nav-item">
+			<a class="nav-link anchor" href="#whitepaper">White Paper</a>
+		</li>
+		<li class="nav-item">
+			<a class="nav-link anchor" href="#press">Press</a>
+		</li>
+		</li>
+		<li class="nav-item">
+			<a class="nav-link anchor" href="#videos">Videos</a>
+		</li>
+		<li class="nav-item">
+			<a class="nav-link" href="/results_coins/">Vote Results</a>
+		</li>
+
+						<li class="nav-item">
+							<a class="nav-link" href="https://support.legolas.exchange/hc/en-us/categories/360000002131-FAQs" target="support">FAQs</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href="https://support.legolas.exchange/hc/en-us/requests/new" target="support">Contact</a>
+						</li>
+					</ul>
+				</div>
+			</nav>
+		</header>
+				
+	<section class="hero" id="top">
+		<div class="container-fluid hero_caption">
+			<div class="row align-items-center m-0">
+				<div class="col-12 col-md-8 col-lg-6 offset-md-2 offset-lg-3">
+					<div class="hero_caption_logo mx-auto">
+						<img src="/static/v2/img/logo_mark.png?v2.0=3.51" class="logo_mark mx-auto d-block" alt="LGO EXCHANGE" />
+						<div class="hero_caption_slogan text-center">
+							<h1><span class="highlight">Fair and secure</span> by design</h1>
+						</div>
+						<ul class="social list-inline text-center">
+							<li class="list-inline-item"><a href="https://github.com/LegolasExchange/LegolasToken" target="_blank" class="social_icon github"></a></li>
+							<li class="list-inline-item"><a href="https://twitter.com/LGOGroup_?lang=en" target="_blank" class="social_icon twitter"></a></li>
+							<li class="list-inline-item"><a href="https://www.facebook.com/LGO.Group/" target="_blank" class="social_icon facebook"></a></li>
+							<li class="list-inline-item"><a href="https://www.reddit.com/r/LegolasExchange/" target="_blank" class="social_icon reddit"></a></li>
+							<li class="list-inline-item"><a href="https://t.me/legolasannouncements" target="_blank" class="social_icon email"></a></li>
+							<li class="list-inline-item"><a href="https://medium.com/lgogroup" target="_blank" class="social_icon medium"></a></li>
+							<li class="list-inline-item"><a href="https://www.linkedin.com/company/lgo-group" target="_blank" class="social_icon linked"></a></li>
+							<li class="list-inline-item"><a href="https://bitcointalk.org/index.php?topic=2383397.0" target="_blank" class="social_icon bitcoin"></a></li>
+							<li class="list-inline-item"><a href="https://discord.gg/RATv9AV" target="_blank" class="social_icon discord"></a></li>
+
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div id="mouse" href="#about">
+			<aside class="mouse">
+				<div class="help-mouse-down"><i class="help-mouse-wheel"></i></div><span class="help-down"></span>
+			</aside>
+		</div>
+	</section>
+
+	<section class="videos blue_bg" id="videos">
+		<div class="container">
+			<h2 class="section_title text-center text-md-right text-uppercase">Videos</h2>
+			<div class="slider video_carousel">
+				<div class="video">
+					<div class="embed-responsive embed-responsive-16by9">
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/s9cA-giCs7E" frameborder="0" allowfullscreen></iframe>
+					</div>
+				</div><!-- Video -->
+				<div class="video">
+					<div class="embed-responsive embed-responsive-16by9">
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/bQnfETX0egI" frameborder="0" allowfullscreen></iframe>
+					</div>
+				</div><!-- Video -->
+				<div class="video">
+					<div class="embed-responsive embed-responsive-16by9">
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/p-TAmc78VZk" frameborder="0" allowfullscreen></iframe>
+					</div>
+				</div><!-- Video -->
+				<div class="video">
+					<div class="embed-responsive embed-responsive-16by9">
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/AEUP2kLASaA" frameborder="0" allowfullscreen></iframe>
+					</div>
+				</div><!-- Video -->
+				<div class="video">
+					<div class="embed-responsive embed-responsive-16by9">
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/QRE8QgGf2kc" frameborder="0" allowfullscreen></iframe>
+					</div>
+				</div><!-- Video -->
+			</div><!-- video_carousel -->
+		</div><!-- container -->
+	</section>
+
+	<section class="features" id="about">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-4 feature">
+					<img src="/static/v2/img/bloc1_2.png?v2.0=3.51" />
+					<h2 class="feature_title"><span>DEMONSTRABLY FAIR TECHNOLOGY</span></h2>
+					<p class="feature_brief">LGO creates a new decentralized blockchain protocol that guarantees full transparency and prevents front-running and market manipulation.</p>
+				</div>
+				<div class="col-md-4 feature">
+					<img src="/static/v2/img/bloc1_1.png?v2.0=3.51" />
+					<h2 class="feature_title turq"><span>HYBRID MODEL</span></h2>
+					<p class="feature_brief">LGO combines features of both centralized and decentralized architectures in order to exploit the best of both worlds: fiat support, strong authentication, simplicity, as well as transparency and fairness.</p>
+				</div>
+				<div class="col-md-4 feature">
+					<img src="/static/v2/img/bloc1_3.png?v2.0=3.51" />
+					<h2 class="feature_title green"><span>SECURE BY DESIGN</span></h2>
+					<p class="feature_brief">Our extensive experience designing reliably secure systems and our strategic partnership with Ledger ensure state of the art safeguards for crypto assets.</p>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<section class="subscription">
+		<div class="container">
+			<h2 class="section_title text-center text-uppercase green">STAY TUNED</h2>
+			<p class="section_brief text-center">Receive the latest news and updates by email.</p>
+			<!-- Begin MailChimp Signup Form -->
+			<form action="//exchange.us16.list-manage.com/subscribe/post?u=334bd5c1d00c706b8d22b669d&amp;id=65e3af85f8" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form-inline" target="_blank">
+				<div class="form-group text-center">
+					<input type="email" value="" name="EMAIL" id="mce-EMAIL" required="required" class="form-control rounded" placeholder="Your email">
+					<div style="position: absolute; left: -5000px;" aria-hidden="true">
+							<input type="text" name="b_334bd5c1d00c706b8d22b669d_79895cf1bf" tabindex="-1" value="">
+					</div>
+					<button type="submit" class="btn btn-lg btn-primary">Send</button>
+			</form>
+			<!--End mc_embed_signup-->
+		</div>
+	</section>
+
+	<section class="main">
+		<div class="container">
+			<img src="/static/v2/img/pattern_1.png?v2.0=3.51" class="pattern_1" alt="pattern_1" />
+			<div class="about">
+				<h2 class="section_title text-center text-md-left text-uppercase green">About</h2>
+				<h3 class="section_sub_title"><span>LGO EXCHANGE'S SOLUTION</span></h3>
+				<div class="brief">
+					<strong class="brief_title text-center">THE FIRST DEMONSTRABLY FAIR PREMIUM EXCHANGE.</strong>
+					<p>LGO Exchange incorporates a decentralized ledger within its proprietary centralized platform in order to neutralize front-running and guarantee the unalterability, temporality, and transparency of the order book.</p>
+
+					<p>LGO Exchange's unique hybrid model and strategic partnerships provide a fair and secure trading environment in which every type of transaction, intra-chain, cross-chain, and crypto/fiat, is executable.</p>
+
+					<p>Thus, unlike fully decentralized exchanges, LGO can cover 100% market share with full transparency and security.</p>
+				</div>
+
+				<div class="row align-items-center timeline">
+					<div class="col-md-5 timeline_item text-center text-md-left d-md-block d-none">
+						<img alt="Bank" class="img-responsive" src="/static/v2/img/guaranteed_wallet.png?v=3.51" data-holder-rendered="true" />
+					</div>
+					<div class="col-md-6 timeline_item text-center text-md-left">
+						<strong class="my-3">Secure Wallet</strong> At LGO <b>you control your own coins</b> because no one else should be able to spend your coins without your signature. Our team has extensive experience designing and operating reliably secure systems. And a strategic partnership with Ledger means users can count on state of the art safeguards for their crypto assets like smart card based hardware wallets and hardware security modules.
+					</div>
+				</div>
+				<div class="row align-items-center">
+					<div class="col-md-6 offset-md-1 timeline_item text-center text-md-right">
+						<strong class="my-3">Provably Honest and Fair</strong> LGO Exchange's exclusive protocol guarantees the temporality of orders. It <b>neutralizes front-running</b> and market manipulation, ensuring a fair and honest trading environment.
+					</div>
+					<div class="col-md-5 timeline_item text-center text-md-right d-md-block d-none">
+						<img alt="Blockchain" class="img-responsive" src="/static/v2/img/secured_market.png?v=3.51" data-holder-rendered="true" />
+					</div>
+				</div>
+				<div class="row align-items-center">
+					<div class="col-md-5 timeline_item text-center text-md-left d-md-block d-none">
+						<img alt="Large Fiat Transactions Allowed" class="img-responsive" src="/static/v2/img/large_fiat_allowed.png?v=3.51" data-holder-rendered="true" />
+					</div>
+					<div class="col-md-6 timeline_item text-center text-md-left">
+						<strong class="my-3">Large Fiat Transactions Allowed</strong> This unique partnership with Makor ensures scalable, reliable, fast and secure <b>large fiat deposits and withdrawals</b>.
+					</div>
+				</div>
+				<div class="row align-items-center">
+					<div class="col-md-6 offset-md-1 timeline_item text-center text-md-right">
+						<strong class="my-3">Transparent</strong> Using Blockchain technology, the LGO Exchange platform is designed to provide auditable trade history and order book, real time <b>proof of reserve and complete reporting</b>.
+					</div>
+					<div class="col-md-5 timeline_item text-center text-md-right d-md-block d-none">
+						<img alt="Safe Box" class="img-responsive" src="/static/v2/img/transparent.png?v=3.51" data-holder-rendered="true" />
+					</div>
+				</div>
+
+				<div class="row align-items-center timeline">
+					
+					<div class="col-12">
+						<h3 class="section_sub_title"><span>Problems</span></h3>
+					</div>
+					<div class="col-md-5 timeline_item">
+						<div class="timeline_intro text-left">
+							No existing platform for institutions to access cryptocurrency
+						</div>
+					</div>
+					<div class="col-md-6 offset-md-1 timeline_item">
+						<div class="timeline_highlight">
+							Despite the increasing number of investors and traders who recognize the value of cryptocurrencies as a long-term investment, high-profile investors have held back on investing massively in this market. Fund security, verifiability, honesty and fairness along with efficient reporting tools are all badly lacking in the current crypto exchange ecosystem. Opaque and sometimes dishonest exchanges have undermined crypto-community trust.
+						</div>
+					</div>
+				</div>
+
+				<div class="row align-items-center timeline">
+					<div class="col-md-5 timeline_item text-center text-md-left d-md-block d-none">
+						<img alt="Stolen BTC" class="img-responsive" src="/static/public/img/stolen_btc.png?v=3.51" data-holder-rendered="true" />
+					</div>
+					<div class="col-md-6 timeline_item text-center text-md-left">
+						<strong class="my-3">Stolen BTC</strong> Millions of bitcoins have been stolen since 2009 and hackers are always on the lookout for new avenues of attack.
+					</div>
+				</div>
+				<div class="row align-items-center">
+					<div class="col-md-6 offset-md-1 timeline_item text-center text-md-right">
+						<strong class="my-3">Market Manipulation</strong> Without oversight or regulations exchanges are suspected of market manipulation.
+					</div>
+					<div class="col-md-5 timeline_item text-center text-md-right d-md-block d-none">
+						<img alt="Market Manipulation" class="img-responsive" src="/static/public/img/market_manipulation.png?v=3.51" data-holder-rendered="true" />
+					</div>
+				</div>
+				<div class="row align-items-center">
+					<div class="col-md-5 timeline_item text-center text-md-left d-md-block d-none">
+						<img alt="No Large Fiat Transactions" class="img-responsive" src="/static/public/img/fiat_transactions.png?v=3.51" data-holder-rendered="true" />
+					</div>
+					<div class="col-md-6 timeline_item text-center text-md-left">
+						<strong class="my-3">No Large Fiat Transactions</strong> Low maximum amounts, high fees and long delays for fiat transactions make large size trades tedious.
+					</div>
+				</div>
+				<div class="row align-items-center">
+					<div class="col-md-6 offset-md-1 timeline_item text-center text-md-right">
+						<strong class="my-3">Opacity</strong> Free from accountability, crypto exchanges operate without periodic reports or independent audits.
+					</div>
+					<div class="col-md-5 timeline_item text-center text-md-right d-md-block d-none">
+						<img alt="Opacity" class="img-responsive" src="/static/public/img/opacity.png?v=3.51" data-holder-rendered="true" />
+					</div>
+				</div>
+
+				<div class="row align-items-center timeline">
+					<div class="col-12 timeline_item text-center text-md-left">
+						<h2 class="text-center">
+							Fully Decentralized Exchanges: An Unrealistic Solution
+						</h2>
+						<p>Transactions between different blockchains and fiat transactions are impossible on decentralized exchanges. This is a significant drawback to their use given that transactions within the same blockchain represent only 3% of all daily transactions.</p>
+						<p>Although some projects have been working on the cross-chain issue, a satisfactory solution has yet to emerge, and in any case their potential future expansion is limited to 25% market share.</p>
+					</div>
+					<div class="col-12 timeline_item">
+						<img src="/static/v2/img/graph.png?v2.0=3.51" class="img-fluid mx-auto graph" alt="graph">
+					</div>
+				</div>
+				<div>
+					<h3 class="section_sub_title"><span>Timeline</span></h3>
+					<p class="mb-5">Development of the exchange is progressing on track. We plan to have a beta version at the end of Q1 2018 on which we’ll have large institutions at first. We will gradually open the platform to more users as we go and release newer versions of the exchange. Of course, we will prioritize users who participated in our token sale.</p>
+					<table class="table">
+						<thead>
+							<tr>
+								<th scope="col" class="blue">01</th>
+								<th scope="col" class="turq">02</th>
+								<th scope="col" class="green">03</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td class="blue">
+									<strong>Q2 2017</strong> PoC Development
+								</td>
+								<td class="turq">
+									<strong>Q1 2018</strong> Beta Version Release
+								</td>
+								<td class="green">
+									<strong>Q3 2018</strong> V1 Release
+								</td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<section class="documents" id="whitepaper">
+		
+		<img src="/static/v2/img/pattern_2.png?v2.0=3.51" class="pattern_2" alt="pattern_2" />
+		<div class="container">
+			<h2 class="section_title text-center text-md-right">WHITE PAPER</h2>
+			<div class="row document">
+				<div class="col-12 col-sm-6 offset-sm-3 text-center">
+					<h3 class="document_title">LGO Whitepaper:</h3>
+					
+					<a href="/static//public/legolas-whitepaper-en.pdf?v=13" target="whitepaper" class="d-block document_link">
+						<img src="/static/v2/img/picto_pdf.png?v2.0=3.51" class="float-right" style="width: 40px;vertical-align: middle;" />
+						"A provably fair centralized exchange using decentralized blockchain technology."
+					</a>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<section class="press" id="press">
+			<img src="/static/v2/img/pattern_4.png?v2.0=3.51" class="pattern_4" alt="pattern_4">
+			<div class="container">
+				<h2 class="section_title text-center text-md-right text-uppercase">Press</h2>
+
+					<div class="perss_lang_filter maps text-center" id="maps">
+							<ul class="list-inline d-inline-block mb-ms-2">
+									<li class="list-inline-item">
+										<a href="#" class="map_icon en active" title="English" data-target-lang="en"></a>
+									</li>
+									<li class="list-inline-item">
+										<a href="#" class="map_icon es" title="Spanish" data-target-lang="es"></a>
+									</li>
+									<li class="list-inline-item">
+										<a href="#" class="map_icon fr" title="French" data-target-lang="fr"></a>
+									</li>
+									<li class="list-inline-item">
+										<a href="#" class="map_icon ru" title="Russian" data-target-lang="ru"></a>
+									</li>
+									<li class="list-inline-item">
+										<a href="#" class="map_icon ko" title="Korean" data-target-lang="ko"></a>
+									</li>
+								</ul>
+					</div>
+
+					<div class="press_carousel">
+
+						<div class="card text-center en" style="width: 18rem;">
+							<img class="card-img-top" src="/static/v2/img/press_logos/iij_logo.png?v2.0=3.51" alt="Card image cap">
+							<div class="card-body">
+								<a class="card-text" target="_blank" href="http://jot.iijournals.com/content/12/3/5">
+									"Footprints on a Blockchain: Trading and Information Leakage in Distributed Ledgers"
+								</a>
+							</div>
+						</div>
+
+						<div class="card text-center fr" style="width: 18rem;">
+							<img class="card-img-top" src="/static/v2/img/press_logos/mod-15520231.png?v2.0=3.51" alt="Card image cap">
+							<div class="card-body">
+								<a class="card-text" target="_blank" href="https://www.blockchaindailynews.com/CertEurope-devient-partenaire-de-Legolas-Exchange-la-place-de-marche-sur-Blockchain_a26010.html">
+									"CertEurope devient partenaire de LGO Exchange, la place de marché sur Blockchain"
+								</a>
+							</div>
+						</div>
+
+						<div class="card text-center en" style="width: 18rem;">
+							<img class="card-img-top" src="/static/v2/img/press_logos/prn_cision_logo_desktop.svg?v2.0=3.51" alt="Card image cap">
+							<div class="card-body">
+								<a class="card-text" target="_blank" href="https://www.prnewswire.com/news-releases/makor-group-and-legolas-exchange-announce-new-partnership-aimed-at-providing-institutional-investors-with-the-first-secured-and-compliant-platform-to-buy-and-manage-cryptocurrencies-657448353.html">
+									"Makor Group and LGO Exchange Announce New Partnership Aimed at Providing Institutional..."
+								</a>
+							</div>
+						</div>
+
+						<div class="card text-center fr" style="width: 18rem;">
+							<img class="card-img-top" src="/static/v2/img/press_logos/lesechos_logo.svg?v2.0=3.51" alt="Card image cap">
+							<div class="card-body">
+								<a class="card-text" target="_blank" href="https://business.lesechos.fr/entrepreneurs/financer-sa-creation/0301180306349-legolas-veut-rendre-le-marche-des-cryptomonnaies-plus-transparent-318227.php">
+									"LGO veut rendre le marché des cryptomonnaies plus transparent"
+								</a>
+							</div>
+						</div>
+
+						<div class="card text-center fr" style="width: 18rem;">
+							<img class="card-img-top" src="/static/v2/img/press_logos/frenchweb_logo.png?v2.0=3.51" alt="Card image cap">
+							<div class="card-body">
+								<a class="card-text" target="_blank" href="https://www.frenchweb.fr/confidentiel-hootsuite-ipo-ou-ico/314984">
+									"[CONFIDENTIEL] Hootsuite, IPO ou ICO?"
+								</a>
+							</div>
+						</div>
+
+						<div class="card text-center fr" style="width: 18rem;">
+							<img class="card-img-top" src="/static/v2/img/press_logos/frenchweb_logo.png?v2.0=3.51" alt="Card image cap">
+							<div class="card-body">
+								<a class="card-text" target="_blank" href="https://www.frenchweb.fr/les-marques-de-luxe-sont-en-retard-en-crm/310773">
+									"Les marques de luxe sont en retard en CRM"
+								</a>
+							</div>
+						</div>
+
+						<div class="card text-center en" style="width: 18rem;">
+							<img class="card-img-top" src="/static/v2/img/press_logos/digitaljournal_logo.png?v2.0=3.51" alt="Card image cap">
+							<div class="card-body">
+								<a class="card-text" target="_blank" href="http://www.digitaljournal.com/pr/3639167">
+									"A New Secure and Transparent Cryptocurrency Exchange is Born: LGO Announces its Token Sale"
+								</a>
+							</div>
+						</div>
+
+						<div class="card text-center en" style="width: 18rem;">
+							<img class="card-img-top" src="/static/v2/img/press_logos/fxempire_logo.svg?v2.0=3.51" alt="Card image cap">
+							<div class="card-body">
+								<a class="card-text" target="_blank" href="https://www.fxempire.com/news/article/3-problems-exchanges-must-solve-wall-street-embrace-cryptocurrency-470752">
+									"3 Problems Exchanges Must Solve for Wall Street to Embrace Cryptocurrency"
+								</a>
+							</div>
+						</div>
+
+						<div class="card text-center fr" style="width: 18rem;">
+							<img class="card-img-top" src="/static/v2/img/press_logos/globalsecuritymag_logo.png?v2.0=3.51" alt="Card image cap">
+							<div class="card-body">
+								<a class="card-text" target="_blank" href="https://www.globalsecuritymag.fr/CertEurope-devient-partenaire-de,20171122,75316.html">
+									"CertEurope devient partenaire de LGO Exchange, la place de marché sur Blockchain « fair and secure by design »"
+								</a>
+							</div>
+						</div>
+
+						<div class="card text-center fr" style="width: 18rem;">
+							<img class="card-img-top" src="/static/v2/img/press_logos/frenchmorning_logo.png?v2.0=3.51" alt="Card image cap">
+							<div class="card-body">
+								<a class="card-text" target="_blank" href="https://frenchmorning.com/legolas-exchange-frederic-montagnon-saventure-crypto-monnaies/">
+									"LGO Exchange: Frédéric Montagnon s’aventure dans les crypto-monnaies"
+								</a>
+							</div>
+						</div>
+
+						<div class="card text-center en" style="width: 18rem;">
+							<img class="card-img-top" src="/static/v2/img/press_logos/prn_cision_logo_desktop.svg?v2.0=3.51" alt="Card image cap">
+							<div class="card-body">
+								<a class="card-text" target="_blank" href="https://www.prnewswire.com/news-releases/makor-group-and-legolas-exchange-announce-new-partnership-aimed-at-providing-institutional-investors-with-the-first-secured-and-compliant-platform-to-buy-and-manage-cryptocurrencies-657448353.html">
+									"Makor Group and LGO Exchange Announce New Partnership Aimed at Providing Institutional Investors With the First Secured and Compliant Platform To Buy and Manage Cryptocurrencies"
+								</a>
+							</div>
+						</div>
+
+						<div class="card text-center en" style="width: 18rem;">
+							<img class="card-img-top" src="/static/v2/img/press_logos/forbes_logo.png?v2.0=3.51" alt="Card image cap">
+							<div class="card-body">
+								<a class="card-text" target="_blank" href="https://www.forbes.com/forbes/welcome/?toURL=https://www.forbes.com/sites/darrenheitner/2017/11/29/how-an-ico-plans-on-changing-the-world-of-video-games">
+									"How An ICO Plans On Changing The World Of Video Games"
+								</a>
+							</div>
+						</div>
+
+						<div class="card text-center en" style="width: 18rem;">
+							<img class="card-img-top" src="/static/v2/img/press_logos/coinidol_logo.svg?v2.0=3.51" alt="Card image cap">
+							<div class="card-body">
+								<a class="card-text" target="_blank" href="https://coinidol.com/legolas-raises-the-bar-for-transparency-and-security/">
+									"LGO Raises the Bar for Transparency and Security in Cryptomarkets"
+								</a>
+							</div>
+						</div>
+
+						<div class="card text-center en" style="width: 18rem;">
+							<img class="card-img-top" src="/static/v2/img/press_logos/cointelegraph_logo.png?v2.0=3.51" alt="Card image cap">
+							<div class="card-body">
+								<a class="card-text" target="_blank" href="https://cointelegraph.com/news/what-can-crypto-exchanges-learn-from-traditional-banking">
+									"What Can Crypto Exchanges Learn From Traditional Banking?"
+								</a>
+							</div>
+						</div>
+
+						<div class="card text-center en" style="width: 18rem;">
+							<img class="card-img-top" src="/static/v2/img/press_logos/advfn_logo.png?v2.0=3.51" alt="Card image cap">
+							<div class="card-body">
+								<a class="card-text" target="_blank" href="https://uk.advfn.com/newspaper/luisaureliano/46275/a-tale-of-two-speculative-assets-forex-cryptocurrency-trading-and-the-exchanges-that-support-them">
+									"A Tale of Two Speculative Assets: Forex & Cryptocurrency Trading and The Exchanges That Support Them"
+								</a>
+							</div>
+						</div>
+
+						<div class="card text-center fr" style="width: 18rem;">
+							<img class="card-img-top" src="/static/v2/img/press_logos/challenges_logo.svg?v2.0=3.51" alt="Card image cap">
+							<div class="card-body">
+								<a class="card-text" target="_blank" href="https://www.challenges.fr/finance-et-marche/bitcoin-ethereum-ripple-quels-sont-les-risques-d-investir-dans-les-cryptomonnaies_563943">
+									"Bitcoin, ethereum, ripple... Quels sont les risques d'investir dans les cryptomonnaies?"
+								</a>
+							</div>
+						</div>
+
+						<div class="card text-center en" style="width: 18rem;">
+							<img class="card-img-top" src="/static/v2/img/press_logos/yahoo_logo.png?v2.0=3.51" alt="Card image cap">
+							<div class="card-body">
+								<a class="card-text" target="_blank" href="https://finance.yahoo.com/news/3-problems-exchanges-must-solve-084523299.html">
+									"3 Problems Exchanges Must Solve for Wall Street to Embrace Cryptocurrency"
+								</a>
+							</div>
+						</div>
+
+						<div class="card text-center en" style="width: 18rem;">
+							<img class="card-img-top" src="/static/v2/img/press_logos/cryptovest_logo.svg?v2.0=3.51" alt="Card image cap">
+							<div class="card-body">
+								<a class="card-text" target="_blank" href="https://cryptovest.com/news/legolas-to-bridge-gap-between-financial-industry-and-the-crypto-community/">
+									"LGO to Bridge Gap Between Financial Industry and the Crypto Community"
+								</a>
+							</div>
+						</div>
+
+						<div class="card text-center en" style="width: 18rem;">
+							<img class="card-img-top" src="/static/v2/img/press_logos/newsmax_logo.png?v2.0=3.51" alt="Card image cap">
+							<div class="card-body">
+								<a class="card-text" target="_blank" href="https://www.newsmax.com/finance/investinganalysis/blockchain-ventures-mass-adoption/2018/02/05/id/841525/">
+									"How Blockchain Ventures Can Achieve Mass Adoption"
+								</a>
+							</div>
+						</div>
+
+						<div class="card text-center en" style="width: 18rem;">
+							<img class="card-img-top" src="/static/v2/img/press_logos/cointelegraph_logo.png?v2.0=3.51" alt="Card image cap">
+							<div class="card-body">
+								<a class="card-text" target="_blank" href="https://cointelegraph.com/news/big-investors-coming-a-new-decentralized-exchange-makes-plans-to-lure-them-all">
+									"Big Investors Coming: A New Decentralized Exchange Makes Plans to Lure Them All"
+								</a>
+							</div>
+						</div>
+
+						<div class="card text-center ko" style="width: 18rem;">
+							<img class="card-img-top" src="/static/v2/img/press_logos/mk_logo.gif?v2.0=3.51" alt="Card image cap">
+							<div class="card-body">
+								<a class="card-text" target="_blank" href="http://news.mk.co.kr/newsRead.php?year=2018&no=75691">
+									"中·佛 가상화폐 거래소, 한국시장 속속 상륙 채비"
+								</a>
+							</div>
+						</div>
+
+						<div class="card text-center ko" style="width: 18rem;">
+							<img class="card-img-top" src="/static/v2/img/press_logos/theleader_logo.png?v2.0=3.51" alt="Card image cap">
+							<div class="card-body">
+								<a class="card-text" target="_blank" href="http://theleader.mt.co.kr/articleView.html?no=2018012321057875718">
+									"블록체인에게 일의 미래를 묻다 what’s up 첫 방송!"
+								</a>
+							</div>
+						</div>
+
+						<div class="card text-center ko" style="width: 18rem;">
+							<img class="card-img-top" src="/static/v2/img/press_logos/theleader_logo.png?v2.0=3.51" alt="Card image cap">
+							<div class="card-body">
+								<a class="card-text" target="_blank" href="http://theleader.mt.co.kr/articleView.html?no=2018013016557859105">
+									"Frederic Montagnon 레골라스 거래소 대표, “블록체인은 중앙집권화된 권력 분산에 탁월… 기업도, 개인도 대비해야 ”"
+								</a>
+							</div>
+						</div>
+
+						<div class="card text-center ko" style="width: 18rem;">
+							<img class="card-img-top" src="/static/v2/img/press_logos/pressian_logo.png?v2.0=3.51" alt="Card image cap">
+							<div class="card-body">
+								<a class="card-text" target="_blank" href="http://www.pressian.com/news/article.html?no=184498">
+									"'차세대 가상화폐 거래소' 표방 레골라스 2월1일 ICO"
+								</a>
+							</div>
+						</div>
+
+						<div class="card text-center ko" style="width: 18rem;">
+							<img class="card-img-top" src="/static/v2/img/press_logos/naver_logo.png?v2.0=3.51" alt="Card image cap">
+							<div class="card-body">
+								<a class="card-text" target="_blank" href="https://blog.naver.com/kyung5021/221195362176">
+									"레골라스 거래소 프리세일, 레골라스 거래소 ICO 소개"
+								</a>
+							</div>
+						</div>
+
+						<div class="card text-center en" style="width: 18rem;">
+							<img class="card-img-top" src="/static/v2/img/press_logos/businesskorea_logo.png?v2.0=3.51" alt="Card image cap">
+							<div class="card-body">
+								<a class="card-text" target="_blank" href="http://www.businesskorea.co.kr/english/news/money/20439-seeking-chances-global-cryptocurrency-exchanges-rushing-s-korean-market">
+									"Global Cryptocurrency Exchanges Rushing into S. Korean Market"
+								</a>
+							</div>
+						</div>
+
+						<div class="card text-center es" style="width: 18rem;">
+							<img class="card-img-top" src="/static/v2/img/press_logos/criptonoticias_logo.png?v2.0=3.51" alt="Card image cap">
+							<div class="card-body">
+								<a class="card-text" target="_blank" href="https://www.criptonoticias.com/casas-de-cambio/legolas-exchange-facilitar-acceso-inversionistas-institucionales-criptomonedas/">
+									"LGO Exchange busca facilitar el acceso de inversionistas institucionales a las criptomonedas"
+								</a>
+							</div>
+						</div>
+
+						<div class="card text-center es" style="width: 18rem;">
+							<img class="card-img-top" src="/static/v2/img/press_logos/tecnologia_logo.png?v2.0=3.51" alt="Card image cap">
+							<div class="card-body">
+								<a class="card-text" target="_blank" href="https://www.tecnologia.press/2018/01/25/legolas-la-proxima-generacion-crypto-exchange/id=rusbell/">
+									"Por qué LGO es la próxima generación de Crypto-Exchange"
+								</a>
+							</div>
+						</div>
+
+						<div class="card text-center es" style="width: 18rem;">
+							<img class="card-img-top" src="/static/v2/img/press_logos/criptotendencia_logo.png?v2.0=3.51" alt="Card image cap">
+							<div class="card-body">
+								<a class="card-text" target="_blank" href="https://criptotendencia.com/2018/01/30/por-que-es-importante-que-conozcas-el-concepto-de-intercambio-hibrido/">
+									"¿Por qué es importante que conozcas el concepto de intercambio híbrido?"
+								</a>
+							</div>
+						</div>
+
+						<div class="card text-center es" style="width: 18rem;">
+							<img class="card-img-top" src="/static/v2/img/press_logos/criptonoticias_logo.png?v2.0=3.51" alt="Card image cap">
+							<div class="card-body">
+								<a class="card-text" target="_blank" href="https://www.criptonoticias.com/aplicaciones/legolas-exchange-comienza-ico-febrero/">
+									"LGO Exchange comienza su ICO este 1ero de febrero"
+								</a>
+							</div>
+						</div>
+
+						<div class="card text-center ru" style="width: 18rem;">
+							<img class="card-img-top" src="/static/v2/img/press_logos/coinews_logo.png?v2.0=3.51" alt="Card image cap">
+							<div class="card-body">
+								<a class="card-text" target="_blank" href="http://coinews.io/ru/category/1-kripto/article/1763-novoe-pokolenie-bezopasnyh-i-prozrachnyh-kriptovaljutnyh-birzh:-legolas-ob%23yavlyaet-o-prodazhe-svoego-tokena">
+									"Новое поколение безопасных и прозрачных криптовалютных бирж: LGO объявляет о продаже своего токена"
+								</a>
+							</div>
+						</div>
+
+
+					</div>
+				
+			</div>
+		</section>
+
+
+
+		<footer>
+			<div class="container-fluid p-3">
+				<div class="row">
+					<div class="col-12 col-md-6">
+						<div class="rights text-center text-md-left">
+							© Copyright LGO Exchange 2018
+						</div>
+					</div>
+					<div class="col-12 col-md-6">
+						<ul class="nav justify-content-center justify-content-md-end">
+							<li class="nav-item">
+								<a class="nav-link active" href="/static/public/privacy-policy-LGO.pdf?v2.3=3.51" target="_blank">Privacy policy</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link active" href="/static/public/terms-of-use-LGO-website.pdf?v2.3=3.51" target="_blank">Terms of use</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</footer>
+    
+    <div id="CookielawBanner" class="animate_bll to_animate">
+        <div class="container">
+            <h6>Cookies disclaimer</h6>
+            <p>
+                <a class="btn btn-info" href="#" id="cookies_ok">I agree</a>
+                Our site saves small pieces of text information (cookies) on your device in order to deliver better content and for statistical purposes. You can disable the usage of cookies by changing the settings of your browser. By browsing our website without changing the browser settings you grant us permission to store that information on your device.
+            </p>
+        </div>
+    </div>
+    
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script>window.jQuery || document.write('<script src="/static/public/js/vendor/jquery-3.2.1.min.js"><\/script>')</script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+		<script src="/static/v2/js/timecircles.js?v2.0=3.51"></script>
+		<script src="/static/v2/js/slick.min.js?v2.0=3.51"></script>
+		<script src="/static/v2/js/main.js?v2.0=3.51"></script>
+    
+
+    
+    <script>
+        (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+            function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+        e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+        e.src='//www.google-analytics.com/analytics.js';
+        r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+        ga('create','UA-105714438-1','auto');ga('send','pageview');
+    </script>
+
+	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-PLQXTRH');</script>
+	<!-- End Google Tag Manager -->
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PLQXTRH"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+	</body>
+</html>

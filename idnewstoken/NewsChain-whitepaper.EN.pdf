@@ -1,0 +1,233 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+	<head>
+		<meta charset="UTF-8">
+		<title>NewsChain</title>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta content="width=device-width, initial-scale=1,user-scalable=0" name="viewport" />
+	   <!-- <link rel="stylesheet" type="text/css" href="css/style.css">
+		<link rel="stylesheet" type="text/css" href="css/style-phone.css">
+		<link rel="stylesheet" media="screen and (max-device-width:1199px)" href="css/style-phone.css"/>
+		<link rel="stylesheet" media="screen and (min-device-width:1200px)" href="css/style.css"/>-->
+		<link rel="stylesheet" type="text/css" href="css/style.css">
+		<script type="text/javascript" src="js/jquery-1.11.3.js"></script>
+		<script type="text/javascript" src="js/index.js"></script>
+	</head>
+	<body>
+		<div class="top_div">
+			<div class="top_div_title">
+				<img src="img/logo.png">
+				<div class="download_div">
+					<p><a href="http://hongtaozhuan.cn/newsH5/guideRegSuccDown.do?fid=0&cid=10" target="_self" style="color:#22A6D1;"><img id="arrow1" src="img/arrow1.png"/>DAPP Download</a></p>
+					<p><a href="https://github.com/news-chain" target="_self" style="color:#20CCC1;"><img id="arrow2" src="img/arrow2.png"/>Github</a></p>
+				</div>
+			</div>
+			<div class="top_div_con">
+				<div class="top_div_con_left">
+					<p class="top_div_con_1">The&nbsp;&nbsp;information&nbsp;&nbsp;is&nbsp;&nbsp;around<br/>you</p>
+					<p class="top_div_con_2">Blockchain-based traffic propagation ecosystem Without
+					<br/>anycoding and deployment, you can easily create your
+					<br/>own theme community.</p>
+				</div>
+				<a href="img/NewsChain-whitepaper.EN.pdf"><img class="button" src="img/button.png"/></a>
+			</div>
+			<div style="height:10rem;"></div>
+		</div>
+		<div class="mid_div">
+			<div class="transmission">
+				<img src="img/1-1.png"/>
+				<p class="title">Transmission chain</p>
+				<div class="content">
+					<p>
+						NewsChain (propagation chain) is a blockchain-based traffic dissemination ecosystem. Its goal is to establish a network that uses blockchain technology to use decentralized consensus methods to contribute to pricing and equity returns for content production. Producers, content investors and content consumers all have reasonable incentives and rewards. Advertisers can also achieve accurate marketing on the platform.
+					</p>
+					<p>
+						The original design of NewsChain (propaganda chain) is to construct a set of reasonable content flow advertising value evaluation and income distribution mechanism, and build a value network based on user content evaluation. Regardless of text, video, picture, audio, or even live broadcast content-based content  platforms (including, not limited to websites, Apps, and other forms of expression), it is possible to use the propagation chain to construct a content incentive platform corresponding to the theme. Between the platforms, the content is evaluated using a unified content evaluation algorithm, the flow value is evaluated using an effective traffic algorithm, the advertisement is provided by an accurate marketing algorithm, the content is produced, the content investor, the content communicator, and the platform Constructors, advertisers, etc. will all rely on the ecology of the dissemination chain to obtain appropriate and reasonable returns based on content, traffic value, and precision marketing.
+					</p>
+					<p style="padding-bottom: 1rem">
+						Therefore, NewsChain (propagation chain) combines social networks, artificial intelligence, big data, and blockchains seamlessly. It will surely enable content-based eco-blockchains based on social networks to create content producers and content consumers. Content communicators and advertising investors share the economic ecology of mutual benefit
+					</p>
+				</div>
+			</div>
+			<div class="brightspot">
+				<div class="BScontentDiv">
+					<img src="img/2-1.png"/>
+					<p class="title">
+						Asset purchase and anchoring
+					</p>
+					<p class="content">
+						The Spread Chain Foundation will take part in Newos's cooperation with the major ETH mines. Mine users of these mines use the legal currency to purchase ETH calculations. The mines do not use ETH when settlement is completed with these users. Final settlement takes place, but settlement is done using Newos. These Newoss are provided by the Spread Chain Foundation in the market by trading ETH currency into Newos.</p>
+					<p class="content" style="padding-bottom:15px;">
+						In order to ensure that this mechanism is operational, the Communication Chain Foundation will, if necessary, take part in or hold a share of the Ethereum Mine to force the binding of the ergonomic relationship between ETH and Newos.
+					</p>
+				</div>
+				<div class="BScontentDiv">
+					<img src="img/2-2.png"/>
+					<p class="title">
+						AI system
+					</p>
+					<p class="content">
+						The dissemination chain comes with an AI system (smart recommendation algorithm). The AI is based on a deep learning algorithm. It can create portraits based on user behavior, predict content that the user is interested in, and then match the content of the chain end to actively push content   for users. At the same time, the AI can also cooperate with the advertising system to help advertisers associate content and advertisements with the best price/performance ratio.
+					</p>
+				</div>
+				<div class="BScontentDiv">
+					<img src="img/2-3.png"/>
+					<p class="title">
+						Intelligent anti-cheating
+					</p>
+					<p class="content">
+						The anti-cheating mechanism includes, but is not limited to, mobile phone number detection, real-time evaluation system of weights, and FACE ID verification. It is mainly used to prevent malicious users from illegally acquiring tokens after simulating user operations through robots. Once the Spread Chain Foundation determines that there is a malicious user who commits cheating, it will permanently cancel the account and withdraw Newos from its account.
+					</p>
+				</div>
+				<div style="clear:both;"></div>
+			</div>
+			<div class="cooperate">
+				<img style="position: absolute;top: 38px;left: -102px;" src="img/3-bg1.png">
+				<img style="position: absolute;bottom: 39px;left: 1007px;" src="img/3-bg2.png">
+				<p class="title">Cooperate APP</p>
+				<hr/>
+				<div class="coContent">
+					<div class="coContent1">
+						<p>Last week's meeting between President Xi Jinping and Kim Jong-un, the top leader of the Democratic People's Republic of Korea, indicates China is playing an essential role in the settlement of the nuclear issue on the Korean Peninsula, according to several US analysts.</p>
+					</div>
+					<p></p>
+					<div class="coContent2">
+						<p>"China's role is essential," said Jon Taylor, professor of political science at the University of St. Thomas in Houston. The visit to Beijing and the Xi-Kim meeting has "reinforced China's role as a central actor in managing security issues in Northeast Asia in general and the Korean Peninsula in particular", he said</p>
+					</div>
+					<p></p>
+					<div class="coContent3">
+						<p>The Xi-Kim meeting is expected to be followed by a flurry of other talks, such as the late-April summit between Kim and President Moon Jae-in of the Republic of Korea. These are "quite relevant" to the summit between US President Donald Trump and Kim in May, according to Taylor, who writes about China.</p>
+					</div>
+				</div>
+				<div style="clear:both;"></div>
+			</div>
+			<div class="usersystem">
+				<div class="userContent1">
+					<p class="title">Asset purchase and anchoring</p>
+					<p>
+						Create and publish valuable data content through token rewards, and obtain corresponding token returns through fair and reasonable content and traffic rating systems. The content producers and NewsChain (Communication Chain) complement each other and jointly promote the healthy development of the community.
+					</p>
+				</div>
+				<div class="userContent2">
+					<p class="title">Content Investors</p>
+					<p>
+						The content revenue sharing function allows users to invest in good content generated by other users and gain a share of their revenue, and content producers (investors) can also use this to obtain one-time income and subsequent share of revenue.
+					</p>
+				</div>
+				<div class="userContent3">
+					<p class="title">Content communicator</p>
+					<p>
+						Through the content reward and reward mechanism, a social media platform with general information distribution as the theme is first established, and then the content distribution mechanism for social networks is gradually completed, and the advanced content community ecosystem oriented to content distribution services is finally realized.
+					</p>
+				</div>
+				<div class="userContent4">
+					<p class="title">Paying users</p>
+					<p>
+						A paying user can pay directly to the content provider by using Newos to ensure timely access to interesting and valuable data content.
+					</p>
+				</div>
+				<div class="userContent5">
+					<p class="title">Advertisers</p>
+					<p>
+						NewsChain (Spreading Chain) provides a unified platform for advertising on the chain. It sells advertisements for the platform that are paid in terms of length of time or according to advertising space and are paid for by the number of downloads. Users can directly pay for tokens and purchase them. After witnesses review the advertisements, they can Advertise.
+					</p>
+				</div>
+				<div class="userContent6">
+					<p class="title">General user</p>
+					<p>
+						General users authorize the platform through the wallet supported by the propagation chain, and can authorize the platform agent to use its permissions. The authority can be used to perform cross-site login, content publishing, and commentary operations. This is a restricted permission and cannot be used by the user. The purse performs key operations and cannot transfer assets. At the same time, the platform cannot obtain user keys, ensuring the security of user assets and ensuring the openness of the system.
+					</p>
+				</div>
+				<div style="clear:both;"></div>
+			</div>
+			<div class="technical">
+				<p class="title">Technical principle</p>
+				<hr/>
+				<img src="img/5-E.png"/>
+				<div class="technical1" id="technical1">
+					<p class="mar_left"><span class="span-x">·</span>system structure<span class="span-x">·</span></p>
+					<img class="mar_left" src="img/5-1.png"/>
+					<a href="javascript:;" onclick="hrefFun('2')"><img class="right_button" src="img/5-right.png"/></a>
+					<p class="tec_con">
+						NewsChain (propagation chain) uses a graphene engine, where the underlying data layer contains the definition of the block structure, the implementation of cryptographic primitives, and the definition of the blockchain chain structure, which is the bottom layer of the entire NewsChain (propagation chain). The ecology includes the network layer, consensus layer and incentive layer in the core layer. The network layer mainly includes the P2P network message propagation mechanism and the Newos (News Token) transaction verification mechanism. The consensus layer uses the DPoS + PoW consensus mechanism to implement the area. The consensus of the blockchain book, the incentive layer includes the incentive mechanism for the community ecobuilders and the distribution mechanism of the Newos (News Token), the only circulation medium in the NewsChain (distribution chain) ecosystem. This is the core of the NewsChain (dissemination chain). Is the most important part; the application interaction layer builds a top-level application based on NewsChain (propagation chain) application APP, side-chain, and advertisement delivery platform on the basis of the base layer and core layer, and a benign development of programmable content ecological environment.
+					</p>
+				</div>
+				<div class="technical2" id="technical2" style="display:none;">
+					<p class="mar_left"><span class="span-x">·</span>Token circulation<span class="span-x">·</span></p>
+					<a href="javascript:;" onclick="hrefFun('1')"><img class="left_button" src="img/5-left.png"/></a>
+					<img class="mar_left" src="img/5-2.png"/>
+					<a href="javascript:;" onclick="hrefFun('3')"><img class="right_button" src="img/5-right.png"/></a>
+					<p class="tec_con">
+						News Token's circulation includes income and expenses. When eco-participants earn News Token,  the News Token intheir wallet will increase; when eco-participants spend News Token, the News  Token in their wallet will decrease.
+					</p>
+					<p class="tec_conx">
+						The income includes the following aspects: <br/>
+						(1) System rewards obtained by content producers through the  productionof valuable content.<br/>
+						(2) Systematic rewards obtained by content communicators  through the transmission of value content.<br/>
+						(3) Witness node and miner reward.<br/>
+						(4) Community Builder Award.<br/>
+						(5) Others.<br/>
+					</p>
+					<p class="tec_conx">
+						News Token expenditure includes the following aspects: <br/>
+						(1) Advertiser traffic purchase. <br/>
+						(2) Content consumers purchase paid content. <br/>
+						(3) payment processing fee. <br/>
+						(4) Small Products and Services Transactions. <br/>
+						(5) Content Investment. <br/>
+						(6) Daily consumption such as rewards and sticking.
+						(7) Others.
+					</p>
+				</div>
+				<div class="technical3" id="technical3" style="display:none;">
+					<p class="mar_left"><span class="span-x">·</span>Bonus system<span class="span-x">·</span></p>
+					<a href="javascript:;" onclick="hrefFun('2')"><img class="left_button" src="img/5-left.png"/></a>
+					<img class="mar_left" src="img/5-3.png"/>
+					<p class="tec_con">
+						Newos (News Token) is the only circulation medium in the entire community ecosystem. The eco-reward system establishes a community eco-reward mechanism through the platform's original POP (Proof of Participation) algorithm, which is specifically used for token rewards for community contributors. The number of News Tokens in the first-year Reward Pool accounted for 5% of the total Number of News Tokens issued. After that, 5% of the News Tokens will enter the pool each year for a total of 7 years.<br/>
+					</p>
+					<p class="tec_conx">
+						The community ecosystem uses the original PoP (Proof of Participation) algorithm to distribute the tokens in the community's reward pool in a reasonable manner and rewards them according to their different identities, including: <br/>
+						(1) Content forwarder.<br/>
+						(2) Content Reader.<br/>
+						(3) Content Creator.<br/>
+						(4) Content reviewer.<br/>
+						(5) new user.<br/>
+						(6) Mentoring Relationship Rewards.
+					</p>
+				</div>
+				<div style="clear:both;"></div>
+			</div>
+			<div class="inverstment">
+				<p class="title">Inverstment institution</p>
+				<hr/>
+				<img class="imgW" src="img/5-W.png"/>
+				<img class="inverstment_img" src="img/6-1.png"/><img class="inverstment_img" src="img/6-2.png"/><img class="inverstment_img" src="img/6-3.png"/><img class="inverstment_img" src="img/6-4.png"/>
+				<img class="inverstment_img" src="img/6-5.png"/><img class="inverstment_img" src="img/6-6.png"/><img class="inverstment_img" src="img/6-7.png"/><img class="inverstment_img" src="img/6-8.png"/>
+				<img class="inverstment_img" src="img/6-9.png"/>
+				<div style="clear:both;"></div>
+			</div>
+			<div class="roadmap">
+				<img class="imgS" src="img/7-S.png"/>
+				<img class="roadmap_img" src="img/7-title.png"/>
+				<img class="roadmap_img" src="img/7-11.png"/>
+			</div>
+			<div class="footer">
+				<div class="footer_left">
+					<img src="img/8-1.png"/>
+					<img src="img/8-2.png"/>
+					<p>Twitter：   @news_newtoken</p>
+					<p>Telegram：http://t.me/newschaintoken</p>
+				</div>
+				<div class="footer_right">
+					<p class="title">Click Download applications</p>
+					<div class="footer_DL">
+						<p><a href="http://hongtaozhuan.cn/newsH5/guideRegSuccDown.do?fid=0&cid=10" target="_self">Dapp Download</a>
+						<a class="footer_img" href="https://github.com/news-chain" target="_self"><img src="img/8-button.png"/></a></p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>

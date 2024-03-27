@@ -1,0 +1,20 @@
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<h1>404 Not Found</h1>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: /documents/OnLive_Whitepaper_KR.pdf</li>
+<li>RequestId: F2A85202A84EC947</li>
+<li>HostId: +BUaQcLQlrBxz0DnHN9E4HqdNqi85ZsKYiLJ2TFQviyxGHurzSaX9Kz9rD6SEz6ma4YLed39LnU=</li>
+</ul>
+<h3>An Error Occurred While Attempting to Retrieve a Custom Error Document</h3>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: error404/index.html</li>
+</ul>
+<hr/>
+</body>
+</html>

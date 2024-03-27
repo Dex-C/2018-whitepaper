@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>Error 404 · JET8</title>
+<script src="/cdn-cgi/apps/head/jc6YGAUqiA0YPADDut5towFKDl8.js"></script><link href="/build/errors.css?id=8e1708acf566f5fbc413" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500" rel="stylesheet">
+</head>
+<body>
+<div class="header">
+<img src="/images/jet8-dark-logo.png?">
+</div>
+<div class="error-container">
+<h2>Error 404: Page Not Found</h2>
+<img src="/images/error/404.png">
+<div class="text">Sorry, the page you're looking for cannot be accessed.<br />Either check the URL, <a href="/">go home</a>, or feel free to <a href="mailto:info@creativehothouse.com">report this issue</a>.</div>
+</div>
+<div class="copy">
+© Copyright 2018 JET8 - All Rights Reserved<br />JET8 is a registered non profit foundation in 103A Amoy Street, 06923 Singapore.
+</div>
+</body>
+</html>

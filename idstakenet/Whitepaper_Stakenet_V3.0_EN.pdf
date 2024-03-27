@@ -1,0 +1,991 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>StakeNet | Next generation proof of stake coin and network</title>
+        <meta name="description" content=" ">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+       
+        <link rel="stylesheet" href="/designer/css/stakenet.css">
+        <link rel="stylesheet" href="/css/form.css">
+        <link rel="stylesheet" href="/assetts/loading-bar.css">
+      
+        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+
+        
+        <link rel="stylesheet" href="/assetts/flex/flexslider.css">
+        <link rel="stylesheet" href="/assetts/aos/aos.css">
+        
+
+        <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+        <script type="text/javascript" src="/assetts/flex/jquery.flexslider-min.js"></script>
+        <script type="text/javascript" src="/assetts/aos/aos.js"></script>
+        <script type="text/javascript" src="/main.js"></script>
+        <BASE href="https://xsncoin.io/">
+        
+    </head>
+  
+    <body>
+
+        <div id="header" class="section" data-aos="fade" data-aos-duration="1000">
+
+
+            <!-- <div id="communityHead" style="text-align:center; margin:0 auto; left:25%; width:50%; top:-10px; position:absolute; z-index: 9999;">
+                <div class="inner">
+                    <div class="clearfix equalHMVWrap eqWrap">
+                        <div class="equalHMV" style="width:18%; padding-right:5px;">
+                          <a href="https://discord.gg/cyF5yCA"><img class="svg" style="width:40%;" src="/img/discord.svg"></a>
+                        </div>
+                        <div class="equalHMV" style="width:18%; padding-right:5px;">
+                          <a href="https://t.me/joinchat/BdGxxw-s3b4_DdBdbChI4g"><img class="svg" style="max-width:40%" src="/img/telegram.svg"></a>
+                        </div>
+                        <div class="equalHMV" style="width:18%; padding-right:5px;">
+                          <a href="https://twitter.com/XSNofficial"><img class="svg" style="max-width:40%" src="/img/twitter.svg"></a>
+                        </div>
+                        <div class="equalHMV" style="width:16%; padding-right:5px;">
+                          <a href="https://www.facebook.com/StakeNetOfficial/"><img class="svg" style="max-width:40%" src="/img/facebook.svg"></a>
+                        </div>
+                        <div class="equalHMV" style="width:16%; padding-right:0;">
+                          <a href="https://www.reddit.com/r/StakeNet/"><img class="svg" style="max-width:40%" src="/img/reddit.svg"></a>
+                        </div>
+                    </div>    
+                </div>    
+            </div> -->
+
+            <div class="nav clearfix">
+                
+                <div class="left">
+                    <ul>
+                        <li><a href="#vision">Vision</a></li>
+                        <li><a href="#roadmap">Roadmap</a></li>
+                        <li><a href="#team">Team</a></li>
+                        <li><a href="#articles">Articles</a></li>
+                        <li><a href="#network">Network</a></li>
+                    </ul>
+                </div>
+                <div class="right">
+                    <ul>
+                        <li><a href="#resources">Whitepaper</a></li>
+                        <li><a href="https://xsnexplorer.io" target="_blank">Explorer</a></li>
+                        <li><a href="/contest/">Contests</a></li>
+                        <li><a href="#resources">Resources</a></li>
+                        <li><a href="#network" class="button hollow buy">Buy XSN</a></li>
+                  </ul>
+                </div>
+            </div>
+            <div id="mobile-header" class="clearfix">
+                <div id="mobile-top">
+                    <span class="menuButton"><a class="button hollow inverse" href="#">&#9776; Menu</a></span>
+                </div>
+                <nav id="mobile-nav">
+                    <ul id="mobile-list">
+                         <li><a href="#vision">Vision</a></li>
+                        <li><a href="#roadmap">Roadmap</a></li>
+                        <li><a href="#team">Team</a></li>
+                        <li><a href="#articles">Articles</a></li>
+                        <li><a href="#network">Network</a></li>
+                        <li><a href="/contest/">Contests</a></li>
+                        <li><a href="#resources">Resources</a></li>
+                        <li><a href="/swap/">XSN Swap</a></li>
+                        <li><a href="https://xsnexplorer.io" target="_blank">Explorer</a></li>
+                        <li><a href="#network" class="button hollow buy">Buy XSN</a></li>
+                    </ul>
+                </nav>
+                
+            </div>
+            <div class="logo">
+                <a href="/"><img src="/img/stakenet-logo.svg" data-aos="fade-down" data-aos-duration="1000" data-aos-delay="200" alt="StakeNet"></a>
+            </div>                <div class="tabs clearfix wrapper" data-tabgroup="first-tab-group" data-aos="fade" data-aos-duration="1000">
+    	            <h4><a class="tablink" href="#tab1">Instant</a><a class="tablink" href="#tab2">Private</a><a class="tablink" href="#tab3">Secure</a><a class="tablink" href="#tab4">Masternodes</a><a class="tablink" href="#tab6">RSB</a><a class="tablink" href="#tab7">Atomic Swaps</a><a class="tablink" href="#tab8">CCPos</a></h4>
+    	            <div id="first-tab-group" class="tabgroup">
+    	                
+    	                <div class="flexslider">
+                          <ul class="slides">
+                            <li>
+                              <p>Instant, unlimited and fee-less transactions over Lightning Network.</p>
+                            </li>
+                            <li>
+                              <p>Using the latest in privacy technology to empower and protect our users.</p>
+                            </li>
+                            <li>
+                              <p>The first blockchain to utilize staking via trustless proof of stake "TPoS" resulting in the highest level of security amongst existing POS networks.</p>
+                            </li>
+                            <li>
+                              <p>Masternode requirement: 15,000 XSN.</p>
+                            </li>
+                            <li>
+                              <p>Rewarding coin holders via deflation by burning profits from services.</p>
+                            </li>
+                            <li>
+                              <p>Atomic Swaps are now possible, we will use our MN network to implement the first ever decentralized 'light' swaps.</p>
+                            </li>
+                            <li>
+                              <p>Cross Chain Proof of Stake (CCPoS) will allow the first ever cross chain masternodes as well as general utility for all XSN sidechains.</p>
+                            </li>
+                          </ul>
+                        </div>
+    	             
+    	            </div>
+    	        </div>
+        </div>
+        
+        <section id="headerbuttons">
+            <div class="buttons clearfix wrapper">
+                <a class="button hollow" href="#vision">Learn More</a> <a class="button solid" href="#wallets">Download Wallet</a>
+            </div> 
+            <div id="background-images">
+                <img src="/img/nodes-black-0.jpg">
+                <img src="/img/nodes-black-1.jpg">
+                <img src="/img/nodes-black-2.jpg">
+                <img src="/img/nodes-black-3.jpg">
+            </div>
+        </section>
+
+        <div id="community"  data-aos="fade" data-aos-duration="1500" data-aos-delay="500">
+            <div class="inner">
+                <div class="clearfix equalHMVWrap eqWrap">
+                    
+                    <div class="equalHMV">
+                      <a href="https://discord.gg/cyF5yCA"><img class="svg" src="https://xsncoin.io/img/discord.svg"></a>
+                    </div>
+                    <div class="equalHMV">
+                      <a href="https://t.me/joinchat/BdGxxw-s3b4_DdBdbChI4g"><img class="svg" src="https://xsncoin.io/img/telegram.svg"></a>
+                    </div>
+                    <div class="equalHMV">
+                      <a href="https://twitter.com/XSNofficial"><img class="svg" src="https://xsncoin.io/img/twitter.svg"></a>
+                    </div>
+                    <div class="equalHMV">
+                      <a href="https://www.facebook.com/StakeNetOfficial/"><img class="svg" src="https://xsncoin.io/img/facebook.svg"></a>
+                    </div>
+                    <div class="equalHMV">
+                      <a href="https://www.reddit.com/r/StakeNet/"><img class="svg" src="https://xsncoin.io/img/reddit.svg"></a>
+                    </div>
+                </div>    
+            </div>    
+        </div>
+        
+        
+        
+        <section id="vision" class="section wrapper">
+            <div class="wrapper">
+                <div class="content wrapper" data-aos="fade" data-aos-duration="1500" data-aos-delay="500">
+                    
+                    <h2>Vision</h2>
+                    <!--<p>XSN believes staking as a service will be a major and critical piece of the blockchain ecosystem as it emerges into the mainstream and touches the average everyday consumer. XSN will give users an intuitive and easy-to-use interface which performs the various actions and specific functionalities that these coins hold...</p>-->
+                    
+                    <ul>
+                        <li><p>To make the XSN framework an environment that allows easy and secure staking via TPoS – the highest level of security using decentralized cold staking. We are always working with the developers from our community to invent new applications for TPoS.</p></li>
+                        <li><p>To have a fast, private and innovative blockchain using masternodes, lightning network, security algorithms, CCPoS, etc.</p></li>
+                        <li><p>To create a network of merchants that accept XSN.</p></li>
+                        <li><p>To replace old technologies with something that the average user can pick and use without a lot of learning, then go out and spend for common goods.</p></li>
+                    </ul>
+                
+                    
+                    <h2>Core Objectives</h2>
+
+                    
+                    <div class="technology clearfix">
+                        <div class="key">
+                            <p>Security</p>
+                            <p>using Trustless-Proof-of-Stake (TPoS)</p>
+                        </div>
+                        <div class="icon">
+                            <img class="svg" src="/img/icons/lock-closed.svg" alt="security">
+                        </div>
+                    </div>
+                    
+                    <div class="technology clearfix">
+                        <div class="key">
+                            <p>Immediacy</p>
+                            <p>over Lightning Network and masternodes</p>
+                        </div>
+                        <div class="icon">
+                            <img class="svg" src="/img/icons/bolt.svg" alt="lightning">
+                        </div>
+                    </div>
+                    
+                    <div class="technology clearfix">
+                        <div class="key">
+                            <p>Innovations</p>
+                            <p>creating XSN sidechains and new technology</p>
+                        </div>
+                        <div class="icon">
+                            <img class="svg" src="/img/icons/stats2.svg" alt="sidechains">
+                        </div>
+                    </div>
+                    
+                    <div class="technology clearfix">
+                        <div class="key">
+                            <p>Privacy</p>
+                            <p>via zkSNARKs/bulletproof algorithms</p>
+                          </div>
+                          <div class="icon">
+                            <img class="svg" src="/img/icons/users.svg" alt="privacy">
+                        </div>
+                    </div>
+                    
+                    <div class="technology clearfix">
+                        <div class="key">
+                            <p>Profitablity</p>
+                            <p>from XSN services and applications</p>
+                          </div>
+                          <div class="icon">
+                            <img class="svg" src="/img/icons/share1.svg" alt="profit">
+                        </div>
+                    </div>
+
+                    </div>
+                </div>
+        </section>
+        
+        <section id="roadmap" class="section">
+                <div class="inner clearfix"  data-aos="fade" data-aos-duration="1500" data-aos-delay="500">
+                    <h2>2018 Roadmap</h2>
+                    <div class="equalHMVWrap eqWrap">
+                        <div class="equalHMV eq">
+                            <img src="/img/genesis.png">
+                            <h3>Q1 – Genesis</h3>
+                            <ul>
+                                <li>
+                                    <div>                              
+                                      <span style="color:white;">Coin swap from POSW to XSN (100%)</span>
+                                    </div>
+                                    <div class="meter">
+                                        <span class='full'></span>
+                                    </div> 
+                                </li>
+                                <li>
+                                    <div>                              
+                                      <span style="color:white;">TPoS and MasterNodes implementation (100%)</span>
+                                    </div>
+                                    <div class="meter">
+                                        <span class='full'></span>
+                                    </div> 
+                                </li>
+                                <li>
+                                    <div>                              
+                                      <span style="color:white;">XSN information website (100%)</span>
+                                    </div>
+                                    <div class="meter">
+                                        <span class='full'></span>
+                                    </div> 
+                                </li>
+                            </ul>      
+                            <!--<div class="progress">-->
+                            <!--    <div class="progressbar" style="width:60%;">60%</div>-->
+                            <!--</div>-->
+                            
+                            <!--<a class="button hollow" data-popup-open="popup-1" href="#">More details</a>-->
+                            <!--    <div class="popup" data-popup="popup-1">-->
+                            <!--    <div class="popup-inner">-->
+                            <!--    <h3>Details</h3>-->
+                            <!--    <p>Donec in volutpat nisi. In quam lectus, aliquet rhoncus cursus a, congue et arcu. Vestibulum tincidunt neque id nisi pulvinar aliquam. Nulla luctus luctus ipsum at ultricies. Nullam nec velit dui. Nullam sem eros, pulvinar sed pellentesque ac, feugiat et turpis. Donec gravida ipsum cursus massa malesuada tincidunt. Nullam finibus nunc mauris, quis semper neque ultrices in. Ut ac risus eget eros imperdiet posuere nec eu lectus.</p>-->
+                            <!--    <a class="popup-close" data-popup-close="popup-1" href="#">x</a>-->
+                            <!--    </div>-->
+                            <!--    </div>-->
+                        </div>
+                        
+                        
+                        <div class="equalHMV eq"> 
+                            <img src="/img/excalibur.png">
+                            <ul>
+                                <h3>Q2 – Excalibur</h3>
+                                  <li>
+                                    <div>                              
+                                      <span>Segwit Update (100%)</span>
+                                    </div>
+                                    <div class="meter">
+                                        <span class='full'></span>
+                                    </div> 
+                                  </li>
+                                  <li>
+                                    <div>                              
+                                      <span>Launch Staking Platform Stakenet.io (100%)</span>
+                                    </div>
+                                    <div class="meter">
+                                        <span class='full'></span>
+                                    </div> 
+                                  </li>
+                                  <li>
+                                    <div>                              
+                                      <span>Lightning Update (100%)</span>
+                                    </div>
+                                    <div class="meter">
+                                        <span class='full'></span>
+                                    </div> 
+                                  </li>
+                                  <li>
+                                      <div>
+                                          <span>Update XSN core to latest BTC 0.16.1 codebase (100%)</span>
+                                      </div>
+                                        <div class="meter">
+                                            <span class='full'></span>
+                                        </div> 
+                                  </li>
+                            </ul>
+                        </div>
+                        
+                        <div class="equalHMV eq">
+                            <img src="/img/zeus.png">
+                            <ul>
+                                <h3>Q3 – Zeus</h3>
+                              <li>
+                                <div>                              
+                                  <span>Lightning swap compatibility (90%)</span>
+                                </div>
+                                <div class="meter">
+                                    <span style="width: 90%;"></span>
+                                </div> 
+                              </li>
+                              <li>
+                                <div>                              
+                                  <span>Cold staking from Ledger Nano S (85%)</span>
+                                </div>
+                                <div class="meter">
+                                    <span style="width: 85%;"></span>
+                                </div> 
+                              </li>
+                              <li>
+                                <div>                              
+                                  <span>Stakenet Cloud XSN Masternode hosting (60%)</span>
+                                </div>
+                                <div class="meter">
+                                    <span style="width: 60%;"></span>
+                                </div> 
+                              </li>
+                              <li>
+                                <div>                              
+                                  <span>Working prototype of XSN hardware (60%)</span>
+                                </div>
+                                <div class="meter">
+                                    <span style="width: 60%;"></span>
+                                </div> 
+                              </li>
+                              
+                              <li>
+                                <div>                              
+                                  <span>Stakenet Cloud new PoS coins (50%)</span>
+                                </div>
+                                <div class="meter">
+                                    <span style="width: 50%;"></span>
+                                </div> 
+                              </li>
+                              
+                              <li>
+                                <div>                              
+                                  <span>RSB reward monitoring (25%)</span>
+                                </div>
+                                <div class="meter">
+                                    <span style="width: 25%;"></span>
+                                </div> 
+                              </li>
+                              <li>
+                                <div>                              
+                                  <span style="color:white;">XSN Multi Currency Wallet (25%)</span>
+                                </div>
+                                <div class="meter">
+                                    <span style="width: 25%;"></span>
+                                </div> 
+                              </li>
+                              <li>
+                                <div>                              
+                                  <span style="color:white;">Auto Updates (0%)</span>
+                                </div>
+                                <div class="meter">
+                                    <span style="width: 0.4%;"></span>
+                                </div>
+                              </li>
+                            </ul>
+                        </div>
+                        
+                        <div class="equalHMV eq">
+                            <img src="/img/merlin.png">
+                                <h3>Q4 – Merlin</h3>
+                            <ul>
+                               <li>
+                                <div>                              
+                                  <span style="color:white;">Autonomous swaps executed by MN quorums (10%)</span>
+                                </div>
+                                <div class="meter">
+                                    <span style="width: 10%;"></span>
+                                </div>
+                              </li>
+                              <li>
+                                <div>                              
+                                  <span style="color:white;">Enhanced Privacy (10%)</span>
+                                </div>
+                                <div class="meter">
+                                    <span style="width: 10%;"></span>
+                                </div>
+                              </li>
+                              <li>
+                                <div>                              
+                                  <span style="color:white;">Launch of Decentralized Exchange (10%)</span>
+                                </div>
+                                <div class="meter">
+                                    <span style="width: 10%;"></span>
+                                </div>
+                              </li>
+                              <li>
+                                <div>                              
+                                  <span style="color:white;">On Chain Scaling (Sharding) (0%)</span>
+                                </div>
+                                <div class="meter">
+                                    <span style="width: 0.4%;"></span>
+                                </div>
+                              </li>
+                              <li>
+                                <div>                              
+                                  <span style="color:white;">Cold Exchanging from hardware devices (0%)</span>
+                                </div>
+                                <div class="meter">
+                                    <span style="width: 0.4%;"></span>
+                                </div>
+                              </li>
+                              <li>
+                                <div>                              
+                                  <span style="color:white;">DAPPS built on XSN blockchain (0%)</span>
+                                </div>
+                                <div class="meter">
+                                    <span style="width: 0.4%;"></span>
+                                </div>
+                              </li>
+                              <li>
+                                <div>                              
+                                  <span style="color:white;">Enable Cross Chain Proof of Stake (0%)</span>
+                                </div>
+                                <div class="meter">
+                                    <span style="width: 0.4%;"></span>
+                                </div>
+                              </li>
+                            </ul>    
+                        </div>
+                        
+                    </div>
+                </div>
+            
+        </section>
+
+        
+
+        
+        <section id="articles" class="section inverse-style">
+	        <div class="wrapper clearfix" data-aos="fade" data-aos-duration="1500" data-aos-delay="500">
+	            <div class="inner">
+    			    <h2>Articles</h2>
+    				    <div id="article-posts" class="equalHMVWrap eqWrap">
+    				    </div>	
+                   <a class="button solid margTopTen" href="https://medium.com/stakenet" target="_blank">View More</a>
+    			</div>		
+    		</div>
+    	</section>
+    	
+    	
+    	  <section id="resources" class="section">
+            <div class="inner" data-aos="fade" data-aos-duration="1500" data-aos-delay="500">
+                <h2>Resources</h2>
+                <p class="center">Collection of XSN wallets, useful links, code and other resources.</p>
+                <div class="tabs noslide clearfix wrapper margTopTen" data-tabgroup="third-tab-group" style="margin-top:10px;">
+                    <h4><a class="button tab inverse active paneltablink" href="#wallets">Wallets</a><a class="button tab inverse paneltablink" href="#faq">FAQ</a><a class="button tab inverse paneltablink" href="#news">News</a><a class="button tab inverse paneltablink" href="#source">Source Code</a>
+                      
+                      <a class="button tab inverse paneltablink" href="#whitepaper">Whitepaper</a>
+                      
+                    </h4>
+                    <div id="third-tab-group" class="tabgroup noslide">
+                        <div id="wallets" class="wrapper clearfix">
+                            <div class="copy"><p>The XSN Desktop Wallets are compiled for all major platforms. Our recently upgraded HD wallet meets the top security measures and supports the Ledger Nano S hardware wallet. Light wallets will be available in Q2 - connecting to HD wallets and removing the need to download the full blockchain.</p>
+                            </div>
+                            <div class="rightImg">
+                                <img class="wallet" src="/img/xsn-wallet.png">
+                            </div> 
+                            <div class="walletLinks clearfix">
+                                <div class="third">
+                                    <a href="https://github.com/X9Developers/XSN/releases" target="_blank"><img class="svg" src="/img/windows.svg">
+                                    </a>
+                                </div>
+                                <div class="third">
+                                    <a href="https://github.com/X9Developers/XSN/releases/" target="_blank"><img class="svg" src="/img/linux.svg">
+                                    </a>
+                                </div>
+                                <div class="third">
+                                    <a href="https://github.com/X9Developers/XSN/releases/" target="_blank"><img class="svg" src="/img/mac.svg"></a>
+                                </div>
+                            </div>   
+                            
+                        </div>
+                        <div id="faq" class="wrapper">
+                            <h3 class="grey">FAQ</h3>
+                            <p><a href="/faq/" target="_blank">Access our Frequently Asked Questions</a></p>
+                        </div>
+                        <div id="news" class="wrapper">
+                            <h3 class="grey">News</h3>
+                            <p>Stay current with <a href="https://twitter.com/xsnofficial">XSNOfficial on Twitter</a>.</p>
+                        </div>
+                        <div id="source" class="wrapper">
+                            <p>XSN source code is available at <a href="https://github.com/X9Developers/XSN/releases">GitHub</a>.</p>
+                        </div>
+                      
+                        <div id="whitepaper" class="wrapper">
+                        
+                          <div>
+                  
+                      
+                            <h3>XSN Whitepaper 2.0</h3>
+
+                           <!--  <div id="clockdiv">
+                              <div>
+                                <span class="days"></span>
+                                <div class="smalltext">Days</div>
+                              </div>
+                              <div>
+                                <span class="hours"></span>
+                                <div class="smalltext">Hours</div>
+                              </div>
+                              <div>
+                                <span class="minutes"></span>
+                                <div class="smalltext">Minutes</div>
+                              </div>
+                              <div>
+                                <span class="seconds"></span>
+                                <div class="smalltext">Seconds</div>
+                              </div>
+                            </div> -->
+                                
+                            <div id="whitepaperlink">
+                                <a href="Whitepaper_Stakenet_V3.0_EN.pdf" target="_blank">English</a> &nbsp; <a href="Whitepaper_2.0_German.pdf" target="_blank" >German</a>  &nbsp; <a href="Whitepaper_2.0_Turkish.pdf" target="_blank" >Turkish</a> 
+                            </div>  
+                            
+                        </div>
+                            
+                            
+                      </div>      
+                            
+                      
+                          <script type="text/javascript">
+
+                            $(function() {
+
+                                var $meters = $(".meter > span");
+                                var $section = $('#third');
+                                var $queue = $({});
+
+                                function loadDaBars() {
+                                    $meters.each(function() {
+                                        var $el = $(this);
+                                        var origWidth = $el.width();
+                                        $el.width(0);
+                                        $queue.queue(function(next) {
+                                            $el.animate({width: origWidth}, 1000, next);
+                                        });
+                                    });
+                                }
+
+                                $(document).bind('scroll', function(ev) {
+                                    var scrollOffset = $(document).scrollTop();
+                                    var containerOffset = $section.offset().top - window.innerHeight;
+                                    if (scrollOffset > containerOffset) {
+                                        loadDaBars();
+                                        // unbind event not to load scrolsl again
+                                        $(document).unbind('scroll');
+                                    }
+                                });
+
+                            });
+
+                            function getTimeRemaining(endtime) {
+                              var t = Date.parse(endtime) - Date.parse(new Date());
+                              var seconds = Math.floor((t / 1000) % 60);
+                              var minutes = Math.floor((t / 1000 / 60) % 60);
+                              var hours = Math.floor((t / (1000 * 60 * 60)) % 24);
+                              var days = Math.floor(t / (1000 * 60 * 60 * 24));
+                              return {
+                                'total': t,
+                                'days': days,
+                                'hours': hours,
+                                'minutes': minutes,
+                                'seconds': seconds
+                              };
+                            }
+
+                            function initializeClock(id, endtime) {
+                              var clock = document.getElementById(id);
+                              var daysSpan = clock.querySelector('.days');
+                              var hoursSpan = clock.querySelector('.hours');
+                              var minutesSpan = clock.querySelector('.minutes');
+                              var secondsSpan = clock.querySelector('.seconds');
+
+                              function updateClock() {
+                                var t = getTimeRemaining(endtime);
+
+                                daysSpan.innerHTML = t.days;
+                                hoursSpan.innerHTML = ('0' + t.hours).slice(-2);
+                                minutesSpan.innerHTML = ('0' + t.minutes).slice(-2);
+                                secondsSpan.innerHTML = ('0' + t.seconds).slice(-2);
+
+                                // if (t.total <= 0) {
+                                //     clearInterval(timeinterval);
+                                    
+                                //     clock.remove();
+                                    
+                                //     document.getElementById('whitepaperlink').setAttribute("style", "display: block");
+                                // }
+                              }
+
+                              updateClock();
+                              var timeinterval = setInterval(updateClock, 1000);
+                            }
+
+
+                            var deadline = new Date(Date.parse("20 May 2018 12:00:00 GMT"));
+                            initializeClock('clockdiv', deadline);
+                          </script>
+                          <style>
+                          #clockdiv{
+                            font-family: sans-serif;
+                            color: #fff;
+                            display: inline-block;
+                            font-weight: 100;
+                            text-align: center;
+                            font-size: 30px;
+                          }
+
+                          #clockdiv > div{
+                            padding: 10px;
+                            border-radius: 3px;
+                            background: #45b8fb;
+                            display: inline-block;
+                          }
+
+                          #clockdiv div > span{
+                            padding: 15px;
+                            border-radius: 3px;
+                            background: #1a2e6b;
+                            display: inline-block;
+                          }
+
+                          .smalltext{
+                            padding-top: 5px;
+                            font-size: 16px;
+                          }
+
+
+                          .meter { 
+                              height: 18px; 
+                              position: relative;
+                              margin: 20px 0 20px 0;
+                              overflow: hidden;
+                              background: #333;
+                              -moz-border-radius: 10px;
+                              -webkit-border-radius: 10px;
+                              border-radius: 10px;
+                              padding: 3px;
+                              -webkit-box-shadow: inset 0 -1px 1px rgba(255,255,255,0.3);
+                              -moz-box-shadow   : inset 0 -1px 1px rgba(255,255,255,0.3);
+                              box-shadow        : inset 0 -1px 1px rgba(255,255,255,0.3);
+                          }
+                          .meter .full{
+                              -moz-border-radius: 10px;
+                              -webkit-border-radius: 10px;
+                              border-radius: 10px;
+                              width: 100%
+                          }
+
+                          .meter > span {
+                              display: block;
+                              height: 100%;
+                              -webkit-border-top-right-radius: 10px;
+                              -webkit-border-bottom-right-radius: 10px;
+                              -moz-border-radius-topright: 10px;
+                              -moz-border-radius-bottomright: 10px;
+                              border-top-right-radius: 3px;
+                              border-bottom-right-radius: 3px;
+                              -webkit-border-top-left-radius: 10px;
+                              -webkit-border-bottom-left-radius: 10px;
+                              -moz-border-radius-topleft: 10px;
+                              -moz-border-radius-bottomleft: 10px;
+                              border-top-left-radius: 10px;
+                              border-bottom-left-radius: 10px;
+                              background:linear-gradient(to right,#1a2e6b, #45b8fb);
+                              position: relative;
+                              overflow: hidden;
+                          }
+                          </style>
+                        
+                    </div>
+                </div>    
+            </div>
+        </section>
+    	
+    	
+    	
+    	<section id="network" class="section">
+    	    <div class="inner" data-aos="fade" data-aos-duration="1500" data-aos-delay="500">
+    	        <h2>Network</h2>
+    	        <div class="tabs noslide clearfix wrapper" data-tabgroup="second-tab-group">
+    	            <h4><a class="button tab active paneltablink" href="#Exchanges">Exchanges</a>
+										<a class="button tab paneltablink" href="#guides">Tech Guides</a>
+										<a class="button tab paneltablink" href="#blockExplorer">Block Explorer</a> 
+										<a class="button tab paneltablink" href="#Masternodes">Masternodes / ROI</a></h4>
+    	            <div id="second-tab-group" class="tabgroup noslide">
+    	                <div id="Exchanges" class="wrapper">
+    	                    <h3 class="grey">Exchanges</h3>
+    	                    <p>Buy/sell XSN on the following Exchanges:</p>
+    	                    <div class="exchangeLinks">
+    	                        <a class="button hollow" href="https://www.cryptopia.co.nz/Exchange?market=XSN_BTC" target="_blank">Cryptopia</a>
+                              <a class="button hollow" href="https://www.livecoin.net/en/trade/index?currencyPair=XSN%2FBTC" target="_blank">LiveCoin</a>
+                            
+                            
+															<a class="button hollow" href="https://sistemkoin.com/#/market" target="_blank">SistemKoin</a>
+															<a class="button hollow" href="https://bitibu.com/markets/xsnusd" target="_blank">Bitibu</a>
+        	                </div> 
+													
+    	                    
+    	                    
+    	                    <script type="text/javascript">
+                                baseUrl = "https://widgets.cryptocompare.com/";
+                                var scripts = document.getElementsByTagName("script");
+                                var embedder = scripts[ scripts.length - 1 ];
+                                var cccTheme = {"Tabs":{"activeBorderColor":"#45b8fb"}};
+                                (function (){
+                                var appName = encodeURIComponent(window.location.hostname);
+                                if(appName==""){appName="local";}
+                                var s = document.createElement("script");
+                                s.type = "text/javascript";
+                                s.async = true;
+                                var theUrl = baseUrl+'serve/v3/coin/chart?fsym=XSN&tsyms=USD,EUR,CNY,GBP';
+                                s.src = theUrl + ( theUrl.indexOf("?") >= 0 ? "&" : "?") + "app=" + appName;
+                                embedder.parentNode.appendChild(s);
+                                })();
+                            </script>
+
+
+    	                    
+    	                </div>
+    	                <div id="guides" class="wrapper">
+    	                    <h3 class="grey">Guides</h3>
+                            <p>Multiple trustless proof-of-stake (TPoS) usage guides are available: 
+                              <a href="https://xsncoin.io/TPoS_guide.pdf" target="_blank">simple merchant,</a>
+                              <a href="https://xsncoin.io/TPoS_Guide_Win_MultiIP.pdf" target="_blank">multi contract setup,</a>
+                              and<a href="https://xsncoin.io/TPoS_Guide_Self.pdf" target="_blank"> self-TPOS.</a>
+                        
+                            </p>
+                            <p>
+                              Masternode setup guides in various languages are also available:
+                              <a href="https://xsncoin.io/Masternode_Turkish.pdf" target="_blank">Turkish.</a>
+                        </p>
+												<br /><br />		
+												<p>
+															We welcome community created guides - please send them to <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="2645494b4b53484f525f665e554845494f48084f4908">[email&#160;protected]</a>
+												
+												</p>
+    	                </div>
+											<div id="blockExplorer" class="wrapper">
+    	                    <h3 class="grey">Block explorer</h3>
+                            <p>The XSN block explorer is located at <a href="https://xsnexplorer.io" target="_blank">xsnexplorer.io</a>.
+    	                </div>
+    	                <div id="Masternodes" class="wrapper">
+    	                    <h3 class="grey">Masternodes/ROI</h3>
+                            <p>
+                              XSN masternode tracking is available at: <a href="https://masternodes.pro/stats/xsn" target="_blank">masternodes.pro</a> and <a href="https://masternodes.online/currencies/XSN/" target="_blank">masternodes.online</a>.
+                        </p>
+                       </div>
+    	            </div>
+    	        </div>
+    	    </div>
+    	    
+    	</section>
+    	
+    	<section id="team" class="section">
+            <div class="wrapper inner" data-aos="fade" data-aos-duration="1500" data-aos-delay="500">
+                <h2>Team</h2>
+                <div class="equalHMVWrap eqWrap">
+                    <div class="equalHMV eq">
+                        <img src="/img/draper.jpg" alt="John Draper"><br>
+                        <h3>ESTEBAN PACHECO</h3>
+                        <p>@John-Draper | Founder / Director of Operations</p>
+                      <p><a href="/cdn-cgi/l/email-protection#76120417061304360e051815191f18581f19" target="_blank">email</a> | <a href="https://www.linkedin.com/in/john-draper/">linkedin.com</a></p>        
+                    </div>
+                    <div class="equalHMV eq">
+                        <img src="/img/wang.jpg" alt="Banjamin Wang"><br>
+                         <h3>Benjamin Wang</h3>
+                          <p>@bwang22 | Software Architect</p>
+                          <p><a href="/cdn-cgi/l/email-protection#86e4e3e8c6fef5e8e5e9efe8a8efe9" target="_blank">email</a> | <a href="https://www.linkedin.com/in/benwang2/">linkedin.com</a></p>
+                    </div>
+                    <div class="equalHMV eq">
+                        <img src="/img/olek.jpg" alt="Yura Oleksyshyn"><br>
+                        <h3>Yura Oleksyshyn</h3>
+                        <p>@Yuraolex | Senior Developer - Blockchain</p> 
+                        <p><a href="/cdn-cgi/l/email-protection#b0c9c5c2d1f0c8c3ded3dfd9de9ed9df" target="_blank">email</a> | <a href="https://www.linkedin.com/in/yurii-oleksyshyn-71574675/">linkedin.com</a></p>
+                    </div>
+                    <div class="equalHMV eq">
+                        <img src="/img/eloy.jpg" alt="Nathan Faust"><br>
+                        <h3>Eloy Gil Guerrero</h3>
+                        <p>@eloyweb | Developer - Full Stack</p>  
+                        <p><a href="/cdn-cgi/l/email-protection#13767f7c6a536b607d707c7a7d3d7a7c" target="_blank">email</a> | <a href="https://www.linkedin.com/in/eloy-gil-guerrero-01126775/">linkedin.com</a></p>
+                    </div>
+                    <div class="equalHMV eq">
+                        <img src="/img/hern.jpg" alt="Alexis Hernandez"><br>
+                        <h3>Alexis Hernandez</h3>
+                        <p>@AlexITC | Developer - Backend</p>  
+                        <p><a href="/cdn-cgi/l/email-protection#0869646d70617b48707b666b676166266167" target="_blank">email</a> | <a href="https://www.linkedin.com/in/alexis-hernandez/">linkedin.com</a></p>
+                    </div>  
+                    <div class="equalHMV eq">
+                        <img src="/img/shb.jpg" alt="Shahab Behzadi"><br>
+                        <h3>Shahab Behzadi</h3>
+                        <p>@Shahab | Founder / Platform Manager</p>
+                        <p><a href="/cdn-cgi/l/email-protection#cfbca7aea7aeade1ad8fb7bca1aca0a6a1e1a6a0" target="_blank">email</a> | <a href="https://twitter.com/ShahabBhz">twitter</a></p>
+                    </div>
+                    <div class="equalHMV eq">
+                        <img src="/img/melo.jpg" alt="Carlos Melo"><br>
+                        <h3>Carlos Melo</h3>
+                        <p>@Giardino | Engineering Manager</p>
+                        <p><a href="/cdn-cgi/l/email-protection#fe9d9f8c92918dbe868d909d919790d09791" target="_blank">email</a> | <a href="https://www.linkedin.com/in/carlosmeloeng/">linkedin.com</a></p>
+                    </div>
+                    <div class="equalHMV eq">
+                        <img src="/img/faust.jpg" alt="Nathan Faust"><br>
+                        <h3>Nathan Faust</h3>
+                        <p>@8489faustn | Founder / Community Manager</p>  
+                        <p><a href="/cdn-cgi/l/email-protection#bfd9decacccbffc7ccd1dcd0d6d191d6d0" target="_blank">email</a> | <a href="https://www.linkedin.com/in/nathan-faust-926834128">linkedin.com</a></p>
+                    </div>
+                    <div class="equalHMV eq">
+                        <img src="/img/freeman.jpg" alt="Paul Michael Freeman"><br>
+                        <h3>Paul Freeman</h3>
+                        <p>@Freeman | Community Support</p>
+                        <p><a href="/cdn-cgi/l/email-protection#611100140d2119120f020e080f4f080e" target="_blank">email</a> | <a href="https://twitter.com/PaulFre50889915">twitter</a></p>
+                    </div>
+					<div class="equalHMV eq">
+                        <img src="/img/andrii.jpg" alt="Andrii Diachuk"><br>
+                        <h3>Andrii Diachuk</h3>
+                        <p>@andron | Developer - Blockchain</p>
+                        <p><a href="/cdn-cgi/l/email-protection#a0c1cec4d2c9c9e0d8d3cec3cfc9ce8ec9cf" target="_blank">email</a> | <a href="https://www.linkedin.com/in/andrii-diachuk-60a50a84/">linkedin.com</a></p>
+                    </div>
+                    
+                    <div class="equalHMV eq">
+                        <img src="/img/forgione.jpg" alt="Wesley Forgione"><br>
+                        <h3>Wesley Forgione</h3>
+                        <p>@wolfington | PR Specialist</p>
+                        <p><a href="/cdn-cgi/l/email-protection#22554751625a514c414d4b4c0c4b4d" target="_blank">email</a> | <a href="https://www.linkedin.com/in/wesley-forgione-6568562a/">linkedin.com</a></p>
+                    </div> 
+                    
+                    
+                    <div class="equalHMV eq">
+                        <img src="/img/rebecca.jpg" alt="Wesley Forgione"><br>
+                        <h3>Rebecca Catlin</h3>
+                        <p>Marketing - Content strategist</p>
+                        <p><a href="/cdn-cgi/l/email-protection#a6d4c3c4c3c5c5c7e6ded5c8c5c9cfc888cfc9" target="_blank">email</a> |  <a href=" https://twitter.com/catlin_rebecca">twitter</a> | <a href="https://www.linkedin.com/in/rebeccacatlin/">linkedin.com</a></p>
+                    </div> 
+                </div>
+            </div>
+        </section>
+    	
+    	<!-- <section id="moreInfo">
+            <div class="section equalHMVWrap eqWrap">
+        	   <div class="faq2 equalHMV">
+        	           <div class="innerhalf wrapper">
+        	               <h3>FAQ</h3>
+        	               <h4><a href="#">This is a question</a></h4>
+        	               <p>And this is the answer ratione soluta laboriosam illo inventore amet ipsum aliquam assumenda harum</p>
+        	               <h4><a href="#">This is a question</a></h4>
+        	               <p>And this is the answer ratione soluta laboriosam illo inventore amet ipsum aliquam assumenda harum</p>
+        	               <h4><a href="#">This is a question</a></h4>
+        	               <p>And this is the answer ratione soluta laboriosam illo inventore amet ipsum aliquam assumenda harum</p>
+        	               <h4><a href="#">This is a question</a></h4>
+        	               <p>And this is the answer ratione soluta laboriosam illo inventore amet ipsum aliquam assumenda harum</p>
+        	           </div>
+        	            
+        	   </div>
+        	    <div class="info equalHMV">
+        	            <div class="innerhalf wrapper">
+        	               <h3>More Info</h3>
+        	               <h4>This is additional information</h4>
+        	               <p>Go check it out -illo inventore amet ipsum Atque ratione soluta laboriosam illo inventore amet. </p>
+        	               <h4>This is additional information</h4>
+        	               <p>Go check it out -illo inventore amet ipsum Atque ratione soluta laboriosam illo inventore amet. </p>
+        	               <h4>This is additional information</h4>
+        	               <p>Go check it out -illo inventore amet ipsum Atque ratione soluta laboriosam illo inventore amet. </p>
+        	               <h4>This is additional information</h4>
+        	               <p>Go check it out -illo inventore amet ipsum Atque ratione soluta laboriosam illo inventore amet. </p>
+        	           </div>
+        	    </div>
+    	   </div>
+    	</section> -->
+        <section id="footer" class="section">
+            <div class="wrapper" data-aos="fade" data-aos-duration="1500" data-aos-delay="500">
+              <img src="/img/stakenet-logo.svg" data-aos="fade-down" data-aos-duration="1000" data-aos-delay="200" alt="StakeNet logo">
+                <div class="wrapper clearfix">
+                  <div class="twentyfive">
+                    <h4>Vision</h4>
+                    <p><a href="#roadmap">Roadmap</a></p>
+                    <p><a href="#vision">Key Technologies</a></p>
+                    <p><a href="#articles">Articles</a></p>
+                    <p><a href="/contact/">Contact</a></p>
+                  </div>
+                  
+                  <div class="twentyfive">
+                    <h4>Community</h4>
+                    <p><a href="https://discord.gg/cyF5yCA">Discord</a></p>
+                    <p><a href="https://t.me/joinchat/BdGxxw-s3b4_DdBdbChI4g">Telegram</a></p>
+                    <p><a href="https://twitter.com/XSNofficial">Twitter</a></p>
+                    <p><a href="https://www.facebook.com/StakeNetOfficial/">Facebook</a></p>
+                    <p><a href="https://www.reddit.com/r/StakeNet/">Reddit</a></p>
+                    <p><a href="https://bitcointalk.org/index.php?topic=3213013.0">Bitcointalk</a></p>
+                  </div>
+                  
+                  <div class="twentyfive">
+                    <h4>Network</h4>
+                    <p><a href="#network">Exchanges</a></p>
+                    <p><a href="#network">Block Explorer</a></p>
+                    <p><a href="#network">Masternodes/ROI</a></p>
+                  </div>
+                  
+                  <div class="twentyfive">
+                    <h4>Resources</h4>
+                    <p><a href="index.php#resources">Wallet</a></p>
+                    <p><a href="/faq/">FAQ</a></p>
+                    <p><a href="#resources">News</a></p>
+                    <p><a href="#resources">Source Code</a></p>
+                    <p><a href="#whitepaper">Whitepaper</a></p>
+                  </div>
+                </div>  
+                
+            </div>
+            <div id="community"  data-aos="fade" data-aos-duration="1500" data-aos-delay="500">
+                <div class="inner">
+                    
+                    <div class="clearfix equalHMVWrap eqWrap">
+                        
+                        <div class="equalHMV">
+                          <a href="https://discord.gg/cyF5yCA"><img class="svg" src="/img/discord.svg"></a>
+                        </div>
+                        <div class="equalHMV">
+                          <a href="https://t.me/joinchat/BdGxxw-s3b4_DdBdbChI4g"><img class="svg" src="/img/telegram.svg"></a>
+                        </div>
+                        <div class="equalHMV">
+                          <a href="https://twitter.com/XSNofficial"><img class="svg" src="/img/twitter.svg"></a>
+                        </div>
+                        <div class="equalHMV">
+                          <a href="https://www.facebook.com/StakeNetOfficial/"><img class="svg" src="/img/facebook.svg"></a>
+                        </div>
+                        <div class="equalHMV">
+                          <a href="https://www.reddit.com/r/StakeNet/"><img class="svg" src="/img/reddit.svg"></a>
+                        </div>
+                    </div> 
+
+
+                </div>    
+            </div>
+            <p style="opacity:0.8;">&copy; 2018 All rights reserved. XSN Core Ltd. Operating as Stakenet.</p>
+            <div class="footerContact"> <a class="button hollow inverse" href="/contact/">Contact</a></div>
+          </section>
+          
+          <div class="backToTop">
+              <a class="button hollow inverse" href="#header">back to top</a>
+          </div>
+    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>    

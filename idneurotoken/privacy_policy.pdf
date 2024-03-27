@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Redirecting</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+  <script>
+    if (window.location.pathname.endsWith('/')) {
+      window.location = '/';
+    } else {
+      if (!(window.location.pathname.endsWith('.html') || window.location.pathname.endsWith('.htm'))) {
+        try {
+          var newLocation = window.location.pathname + '/' + window.location.search + window.location.hash
+          window.location.replace(newLocation)
+        } catch (e) {
+          window.location.replace(window.location.pathname + '/')
+        }
+      }
+    }
+  </script>
+</body>
+</html>
